@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="finish_setup_tiama_csbc_lo_for_multistation_3" xml:lang="en-us">
+  <title>Finish Setup - Tiama - CSBC-LO for MultiStation 3</title>
+  <shortdesc>Approved: 2016-01-29</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Finish</keyword>
+        <keyword>Setup</keyword>
+        <keyword>Tiama</keyword>
+        <keyword>CSBC</keyword>
+        <keyword>MultiStation</keyword>
+        <keyword>Approved</keyword>
+        <indexterm>Finish</indexterm>
+        <indexterm>Setup</indexterm>
+        <indexterm>Tiama</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Approved: 2016-01-29</p>
+  </conbody>
+</concept>

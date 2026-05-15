@@ -1,115 +1,5 @@
 {
-  "Instructions": {
-    "topic_type": "task",
-    "confidence": "low",
-    "reasoning": "Heuristic fallback due to API error",
-    "ontology_hints": {},
-    "semantic_signals": {
-      "structural_signals": {
-        "heading_depth": 1,
-        "parent_title": "",
-        "position_in_doc": 0.222,
-        "paragraph_count": 1,
-        "step_list_count": 0,
-        "table_count": 0,
-        "has_code_block": false
-      },
-      "lexical_signals": {
-        "task_verb_hits": 9,
-        "concept_pattern_hits": 6,
-        "reference_pattern_hits": 1,
-        "imperative_sentence_ratio": 0.0,
-        "avg_paragraph_length_words": 417
-      },
-      "context_frame": "descriptive",
-      "keyword_set": [
-        "container",
-        "test",
-        "work",
-        "instruction",
-        "perform",
-        "following",
-        "equipment",
-        "Instructions",
-        "activity",
-        "steps",
-        "appropriate",
-        "squeeze"
-      ],
-      "compact_excerpt": "Instructions Before starting the work instruction activity, perform the following steps: Do not begin these tasks without confirmation that personnel directly involved have completed the required training associated with the work instruction activity and have reviewed this document. Gather necessary tools and equipment as identified below in the Equipment Section. Wear and use additional Personal "
-    },
-    "classified_at": 1778829549.0780487
-  },
-  "Application": {
-    "topic_type": "topic",
-    "confidence": "low",
-    "reasoning": "Heuristic fallback due to API error",
-    "ontology_hints": {},
-    "semantic_signals": {
-      "structural_signals": {
-        "heading_depth": 1,
-        "parent_title": "",
-        "position_in_doc": 0.333,
-        "paragraph_count": 1,
-        "step_list_count": 0,
-        "table_count": 0,
-        "has_code_block": false
-      },
-      "lexical_signals": {
-        "task_verb_hits": 0,
-        "concept_pattern_hits": 0,
-        "reference_pattern_hits": 0,
-        "imperative_sentence_ratio": 0.0,
-        "avg_paragraph_length_words": 10
-      },
-      "context_frame": "descriptive",
-      "keyword_set": [
-        "Application",
-        "work",
-        "instruction",
-        "applies",
-        "Manufacturing",
-        "Facilities"
-      ],
-      "compact_excerpt": "Application This work instruction applies to all O-I Manufacturing Facilities."
-    },
-    "classified_at": 1778829549.087209
-  },
-  "Equipment Validation Process - Squeeze Testers": {
-    "topic_type": "concept",
-    "confidence": "low",
-    "reasoning": "Heuristic fallback due to API error",
-    "ontology_hints": {},
-    "semantic_signals": {
-      "structural_signals": {
-        "heading_depth": 1,
-        "parent_title": "",
-        "position_in_doc": 0.111,
-        "paragraph_count": 1,
-        "step_list_count": 0,
-        "table_count": 0,
-        "has_code_block": false
-      },
-      "lexical_signals": {
-        "task_verb_hits": 0,
-        "concept_pattern_hits": 0,
-        "reference_pattern_hits": 0,
-        "imperative_sentence_ratio": 0.0,
-        "avg_paragraph_length_words": 7
-      },
-      "context_frame": "introductory",
-      "keyword_set": [
-        "Equipment",
-        "Validation",
-        "Process",
-        "Squeeze",
-        "Testers"
-      ],
-      "compact_excerpt": "Equipment Validation Process - Squeeze Testers 2015-07-31"
-    },
-    "classified_at": 1778829549.0953891
-  },
-  "Equipment": {
+  "Finish Setup - Tiama - CSBC-LO for MultiStation 3": {
     "topic_type": "concept",
     "confidence": "low",
     "reasoning": "Heuristic fallback due to API error",
@@ -129,23 +19,21 @@
         "concept_pattern_hits": 0,
         "reference_pattern_hits": 0,
         "imperative_sentence_ratio": 0.0,
-        "avg_paragraph_length_words": 17
+        "avg_paragraph_length_words": 11
       },
       "context_frame": "introductory",
       "keyword_set": [
-        "Equipment",
-        "inch",
-        "conical",
-        "grit",
-        "abrasive",
-        "Commercial",
-        "container",
-        "passed",
-        "inspection"
+        "Finish",
+        "Setup",
+        "Tiama",
+        "CSBC",
+        "LO",
+        "MultiStation",
+        "Approved"
       ],
-      "compact_excerpt": "Equipment 3 mm (1/8 inch) conical 120 grit abrasive bit Commercial container(s) that has passed all inspection."
+      "compact_excerpt": "Finish Setup - Tiama - CSBC-LO for MultiStation 3 Approved: 2016-01-29"
     },
-    "classified_at": 1778829549.164881
+    "classified_at": 1778834422.413075
   },
   "Purpose": {
     "topic_type": "topic",
@@ -156,7 +44,7 @@
       "structural_signals": {
         "heading_depth": 1,
         "parent_title": "",
-        "position_in_doc": 0.444,
+        "position_in_doc": 0.375,
         "paragraph_count": 1,
         "step_list_count": 0,
         "table_count": 0,
@@ -167,7 +55,7 @@
         "concept_pattern_hits": 0,
         "reference_pattern_hits": 0,
         "imperative_sentence_ratio": 0.0,
-        "avg_paragraph_length_words": 11
+        "avg_paragraph_length_words": 14
       },
       "context_frame": "descriptive",
       "keyword_set": [
@@ -175,13 +63,56 @@
         "define",
         "work",
         "instruction",
-        "validation",
-        "squeeze",
-        "testers"
+        "proper",
+        "device",
+        "setup",
+        "MultiStation",
+        "machines"
       ],
-      "compact_excerpt": "Purpose To define a work instruction for validation of squeeze testers."
+      "compact_excerpt": "Purpose To define a work instruction for proper device setup of MultiStation 3 machines."
     },
-    "classified_at": 1778829549.1995661
+    "classified_at": 1778834422.4360394
+  },
+  "Instructions": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.125,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 104,
+        "concept_pattern_hits": 87,
+        "reference_pattern_hits": 5,
+        "imperative_sentence_ratio": 0.095,
+        "avg_paragraph_length_words": 3546
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "defect",
+        "button",
+        "Press",
+        "screen",
+        "size",
+        "container",
+        "circle",
+        "energy",
+        "green",
+        "parameters",
+        "finish",
+        "using"
+      ],
+      "compact_excerpt": "Instructions Before starting the work instruction activity, perform the following steps: Do not begin these tasks without confirmation that personnel directly involved have completed the required training associated with the work instruction activity and have reviewed this document. Gather necessary tools and equipment as identified below in the Equipment Section. Wear and use additional Personal "
+    },
+    "classified_at": 1778834422.4681025
   },
   "Required Training": {
     "topic_type": "topic",
@@ -192,7 +123,7 @@
       "structural_signals": {
         "heading_depth": 1,
         "parent_title": "",
-        "position_in_doc": 0.667,
+        "position_in_doc": 0.625,
         "paragraph_count": 1,
         "step_list_count": 0,
         "table_count": 0,
@@ -222,9 +153,9 @@
       ],
       "compact_excerpt": "Required Training Before performing this work instruction, applicable personnel must be trained by an authorized trainer on the required training contents listed in this document."
     },
-    "classified_at": 1778829549.4080927
+    "classified_at": 1778834422.4754918
   },
-  "Revision History": {
+  "Application": {
     "topic_type": "topic",
     "confidence": "low",
     "reasoning": "Heuristic fallback due to API error",
@@ -233,7 +164,7 @@
       "structural_signals": {
         "heading_depth": 1,
         "parent_title": "",
-        "position_in_doc": 0.778,
+        "position_in_doc": 0.25,
         "paragraph_count": 1,
         "step_list_count": 0,
         "table_count": 0,
@@ -244,21 +175,20 @@
         "concept_pattern_hits": 0,
         "reference_pattern_hits": 0,
         "imperative_sentence_ratio": 0.0,
-        "avg_paragraph_length_words": 9
+        "avg_paragraph_length_words": 10
       },
-      "context_frame": "mixed",
+      "context_frame": "descriptive",
       "keyword_set": [
-        "Revision",
-        "History",
-        "Approved",
-        "Bob",
-        "Morin",
-        "Original",
-        "Issue"
+        "Application",
+        "work",
+        "instruction",
+        "applies",
+        "manufacturing",
+        "facilities"
       ],
-      "compact_excerpt": "Revision History 2015-07-31 Approved by Bob Morin Original Issue"
+      "compact_excerpt": "Application This work instruction applies to all O-I manufacturing facilities."
     },
-    "classified_at": 1778829549.4238367
+    "classified_at": 1778834422.47972
   },
   "Safety": {
     "topic_type": "concept",
@@ -269,7 +199,7 @@
       "structural_signals": {
         "heading_depth": 1,
         "parent_title": "",
-        "position_in_doc": 0.889,
+        "position_in_doc": 0.875,
         "paragraph_count": 1,
         "step_list_count": 0,
         "table_count": 0,
@@ -299,6 +229,42 @@
       ],
       "compact_excerpt": "Safety Observe O-I standard safety requirements and procedures defined by the Global Environmental Health & Safety (EH&S) organization, as well as all applicable local, regional, and national requirements. Safety equipment and instructions specific to the completion of this work instruction are detailed in the Instructions Section."
     },
-    "classified_at": 1778829549.4394903
+    "classified_at": 1778834422.833838
+  },
+  "Revision History": {
+    "topic_type": "topic",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.75,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 9
+      },
+      "context_frame": "mixed",
+      "keyword_set": [
+        "Revision",
+        "History",
+        "Approved",
+        "Bob",
+        "Morin",
+        "Original",
+        "Issue"
+      ],
+      "compact_excerpt": "Revision History 2016-02-08 Approved by Bob Morin Original Issue"
+    },
+    "classified_at": 1778834423.159093
   }
 }

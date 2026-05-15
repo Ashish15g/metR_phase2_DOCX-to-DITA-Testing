@@ -2,7 +2,7 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="revision_history" xml:lang="en-us">
   <title>Revision History</title>
-  <shortdesc>2015-07-31 Approved by Bob Morin Original Issue</shortdesc>
+  <shortdesc>2016-02-08 Approved by Bob Morin Original Issue</shortdesc>
   <prolog>
     <metadata>
       <keywords>
@@ -27,7 +27,7 @@
           <colspec colname="col2" colnum="2" colwidth="1*"/>
           <tbody>
             <row>
-              <entry>2015-07-31</entry>
+              <entry>2016-02-08</entry>
               <entry>Approved by Bob Morin Original Issue</entry>
             </row>
           </tbody>

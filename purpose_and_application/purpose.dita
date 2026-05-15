@@ -2,16 +2,16 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="purpose" xml:lang="en-us">
   <title>Purpose</title>
-  <shortdesc>To define a work instruction for validation of squeeze testers.</shortdesc>
+  <shortdesc>To define a work instruction for proper device setup of MultiStation 3 machines.</shortdesc>
   <prolog>
     <metadata>
       <keywords>
         <keyword>Purpose</keyword>
         <keyword>define</keyword>
         <keyword>instruction</keyword>
-        <keyword>validation</keyword>
-        <keyword>squeeze</keyword>
-        <keyword>testers</keyword>
+        <keyword>proper</keyword>
+        <keyword>device</keyword>
+        <keyword>setup</keyword>
         <indexterm>Purpose</indexterm>
         <indexterm>define</indexterm>
         <indexterm>instruction</indexterm>
@@ -22,6 +22,6 @@
     </metadata>
   </prolog>
   <body>
-    <p>To define a work instruction for validation of squeeze testers.</p>
+    <p>To define a work instruction for proper device setup of MultiStation 3 machines.</p>
   </body>
 </topic>

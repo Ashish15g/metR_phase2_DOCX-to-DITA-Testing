@@ -2,15 +2,15 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="application" xml:lang="en-us">
   <title>Application</title>
-  <shortdesc>This work instruction applies to all O-I Manufacturing Facilities.</shortdesc>
+  <shortdesc>This work instruction applies to all O-I manufacturing facilities.</shortdesc>
   <prolog>
     <metadata>
       <keywords>
         <keyword>Application</keyword>
         <keyword>instruction</keyword>
         <keyword>applies</keyword>
-        <keyword>Manufacturing</keyword>
-        <keyword>Facilities</keyword>
+        <keyword>manufacturing</keyword>
+        <keyword>facilities</keyword>
         <indexterm>Application</indexterm>
         <indexterm>instruction</indexterm>
         <indexterm>applies</indexterm>
@@ -21,6 +21,6 @@
     </metadata>
   </prolog>
   <body>
-    <p>This work instruction applies to all O-I Manufacturing Facilities.</p>
+    <p>This work instruction applies to all O-I manufacturing facilities.</p>
   </body>
 </topic>

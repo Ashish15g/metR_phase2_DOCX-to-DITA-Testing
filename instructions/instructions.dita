@@ -2,19 +2,19 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="instructions" xml:lang="en-us">
   <title>Instructions</title>
-  <shortdesc>If the test container is not recovered, follow appropriate containment process</shortdesc>
+  <shortdesc>Navigation in Multi PC</shortdesc>
   <prolog>
     <metadata>
       <keywords>
+        <keyword>defect</keyword>
+        <keyword>Press</keyword>
+        <keyword>button</keyword>
+        <keyword>screen</keyword>
         <keyword>container</keyword>
-        <keyword>instruction</keyword>
-        <keyword>perform</keyword>
-        <keyword>following</keyword>
-        <keyword>equipment</keyword>
-        <keyword>activity</keyword>
-        <indexterm>container</indexterm>
-        <indexterm>instruction</indexterm>
-        <indexterm>perform</indexterm>
+        <keyword>green</keyword>
+        <indexterm>defect</indexterm>
+        <indexterm>Press</indexterm>
+        <indexterm>button</indexterm>
       </keywords>
       <prodinfo>
         <prodname></prodname>
@@ -22,10 +22,10 @@
     </metadata>
   </prolog>
   <taskbody>
-    <steps id="steps_071908">
+    <steps id="steps_084021">
       <step>
         <cmd>Before starting the work instruction activity, perform the following steps:</cmd>
-        <substeps id="substeps_07190801">
+        <substeps id="substeps_08402101">
           <substep>
             <cmd>Do not begin these tasks without confirmation that personnel directly involved have completed the required training associated with the work instruction activity and have reviewed this document.</cmd>
           </substep>
@@ -33,7 +33,7 @@
             <cmd>Gather necessary tools and equipment as identified below in the Equipment Section.</cmd>
           </substep>
           <substep>
-            <cmd>Wear and use additional Personal Protective Equipment (PPE) and safety equipment required for this specific work instruction</cmd>
+            <cmd>Wear and use additional Personal Protective Equipment (PPE) and safety equipment required for this specific work instruction.</cmd>
           </substep>
           <substep>
             <cmd>Obey all applicable safety requirements and procedures.</cmd>
@@ -41,19 +41,64 @@
           <substep>
             <cmd>Notify appropriate personnel of the activity and estimated time needed to complete the tasks.</cmd>
           </substep>
+          <substep>
+            <cmd>Follow all Lockout Tagout procedures when work instruction activity requires isolating energy in the designated area. Verify energy is isolated before starting work.</cmd>
+          </substep>
         </substeps>
       </step>
       <step>
-        <cmd>To create the prepared sample, perform the following steps:</cmd>
-        <substeps id="substeps_07190802">
+        <cmd>Prerequisite</cmd>
+        <substeps id="substeps_08402102">
           <substep>
-            <cmd>Capture one commercial container that has passed inspection. This container will become the first test container.</cmd>
+            <cmd>Prior to this work instruction, ensure container handling was properly set up according to INS-03-055 Container Handling – Tiama – Multistation 3.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>For proper setup, perform the following steps:</cmd>
+        <substeps id="substeps_08402103">
+          <substep>
+            <cmd>There are two screens located on the Multi 3</cmd>
           </substep>
           <substep>
-            <cmd>Mark the test container on the finish to clearly identify. Use tape, marker or other means to ensure that it can easily be found on the line in the event that it is not broken in the squeeze tester.</cmd>
+            <cmd>User Interface Screen</cmd>
+            <info>
+              <p>Navigation in Multi PC</p>
+              <p>Statistical Display</p>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08402105">
+          <substep>
+            <cmd>Setup Screen</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>Parameters Adjustment</cmd>
+      </step>
+      <step>
+        <cmd>Container Images Display</cmd>
+        <info>
+          <fig>
+            <image href="../media/image1.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>For setup for CSBC-LO, perform the following steps:</cmd>
+        <substeps id="substeps_08402107">
+          <substep>
+            <cmd>Jog a setup container into the CSBC-LO station.</cmd>
+          </substep>
+          <substep>
+            <cmd>Login in using Job Change password</cmd>
             <info>
               <fig>
-                <image href="../media/image1.png"/>
+                <image href="../media/image2.png"/>
               </fig>
             </info>
           </substep>
@@ -61,19 +106,10 @@
       </step>
       <step>
         <cmd/>
-        <substeps id="substeps_07190804">
+        <substeps id="substeps_08402109">
           <substep>
-            <cmd>Make a 25 mm (1 inch) continuous, vertical scratch using moderate pressure with a 3 mm (1/8 inch) conical 120 grit abrasive bit on the inside sidewall of the test container, midway between the heel, shoulder, and seams.</cmd>
-          </substep>
-          <substep>
-            <cmd>Do NOT rotate the container when making the scratch.</cmd>
-          </substep>
-          <substep>
-            <cmd>No other method or tool may be used to make the test sample such as glass, metal bolts, foreign objects, etc</cmd>
+            <cmd>Press the CSBC icon on the operation screen.</cmd>
             <info>
-              <fig>
-                <image href="../media/image2.png"/>
-              </fig>
               <fig>
                 <image href="../media/image3.png"/>
               </fig>
@@ -82,13 +118,10 @@
         </substeps>
       </step>
       <step>
-        <cmd>To perform an equipment validation, perform the following steps</cmd>
-        <substeps id="substeps_07190806">
+        <cmd/>
+        <substeps id="substeps_08402111">
           <substep>
-            <cmd>Monitor the production flow to ensure the squeeze tester is properly setup; including proper spacing between containers, air pressure, and finish guard.</cmd>
-          </substep>
-          <substep>
-            <cmd>Place the prepared test container on the infeed conveyor.</cmd>
+            <cmd>Click on the adjustment button.</cmd>
             <info>
               <fig>
                 <image href="../media/image4.png"/>
@@ -99,51 +132,2090 @@
       </step>
       <step>
         <cmd/>
-        <substeps id="substeps_07190808">
+        <substeps id="substeps_08402113">
           <substep>
-            <cmd>Observe the container passing through the squeeze tester and record the results on either a form or electronically.</cmd>
-          </substep>
-          <substep>
-            <cmd>If the sample breaks, return the squeeze tester to normal operation.</cmd>
-          </substep>
-          <substep>
-            <cmd>If the test container did not break in the machine, the plant must do the following:</cmd>
-          </substep>
-          <substep>
-            <cmd>Recover and discard the test container so it is not packed.</cmd>
+            <cmd>Press the camera button</cmd>
             <info>
-              <p>If the test container is not recovered, follow appropriate containment process</p>
+              <fig>
+                <image href="../media/image5.png"/>
+              </fig>
             </info>
           </substep>
         </substeps>
       </step>
       <step>
         <cmd/>
-        <substeps id="substeps_07190810">
+        <substeps id="substeps_08402115">
           <substep>
-            <cmd>Perform setup according to the appropriate setup work instruction or manufacturer’s manual.</cmd>
+            <cmd>Select and install optional equipment according to MSDR INS-07-038 Parts List.</cmd>
+          </substep>
+          <substep>
+            <cmd>Select the image alone button.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image6.png"/>
+              </fig>
+            </info>
           </substep>
         </substeps>
       </step>
       <step>
-        <cmd>Do not return the machine to production until setup is performed and revalidated</cmd>
+        <cmd/>
+        <substeps id="substeps_08402117">
+          <substep>
+            <cmd>Center the container under the camera center using the jog switch and view on the screen.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image7.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08402119">
+          <substep>
+            <cmd>Adjust and verify the light source and camera positions using the job history or if a new job, follow these steps:</cmd>
+          </substep>
+          <substep>
+            <cmd>Adjust the light source at a distance of 5 mm (3/16 inch) above the finish or greater.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>The height depends on the type of light source used and can be up to 50 mm.</cmd>
+        <substeps id="substeps_08402120">
+          <substep>
+            <cmd>Adjust height of camera using the adjustment crank until the finish is inside the reference blue lines. Be careful not to collide with the camera.</cmd>
+          </substep>
+          <substep>
+            <cmd>If required physically align the camera and light source over the center of the finish.</cmd>
+          </substep>
+          <substep>
+            <cmd>Adjust light source and camera until a “best possible” image is obtained.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image8.png"/>
+              </fig>
+              <fig>
+                <image href="../media/image9.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08402122">
+          <substep>
+            <cmd>Adjust the light source opening using the adjustable diaphragm or aperture plates according to MSDR INS-038 Parts List to prevent unwanted reflections and improve contrast.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image10.png"/>
+              </fig>
+              <fig>
+                <image href="../media/image11.png"/>
+              </fig>
+              <fig>
+                <image href="../media/image12.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>To adjust optical settings, perform the following steps:</cmd>
+        <substeps id="substeps_08402124">
+          <substep>
+            <cmd>Turn on the Oscilloscope and press the Source button.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image13.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08402126">
+          <substep>
+            <cmd>Open the aperture completely and reduce the opening by 1 step.</cmd>
+          </substep>
+          <substep>
+            <cmd>Adjust the light level intensity to achieve 50-60% scale of the surface of the finish with the shortest integration time as possible.</cmd>
+          </substep>
+          <substep>
+            <cmd>Adjust the camera focus to achieve the best possible image.</cmd>
+          </substep>
+          <substep>
+            <cmd>Balance light sources to for the most consistent gray color across both zones as much as possible.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image14.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08402128">
+          <substep>
+            <cmd>Press the green check mark to close the menu.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>To set up distances, perform the following steps:</cmd>
+        <substeps id="substeps_08402129">
+          <substep>
+            <cmd>Jog container back into the CSBC-LO photocell position. Adjust height and sensitivity of the photocell. Jog a container left and right to ensure proper operation of the photocell.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image15.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08402131">
+          <substep>
+            <cmd>Open the <b>Distances</b> menu and press the <b>Distances</b> button.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image16.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08402133">
+          <substep>
+            <cmd>Close doors</cmd>
+          </substep>
+          <substep>
+            <cmd>Change machine to Automatic Mode using the switch on the front of the machine.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image17.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08402135">
+          <substep>
+            <cmd>Turn on conveyor</cmd>
+          </substep>
+          <substep>
+            <cmd>Pass a setup container through the machine to capture an image.</cmd>
+          </substep>
+          <substep>
+            <cmd>Turn on Cross Hairs by checking the Target box. Use the + and - to adjust the image to where it can be seen in the center of the Crosshair.</cmd>
+          </substep>
+          <substep>
+            <cmd>Pass containers through machine and readjust as required.</cmd>
+          </substep>
+          <substep>
+            <cmd>Repeat process until centered.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image18.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08402137">
+          <substep>
+            <cmd>Press the green check to close the menu.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>To set zone and threshold parameters, perform the following steps:</cmd>
+        <substeps id="substeps_08402138">
+          <substep>
+            <cmd>Press the zone parameters button.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image19.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08402140">
+          <substep>
+            <cmd>Select the outer circle and adjust size and location using the arrows and size box on the screen until the circle is slightly larger than the outside of the finish.</cmd>
+          </substep>
+          <substep>
+            <cmd>Press the another circle to switch between circles. Selected circle will be red.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image20.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08402142">
+          <substep>
+            <cmd>Select internal circle and adjust size and location using the arrows and size box on the screen, until the circle is slightly smaller than the inside of the finish.</cmd>
+          </substep>
+          <substep>
+            <cmd>Press the another circle to switch between circles.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image21.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08402144">
+          <substep>
+            <cmd>Press the green check to save and exit.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>To set up localization, perform the following steps:</cmd>
+        <substeps id="substeps_08402145">
+          <substep>
+            <cmd>Click on the localization button on the user interface screen to open registration screen.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image22.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08402147">
+          <substep>
+            <cmd>Confirm auto checkbox is checked.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image23.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08402149">
+          <substep>
+            <cmd>Press the localization auto button.</cmd>
+          </substep>
+          <substep>
+            <cmd>Size and threshold will readjust automatically</cmd>
+            <info>
+              <fig>
+                <image href="../media/image24.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08402151">
+          <substep>
+            <cmd>After pressing localization auto, review the localization results.</cmd>
+          </substep>
+          <substep>
+            <cmd>The outer box will change from red to green when localization is successful.</cmd>
+          </substep>
+          <substep>
+            <cmd>Ensure the localization circle has adjusted correctly to the outside and inside of the finish.</cmd>
+          </substep>
+          <substep>
+            <cmd>If result detection is</cmd>
+          </substep>
+          <substep>
+            <cmd>OK=successful</cmd>
+          </substep>
+          <substep>
+            <cmd>NOK=unsuccessful</cmd>
+          </substep>
+          <substep>
+            <cmd>Treatment Duration (processing time) should be as short as possible and not exceed 10 milliseconds.</cmd>
+          </substep>
+          <substep>
+            <cmd>Correlation ratio should be at least 85% (100% means the software has ideally identified the finish)</cmd>
+          </substep>
+          <substep>
+            <cmd>Transition indicates which method of detection is used (black to white or white to black).</cmd>
+          </substep>
+          <substep>
+            <cmd>Optimum localization diameter is calculated.</cmd>
+          </substep>
+          <substep>
+            <cmd>Close window by pressing the Green check box.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image25.png"/>
+              </fig>
+              <fig>
+                <image href="../media/image26.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08402153">
+          <substep>
+            <cmd>If Auto Localization was not successful adjust localization manually.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>To set localization manually, perform the following steps:</cmd>
+        <substeps id="substeps_08402154">
+          <substep>
+            <cmd>Manual localization</cmd>
+          </substep>
+          <substep>
+            <cmd>Deselect Auto check box.</cmd>
+          </substep>
+          <substep>
+            <cmd>Press threshold button.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image27.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08402156">
+          <substep>
+            <cmd>Confirm the color radio button is selected by default.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image28.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08402158">
+          <substep>
+            <cmd>Adjust the threshold so the finish circle is unbroken and sharp.</cmd>
+          </substep>
+          <substep>
+            <cmd>The outer box on the setup screen will change from Red to green when the circle size and location is good.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image29.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08402160">
+          <substep>
+            <cmd>Press green check box to save and exit.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image30.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08402162">
+          <substep>
+            <cmd>Adjust size of circle to external or internal diameter of the finish. Readjust position of the circle as needed by using arrows.</cmd>
+          </substep>
+          <substep>
+            <cmd>If inner diameter finish is chosen then transition method must be forced in Expert Localization menu. (“B=&gt;N”)</cmd>
+          </substep>
+          <substep>
+            <cmd>If external diameter finish is chosen then transition method  must be forced in Expert Localization menu. (“N=&gt;B”)</cmd>
+          </substep>
+          <substep>
+            <cmd>Review localization results and repeat adjustment as needed.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image31.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08402164">
+          <substep>
+            <cmd>Press green check box to save and exit.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image32.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08402166">
+          <substep>
+            <cmd>If desired localization results are not achieved, switch to expert mode</cmd>
+            <info>
+              <fig>
+                <image href="../media/image33.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08402168">
+          <substep>
+            <cmd>Once in expert mode, select threshold and repeat threshold section above.</cmd>
+          </substep>
+          <substep>
+            <cmd>Press zone and repeat zone section above. Adjust localization circle position and size to the desired location.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image34.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08402170">
+          <substep>
+            <cmd>Select the transition method depending on which area of the finish was selected (“B=&gt;N” internal or “N=&gt;B” external) – This will force transition method for both manual and automatic modes.</cmd>
+          </substep>
+          <substep>
+            <cmd>Correlation checkbox – should always checked (may vary with software versions).</cmd>
+          </substep>
+          <substep>
+            <cmd>Correlation Threshold – Set to 85% or higher.</cmd>
+          </substep>
+          <substep>
+            <cmd>White Diameter Correlation – default is 2 (adjustment is not recommended)</cmd>
+          </substep>
+          <substep>
+            <cmd>Dark Diameter Correlation – default is 2 (adjustment is not recommended)</cmd>
+          </substep>
+          <substep>
+            <cmd>Diameter Tolerance – default is 10% to accommodate ovalization.</cmd>
+          </substep>
+          <substep>
+            <cmd>Vertical Jump – adjust if needed. The lower number can improve registration, but will increase processing time, and reduce throughput.</cmd>
+          </substep>
+          <substep>
+            <cmd>Transitions Strength (contrast) – this value can be changed to increase contrast. Typically set between 10-15.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image35.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08402172">
+          <substep>
+            <cmd>Press test, analyze results and repeat until successful. Press the green check to save and close.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image36.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08402174">
+          <substep>
+            <cmd>Click Dynamic Registration</cmd>
+            <info>
+              <fig>
+                <image href="../media/image37.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08402176">
+          <substep>
+            <cmd>Turn on the conveyor</cmd>
+          </substep>
+          <substep>
+            <cmd>Pass multiple containers through the machine.</cmd>
+          </substep>
+          <substep>
+            <cmd>Review all registration results. If not successful, return to localization setup sections. Press anywhere on the screen to exit dynamic registration screen.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>To set inspection zones and sensitivities, perform the following steps:</cmd>
+        <substeps id="substeps_08402177">
+          <substep>
+            <cmd>Click on the Defect Parameters button on the User Interface screen.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image38.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08402179">
+          <substep>
+            <cmd>Turn on all defects that will be inspected for on this screen, according to the MSDR INS-07-031 Minimum Inspection for Tiama Channels.</cmd>
+          </substep>
+          <substep>
+            <cmd>Possible Defect types are listed on the setup screen</cmd>
+            <info>
+              <fig>
+                <image href="../media/image39.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08402181">
+          <substep>
+            <cmd>Click on the green check button to exit the screen.</cmd>
+          </substep>
+          <substep>
+            <cmd>Obtain a trapped image of a commercial container or ensure a trapped image is already in memory.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>To set the Line Over Finish inspection, perform the following steps:</cmd>
+        <substeps id="substeps_08402182">
+          <substep>
+            <cmd>Click the Adjustments button for Line Over Finish.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image40.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08402184">
+          <substep>
+            <cmd>Press the zone button to open the zone screen.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image41.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08402186">
+          <substep>
+            <cmd>Choose the internal or external circle to be adjusted by pressing the “Another Circle” button.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image42.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08402188">
+          <substep>
+            <cmd>Adjust inside Line Over Finish circle to the inner edge of the finish using the + and – buttons to adjust size or by entering a size number.</cmd>
+          </substep>
+          <substep>
+            <cmd>Adjust the outside Line Over Finish circle to the outer edge of the finish using the + and – buttons to adjust size or by entering a size number.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image43.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08402190">
+          <substep>
+            <cmd>Press the green button to save and close.</cmd>
+          </substep>
+          <substep>
+            <cmd>Select Filter 1D</cmd>
+            <info>
+              <fig>
+                <image href="../media/image44.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08402192">
+          <substep>
+            <cmd>Click on Threshold</cmd>
+            <info>
+              <fig>
+                <image href="../media/image45.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08402194">
+          <substep>
+            <cmd>Select color (should be selected by default)</cmd>
+            <info>
+              <fig>
+                <image href="../media/image46.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08402196">
+          <substep>
+            <cmd>Verify parameters from job history (loaded during container handling)</cmd>
+          </substep>
+          <substep>
+            <cmd>Ensure these parameters are compliant with MSDR INS-07-033 <xref format="html" href="http://collaboration.o-i.intra/quality/Projects/Manufacturing%20Fundamentals/16%20Inspection/Draft%20Documents/EN-INS-07-031%20Inspection%20Device%20Setup%20Parameters%20for%20O-I%20Equipment.docx" scope="external">Inspection Device Setup Parameters for Tiama Equipment</xref>.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>If no job history exists, parameters must be entered as specified in the MSDR.</cmd>
+      </step>
+      <step>
+        <cmd>Refer to the two horizontal bands at the top and bottom of the setup screen, these correspond to the “unrolled” view of the finish (Dependent on software version)</cmd>
+      </step>
+      <step>
+        <cmd>There should be minimal “noise” in the bands.</cmd>
         <info>
           <fig>
-            <image href="../media/image5.png"/>
+            <image href="../media/image47.png"/>
           </fig>
         </info>
       </step>
       <step>
         <cmd/>
-        <substeps id="substeps_07190812">
+        <substeps id="substeps_08402198">
           <substep>
-            <cmd>Repeat this validation at the required frequency specified in the control plan, generated by SAP or the region.</cmd>
+            <cmd>Click the green check box to exit.</cmd>
+          </substep>
+          <substep>
+            <cmd>Press the test button.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image48.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021100">
+          <substep>
+            <cmd>Analyze the inspection results to ensure the commercial container has passed inspection. If the defect is not detected the outer box will change to green.</cmd>
+          </substep>
+          <substep>
+            <cmd>Re-adjust parameters if needed until commercial container has passed inspection.</cmd>
+          </substep>
+          <substep>
+            <cmd>If the defect is detected, the outer box will change to red.</cmd>
+          </substep>
+          <substep>
+            <cmd>Line (xx-xx) xx-x*</cmd>
+          </substep>
+          <substep>
+            <cmd>(xx-xx) are the length and elongation thresholds</cmd>
+          </substep>
+          <substep>
+            <cmd>xx-x is the result</cmd>
+          </substep>
+          <substep>
+            <cmd>* means there is a LINE defect, which is also shown on the container image screen</cmd>
+          </substep>
+          <substep>
+            <cmd>If the number exceeds the threshold it is a defect.</cmd>
+          </substep>
+          <substep>
+            <cmd>COR should be close to100% as possible. COR below 85% is unacceptable.</cmd>
+          </substep>
+          <substep>
+            <cmd>TPS is the total processing time in milliseconds.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image49.png"/>
+              </fig>
+              <fig>
+                <image href="../media/image50.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021102">
+          <substep>
+            <cmd>Use the mouse to click any place on the screen to exit the test screen.</cmd>
+          </substep>
+          <substep>
+            <cmd>Press the green check box to exit the screen.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image51.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>To set the White Defects inspection, perform the following steps:</cmd>
+        <substeps id="substeps_084021104">
+          <substep>
+            <cmd>“White Defects” can detect Blisters or other white objects on the finish.</cmd>
+          </substep>
+          <substep>
+            <cmd>Click the Adjustments button for White Defects.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image52.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021106">
+          <substep>
+            <cmd>Press the zone button to open the zone screen.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image53.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021108">
+          <substep>
+            <cmd>Choose the circle to be adjusted by using the mouse to click on the circle or by pressing the “Another Circle” button.</cmd>
+          </substep>
+          <substep>
+            <cmd>Adjust inside White Defect circle to the inner edge of the finish using the + and – buttons to adjust size or by entering a size number.</cmd>
+          </substep>
+          <substep>
+            <cmd>Adjust the outside White Defect circle to the outer edge of the finish using the + and – buttons to adjust size or by entering a size number.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image54.png"/>
+              </fig>
+              <fig>
+                <image href="../media/image55.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021110">
+          <substep>
+            <cmd>Press the green button to save and close.</cmd>
+          </substep>
+          <substep>
+            <cmd>Verify parameters from job history (loaded during container handling)</cmd>
+          </substep>
+          <substep>
+            <cmd>Ensure these parameters are compliant with MSDR INS-07-033 <xref format="html" href="http://collaboration.o-i.intra/quality/Projects/Manufacturing%20Fundamentals/16%20Inspection/Draft%20Documents/EN-INS-07-031%20Inspection%20Device%20Setup%20Parameters%20for%20O-I%20Equipment.docx" scope="external">Inspection Device Setup Parameters for Tiama Equipment</xref>.</cmd>
+          </substep>
+          <substep>
+            <cmd>If no job history exists, parameters must be entered as specified in the MSDR.</cmd>
+          </substep>
+          <substep>
+            <cmd>Minimum defect energy: the lowest threshold of energy for a white defect. If the defect energy exceeds the entered value, the machine considers there is a defect and rejects the container.</cmd>
+          </substep>
+          <substep>
+            <cmd>The size of the defect window can be between 2 for small defects and 100 for large defects.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image56.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021112">
+          <substep>
+            <cmd>Press the test button.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image57.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021114">
+          <substep>
+            <cmd>Analyze the inspection results to ensure the commercial container has not been rejected. If no defect is detected, the outer box will show green. If a defect has been detected, the outer box will show red.</cmd>
+          </substep>
+          <substep>
+            <cmd>Re-adjust parameters if needed until commercial container has not been rejected.</cmd>
+          </substep>
+          <substep>
+            <cmd>DB (xxxx) xxxx*</cmd>
+          </substep>
+          <substep>
+            <cmd>(xxxx) is the defect’s energy threshold.</cmd>
+          </substep>
+          <substep>
+            <cmd>xxxx is the result of the energy measurement</cmd>
+          </substep>
+          <substep>
+            <cmd>* means that an energy defect has been detected.</cmd>
+          </substep>
+          <substep>
+            <cmd>COR should be close to 100% as possible. COR below 85% is unacceptable.</cmd>
+          </substep>
+          <substep>
+            <cmd>TPS is the total processing time in milliseconds.</cmd>
+          </substep>
+          <substep>
+            <cmd>If the result exceeds the threshold it is a defect.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image58.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021116">
+          <substep>
+            <cmd>Use the mouse to click any place on the screen to exit the test screen.</cmd>
+          </substep>
+          <substep>
+            <cmd>Press the green check box to exit the screen.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image59.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>To set the Internal Defects inspection, perform the following steps:</cmd>
+        <substeps id="substeps_084021118">
+          <substep>
+            <cmd>“Internal Defects” will detect Blisters, Dark Object, and Dirty Finishes.</cmd>
+          </substep>
+          <substep>
+            <cmd>Click the Adjustments button for Internal Defects.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image60.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021120">
+          <substep>
+            <cmd>Press the zone button to open the zone screen.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image61.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021122">
+          <substep>
+            <cmd>Choose the circle to be adjusted by using the mouse to click on the circle or by pressing the “Another Circle” button.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image62.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021124">
+          <substep>
+            <cmd>Adjust the circles to frame the inner section of the finish using the + and – buttons to adjust size or by entering a size number.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image63.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021126">
+          <substep>
+            <cmd>Press the green button to save and close.</cmd>
+          </substep>
+          <substep>
+            <cmd>Verify parameters from job history (loaded during container handling)</cmd>
+          </substep>
+          <substep>
+            <cmd>Ensure these parameters are compliant with MSDR INS-07-033 <xref format="html" href="http://collaboration.o-i.intra/quality/Projects/Manufacturing%20Fundamentals/16%20Inspection/Draft%20Documents/EN-INS-07-031%20Inspection%20Device%20Setup%20Parameters%20for%20O-I%20Equipment.docx" scope="external">Inspection Device Setup Parameters for Tiama Equipment</xref>.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>If no job history exists, parameters must be entered as specified in the MSDR.</cmd>
+      </step>
+      <step>
+        <cmd>Minimum defect energy: the lowest threshold of energy for an Internal defect. If the defect energy exceeds the entered value, the machine considers there is a defect and rejects the container.</cmd>
+      </step>
+      <step>
+        <cmd>The size of the defect window can be between 2 for small defects and 100 for large defects.</cmd>
+        <info>
+          <fig>
+            <image href="../media/image64.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021128">
+          <substep>
+            <cmd>Press the test button.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image65.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021130">
+          <substep>
+            <cmd>Analyze the inspection results to ensure the commercial container has not been rejected. If no defect is detected, the outer box will show green. If a defect has been detected, the outer box will show red.</cmd>
+          </substep>
+          <substep>
+            <cmd>Re-adjust parameters if needed until commercial container has not been rejected.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image66.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021132">
+          <substep>
+            <cmd>The result of the Internal Defects process is displayed. Analyze the inspection results.</cmd>
+          </substep>
+          <substep>
+            <cmd>Re-adjust Internal Defects parameters if needed until proper detection is obtained.</cmd>
+          </substep>
+          <substep>
+            <cmd>If the Internal Defect is detected, the outer box will change to red.</cmd>
+          </substep>
+          <substep>
+            <cmd>If the Internal Defect is not detected the outer box will change to green.</cmd>
+          </substep>
+          <substep>
+            <cmd>DB (xxxx) xxxx*</cmd>
+          </substep>
+          <substep>
+            <cmd>(xxxx) is the defect’s energy threshold.</cmd>
+          </substep>
+          <substep>
+            <cmd>xxxx is the result of the energy measurement</cmd>
+          </substep>
+          <substep>
+            <cmd>* means that an energy defect has been detected.</cmd>
+          </substep>
+          <substep>
+            <cmd>COR should be close to 100% as possible. COR below 85% is unacceptable.</cmd>
+          </substep>
+          <substep>
+            <cmd>TPS is the total processing time in milliseconds.</cmd>
+          </substep>
+          <substep>
+            <cmd>If the result exceeds the threshold it is a defect.</cmd>
+          </substep>
+          <substep>
+            <cmd>Use the mouse to click any place on the screen to exit the test screen.</cmd>
+          </substep>
+          <substep>
+            <cmd>Press the green check box to exit the screen.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image67.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>To set the External Defects inspection, perform the following steps:</cmd>
+        <substeps id="substeps_084021134">
+          <substep>
+            <cmd>“External Defects” will detect Blisters, Bright Objects, and Chipped Finishes.</cmd>
+          </substep>
+          <substep>
+            <cmd>Click the Adjustments button for External Defects.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image68.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021136">
+          <substep>
+            <cmd>Press the zone button to open the zone screen.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image69.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021138">
+          <substep>
+            <cmd>Choose the circle to be adjusted by using the mouse to click on the circle or by pressing the “Another Circle” button.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image70.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021140">
+          <substep>
+            <cmd>Adjust the circles to frame the outer section of the finish using the + and – buttons to adjust size or by entering a size number.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image71.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021142">
+          <substep>
+            <cmd>Press the green button to save and close.</cmd>
+          </substep>
+          <substep>
+            <cmd>Verify parameters from job history (loaded during container handling)</cmd>
+          </substep>
+          <substep>
+            <cmd>Ensure these parameters are compliant with MSDR INS-07-033 <xref format="html" href="http://collaboration.o-i.intra/quality/Projects/Manufacturing%20Fundamentals/16%20Inspection/Draft%20Documents/EN-INS-07-031%20Inspection%20Device%20Setup%20Parameters%20for%20O-I%20Equipment.docx" scope="external">Inspection Device Setup Parameters for Tiama Equipment</xref>.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>If no job history exists, parameters must be entered as specified in the MSDR.</cmd>
+      </step>
+      <step>
+        <cmd>Minimum defect energy: the lowest threshold of energy for an Internal defect. If the defect energy exceeds the entered value, the machine considers there is a defect and rejects the container.</cmd>
+      </step>
+      <step>
+        <cmd>The size of the defect window can be between 2 for small defects and 100 for large defects.</cmd>
+        <info>
+          <fig>
+            <image href="../media/image72.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021144">
+          <substep>
+            <cmd>Press the test button.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image73.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021146">
+          <substep>
+            <cmd>Analyze the inspection results to ensure the commercial container has not been rejected. If no defect is detected, the outer box will show green. If a defect has been detected, the outer box will show red.</cmd>
+          </substep>
+          <substep>
+            <cmd>Re-adjust parameters if needed until commercial container has not been rejected.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image74.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021148">
+          <substep>
+            <cmd>Analyze the inspection results to ensure the commercial container has passed inspection. If the defect is not detected the outer box will change to green.</cmd>
+          </substep>
+          <substep>
+            <cmd>Re-adjust parameters if needed until commercial container has passed inspection.</cmd>
+          </substep>
+          <substep>
+            <cmd>If the defect is detected, the outer box will change to red.</cmd>
+          </substep>
+          <substep>
+            <cmd>DB (xxxx) xxxx*</cmd>
+          </substep>
+          <substep>
+            <cmd>(xxxx) is the defect’s energy threshold.</cmd>
+          </substep>
+          <substep>
+            <cmd>xxxx is the result of the energy measurement</cmd>
+          </substep>
+          <substep>
+            <cmd>* means that an energy defect has been detected.</cmd>
+          </substep>
+          <substep>
+            <cmd>COR should be close to 100% as possible. COR below 85% is unacceptable.</cmd>
+          </substep>
+          <substep>
+            <cmd>TPS is the total processing time in milliseconds.</cmd>
+          </substep>
+          <substep>
+            <cmd>If the result exceeds the threshold it is a defect.</cmd>
+          </substep>
+          <substep>
+            <cmd>Use the mouse to click any place on the screen to exit the test screen.</cmd>
+          </substep>
+          <substep>
+            <cmd>Press the green check box to exit the screen.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image75.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>To set the Black Defects inspection, perform the following steps:</cmd>
+        <substeps id="substeps_084021150">
+          <substep>
+            <cmd>“Black Defects” can detect Open Blisters, Unfilled Finish, Dirty Finish, or other Black objects on the finish.</cmd>
+          </substep>
+          <substep>
+            <cmd>Click the Adjustments button for Black Defects.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image76.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021152">
+          <substep>
+            <cmd>Press the zone button to open the zone screen.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image77.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021154">
+          <substep>
+            <cmd>Choose the circle to be adjusted by using the mouse to click on the circle or by pressing the “Another Circle” button.</cmd>
+          </substep>
+          <substep>
+            <cmd>Adjust inside Black Defect circle to the inner edge of the finish using the + and – buttons to adjust size or by entering a size number.</cmd>
+          </substep>
+          <substep>
+            <cmd>Adjust the outside Black Defect circle to the outer edge of the finish using the + and – buttons to adjust size or by entering a size number.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image78.png"/>
+              </fig>
+              <fig>
+                <image href="../media/image79.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021156">
+          <substep>
+            <cmd>Press the green button to save and close.</cmd>
+          </substep>
+          <substep>
+            <cmd>Verify parameters from job history (loaded during container handling)</cmd>
+          </substep>
+          <substep>
+            <cmd>Ensure these parameters are compliant with MSDR INS-07-033 <xref format="html" href="http://collaboration.o-i.intra/quality/Projects/Manufacturing%20Fundamentals/16%20Inspection/Draft%20Documents/EN-INS-07-031%20Inspection%20Device%20Setup%20Parameters%20for%20O-I%20Equipment.docx" scope="external">Inspection Device Setup Parameters for Tiama Equipment</xref>.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>If no job history exists, parameters must be entered as specified in the MSDR.</cmd>
+      </step>
+      <step>
+        <cmd>Minimum defect energy: the lowest threshold of energy for a Black defect. If the defect energy exceeds the entered value, the machine considers there is a defect and rejects the container.</cmd>
+      </step>
+      <step>
+        <cmd>The size of the defect window can be between 2 for small defects and 100 for large defects.</cmd>
+        <info>
+          <fig>
+            <image href="../media/image80.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021158">
+          <substep>
+            <cmd>Press the test button.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image81.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021160">
+          <substep>
+            <cmd>Analyze the inspection results to ensure the commercial container has not been rejected. If no defect is detected, the outer box will show green. If a defect has been detected, the outer box will show red.</cmd>
+          </substep>
+          <substep>
+            <cmd>Re-adjust parameters if needed until commercial container has not been rejected.</cmd>
+          </substep>
+          <substep>
+            <cmd>DB (xxxx) xxxx*</cmd>
+          </substep>
+          <substep>
+            <cmd>(xxxx) is the defect’s energy threshold.</cmd>
+          </substep>
+          <substep>
+            <cmd>xxxx is the result of the energy measurement* means that an energy defect has been detected.</cmd>
+          </substep>
+          <substep>
+            <cmd>COR should be close to 100% as possible. COR below 85% is unacceptable.</cmd>
+          </substep>
+          <substep>
+            <cmd>TPS is the total processing time in milliseconds.</cmd>
+          </substep>
+          <substep>
+            <cmd>If the result exceeds the threshold it is a defect.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image82.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021162">
+          <substep>
+            <cmd>Use the mouse to click any place on the screen to exit the test screen.</cmd>
+          </substep>
+          <substep>
+            <cmd>Press the green check box to exit the screen.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image83.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>To set the Sugary Finish inspection, perform the following steps:</cmd>
+        <substeps id="substeps_084021164">
+          <substep>
+            <cmd>“Sugary Defects” can detect Sugary or Crizzle defect on the top of the sealing surface.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image84.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021166">
+          <substep>
+            <cmd>Click the Adjustments button for Sugary Defects.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image85.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021168">
+          <substep>
+            <cmd>Press the zone button to open the zone screen.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image86.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021170">
+          <substep>
+            <cmd>Choose the circle to be adjusted by using the mouse to click on the circle or by pressing the “Another Circle” button.</cmd>
+          </substep>
+          <substep>
+            <cmd>Adjust inside Sugary Defect circle to the inner edge of the finish using the + and – buttons to adjust size or by entering a size number.</cmd>
+          </substep>
+          <substep>
+            <cmd>Adjust the outside Sugary Defect circle to the outer edge of the finish using the + and – buttons to adjust size or by entering a size number.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image87.png"/>
+              </fig>
+              <fig>
+                <image href="../media/image88.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021172">
+          <substep>
+            <cmd>Press the green button to save and close.</cmd>
+          </substep>
+          <substep>
+            <cmd>Verify parameters from job history (loaded during container handling)</cmd>
+          </substep>
+          <substep>
+            <cmd>Ensure these parameters are compliant with MSDR INS-07-033 <xref format="html" href="http://collaboration.o-i.intra/quality/Projects/Manufacturing%20Fundamentals/16%20Inspection/Draft%20Documents/EN-INS-07-031%20Inspection%20Device%20Setup%20Parameters%20for%20O-I%20Equipment.docx" scope="external">Inspection Device Setup Parameters for Tiama Equipment</xref>.</cmd>
+          </substep>
+          <substep>
+            <cmd>If no job history exists, parameters must be entered as specified in the MSDR.</cmd>
+          </substep>
+          <substep>
+            <cmd>Minimum defect energy: the lowest threshold of energy for a Sugary defect. If the defect energy exceeds the entered value, the machine considers there is a defect and rejects the container.</cmd>
+          </substep>
+          <substep>
+            <cmd>The size of the defect window can be between 2 for small defects and 100 for large defects.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image89.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021174">
+          <substep>
+            <cmd>Press the test button.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image90.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021176">
+          <substep>
+            <cmd>Analyze the inspection results to ensure the commercial container has not been rejected. If no defect is detected, the outer box will show green. If a defect has been detected, the outer box will show red.</cmd>
+          </substep>
+          <substep>
+            <cmd>Re-adjust parameters if needed until commercial container has not been rejected.</cmd>
+          </substep>
+          <substep>
+            <cmd>DB (xxxx) xxxx*</cmd>
+          </substep>
+          <substep>
+            <cmd>(xxxx) is the defect’s energy threshold.</cmd>
+          </substep>
+          <substep>
+            <cmd>xxxx* means that an energy defect has been detected.</cmd>
+          </substep>
+          <substep>
+            <cmd>If the number exceeds the threshold it is a defect.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image91.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021178">
+          <substep>
+            <cmd>Use the mouse to click any place on the screen to exit the test screen.</cmd>
+          </substep>
+          <substep>
+            <cmd>Pass a good (commercial) container through the machine to make sure it is NOT rejected.</cmd>
+          </substep>
+          <substep>
+            <cmd>Analyze the results on the Test Screen. Compare results on the Test screen to make sure the defect readings are not too close to the defect set- points.</cmd>
+          </substep>
+          <substep>
+            <cmd>Press the green check box to exit the screen.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image92.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>To set the traverse contraction (thin finish) inspection, perform the following steps:</cmd>
+        <substeps id="substeps_084021180">
+          <substep>
+            <cmd>Click the Adjustments button for traverse contraction.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image93.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021182">
+          <substep>
+            <cmd>Press the zone button to open the zone screen.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image94.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021184">
+          <substep>
+            <cmd>Choose the internal or external circle to be adjusted by pressing the “Another Circle” button.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image95.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021186">
+          <substep>
+            <cmd>Adjust inside circle to the inner edge of the finish using the + and – buttons to adjust size or by entering a size number.</cmd>
+          </substep>
+          <substep>
+            <cmd>Adjust the outside circle to the outer edge of the finish using the + and – buttons to adjust size or by entering a size number.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image96.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021188">
+          <substep>
+            <cmd>Press the green button to save and close.</cmd>
+          </substep>
+          <substep>
+            <cmd>Click on Threshold</cmd>
+            <info>
+              <fig>
+                <image href="../media/image97.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021190">
+          <substep>
+            <cmd>Select color (should be selected by default)</cmd>
+            <info>
+              <fig>
+                <image href="../media/image98.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021192">
+          <substep>
+            <cmd>Verify parameters from job history (loaded during container handling)</cmd>
+          </substep>
+          <substep>
+            <cmd>Ensure these parameters are compliant with MSDR INS-07-033 <xref format="html" href="http://collaboration.o-i.intra/quality/Projects/Manufacturing%20Fundamentals/16%20Inspection/Draft%20Documents/EN-INS-07-031%20Inspection%20Device%20Setup%20Parameters%20for%20O-I%20Equipment.docx" scope="external">Inspection Device Setup Parameters for Tiama Equipment</xref>.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>If no job history exists, parameters must be entered as specified in the MSDR.</cmd>
+        <substeps id="substeps_084021193">
+          <substep>
+            <cmd>Refer to the two horizontal bands at the top and bottom of the setup screen, these correspond to the“unrolled” view of the finish.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>There should be minimal “noise” in the bands.</cmd>
+        <info>
+          <fig>
+            <image href="../media/image99.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021195">
+          <substep>
+            <cmd>Click the green check box to exit.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image100.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021197">
+          <substep>
+            <cmd>Press the test button.</cmd>
+          </substep>
+          <substep>
+            <cmd>Analyze the inspection results to ensure the commercial container has passed inspection. If the Line Over Finish defect is not detected the outer box will change to green.</cmd>
+          </substep>
+          <substep>
+            <cmd>Re-adjust Line Over Finish parameters if needed until commercial container has passed inspection.</cmd>
+          </substep>
+          <substep>
+            <cmd>If the Line Over Finish defect is detected, the outer box will change to red.</cmd>
+          </substep>
+          <substep>
+            <cmd>Line (xx-xx) xx-x*</cmd>
+          </substep>
+          <substep>
+            <cmd>(xx-xx) are the length and elongation thresholds</cmd>
+          </substep>
+          <substep>
+            <cmd>xx-x is the result</cmd>
+          </substep>
+          <substep>
+            <cmd>* means there is a LINE defect, which is also shown on the container image screen</cmd>
+          </substep>
+          <substep>
+            <cmd>If the number exceeds the threshold it is a defect.</cmd>
+          </substep>
+          <substep>
+            <cmd>COR should be close to 100% as possible. COR below 85% is unacceptable.</cmd>
+          </substep>
+          <substep>
+            <cmd>TPS is the total processing time in milliseconds.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image101.png"/>
+              </fig>
+              <fig>
+                <image href="../media/image102.png"/>
+              </fig>
+              <fig>
+                <image href="../media/image103.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021199">
+          <substep>
+            <cmd>Use the mouse to click any place on the screen to exit the test screen.</cmd>
+          </substep>
+          <substep>
+            <cmd>Press the green check box to exit the screen.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image104.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>To set the deformation (ovalization) inspection, perform the following steps:</cmd>
+        <substeps id="substeps_084021201">
+          <substep>
+            <cmd>Click the Adjustments button for deformation.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image105.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021203">
+          <substep>
+            <cmd>Press the zone button to open the zone screen.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image106.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021205">
+          <substep>
+            <cmd>Choose the internal or external circle to be adjusted by pressing the “Another Circle” button.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image107.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021207">
+          <substep>
+            <cmd>Adjust inside deformation circle to the inner edge of the finish using the + and – buttons to adjust size or by entering a size number.</cmd>
+          </substep>
+          <substep>
+            <cmd>Adjust the outside deformation circle to the outer edge of the finish using the + and – buttons to adjust size or by entering a size number.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image108.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021209">
+          <substep>
+            <cmd>Press the green button to save and close.</cmd>
+          </substep>
+          <substep>
+            <cmd>Click on Threshold</cmd>
+            <info>
+              <fig>
+                <image href="../media/image109.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021211">
+          <substep>
+            <cmd>Select color (should be selected by default)</cmd>
+            <info>
+              <fig>
+                <image href="../media/image110.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021213">
+          <substep>
+            <cmd>Verify parameters from job history (loaded during container handling)</cmd>
+          </substep>
+          <substep>
+            <cmd>Ensure these parameters are compliant with MSDR INS-07-033 <xref format="html" href="http://collaboration.o-i.intra/quality/Projects/Manufacturing%20Fundamentals/16%20Inspection/Draft%20Documents/EN-INS-07-031%20Inspection%20Device%20Setup%20Parameters%20for%20O-I%20Equipment.docx" scope="external">Inspection Device Setup Parameters for Tiama Equipment</xref>.</cmd>
+          </substep>
+          <substep>
+            <cmd>If no job history exists, parameters must be entered as specified in the MSDR.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image111.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021215">
+          <substep>
+            <cmd>Click the green check box to exit.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image112.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021217">
+          <substep>
+            <cmd>Press the test button.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image113.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021219">
+          <substep>
+            <cmd>Analyze the inspection results to ensure the commercial container has not been rejected. If no defect is detected, the outer box will show green. If a defect has been detected, the outer box will show red.</cmd>
+          </substep>
+          <substep>
+            <cmd>Re-adjust parameters if needed until commercial container has not been rejected.</cmd>
+          </substep>
+          <substep>
+            <cmd>Line (xx-xx) xx-x*</cmd>
+          </substep>
+          <substep>
+            <cmd>(xx-xx) are the length and elongation thresholds</cmd>
+          </substep>
+          <substep>
+            <cmd>xx-x is the result</cmd>
+          </substep>
+          <substep>
+            <cmd>* means there is a LINE defect, which is also shown on the container image screen</cmd>
+          </substep>
+          <substep>
+            <cmd>If the number exceeds the threshold it is a defect.</cmd>
+          </substep>
+          <substep>
+            <cmd>COR should be close to 100% as possible. COR below 85% is unacceptable.</cmd>
+          </substep>
+          <substep>
+            <cmd>TPS is the total processing time in milliseconds.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image114.png"/>
+              </fig>
+              <fig>
+                <image href="../media/image115.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021221">
+          <substep>
+            <cmd>Use the mouse to click any place on the screen to exit the test screen.</cmd>
+          </substep>
+          <substep>
+            <cmd>Press the green check box to exit the screen.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>For Dynamic Test, perform the following steps:</cmd>
+        <substeps id="substeps_084021222">
+          <substep>
+            <cmd>Click Dynamic Test.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image116.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021224">
+          <substep>
+            <cmd>Run a challenge sample through the machine.</cmd>
+          </substep>
+          <substep>
+            <cmd>Analyze the inspection results to ensure the challenge sample has been rejected If no defect is detected, the outer box will show green. If a defect has been detected, the outer box will show red.</cmd>
+          </substep>
+          <substep>
+            <cmd>If challenge sample was rejected, run challenge sample for the next inspection(s) in dynamic mode.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image117.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021226">
+          <substep>
+            <cmd>If challenge sample was not rejected, re-adjust parameters until challenge sample has been rejected as specified in next section.</cmd>
+          </substep>
+          <substep>
+            <cmd>Click on any screen to exit the dynamic test.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>For challenge samples that do not reject, perform the following steps:</cmd>
+        <substeps id="substeps_084021227">
+          <substep>
+            <cmd>Press the parameters button.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image118.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021229">
+          <substep>
+            <cmd>Select the adjustments button for the defect to be adjusted.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image119.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021231">
+          <substep>
+            <cmd>If line over finish was not rejected, adjust any or all of the following:</cmd>
+          </substep>
+          <substep>
+            <cmd>minimum length</cmd>
+          </substep>
+          <substep>
+            <cmd>elongation</cmd>
+          </substep>
+          <substep>
+            <cmd>threshold</cmd>
+          </substep>
+          <substep>
+            <cmd>Press Test to verify result. If not successful, repeat step. Press green check to save and exit.</cmd>
+          </substep>
+          <substep>
+            <cmd>If any other defect was not rejected, adjust any or all of the following:</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>Minimum energy</cmd>
+      </step>
+      <step>
+        <cmd>Size</cmd>
+      </step>
+      <step>
+        <cmd>Threshold</cmd>
+        <substeps id="substeps_084021232">
+          <substep>
+            <cmd>Press Test to verify result. If not successful, repeat step. Press green check to save and exit.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image120.png"/>
+              </fig>
+              <fig>
+                <image href="../media/image121.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021234">
+          <substep>
+            <cmd>Press green test to save and exit.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image122.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021236">
+          <substep>
+            <cmd>Open the operations menu</cmd>
+            <info>
+              <fig>
+                <image href="../media/image123.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084021238">
+          <substep>
+            <cmd>Review and adjust results during production and update parameters as needed.</cmd>
+          </substep>
+          <substep>
+            <cmd>Open Thresholds from the Operations menu and adjust parameters to ensure challenge sample is rejected.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image124.png"/>
+              </fig>
+            </info>
           </substep>
         </substeps>
       </step>
       <step>
         <cmd>Upon completion of tasks, perform the following steps:</cmd>
-        <substeps id="substeps_07190813">
+        <substeps id="substeps_084021240">
+          <substep>
+            <cmd>Confirm the designated work area is clear and communicate to personnel the intent to restart energy.</cmd>
+          </substep>
           <substep>
             <cmd>Perform basic housekeeping duties. Clean up the work space, tools and equipment, dispose of trash, put tools and equipment in assigned area.</cmd>
           </substep>
@@ -152,6 +2224,9 @@
           </substep>
           <substep>
             <cmd>Record and report findings and results.</cmd>
+          </substep>
+          <substep>
+            <cmd>Follow appropriate instructions for notification of findings and results relating to specifications, targets and/or reaction limits.</cmd>
           </substep>
         </substeps>
       </step>

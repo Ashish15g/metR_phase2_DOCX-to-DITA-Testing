@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="safety" xml:lang="en-us">
+  <title>Safety</title>
+  <shortdesc>Observe O-I standard safety requirements and procedures defined by the Global Environmental Health &amp; Safety</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Safety</keyword>
+        <keyword>requirements</keyword>
+        <keyword>Observe</keyword>
+        <keyword>standard</keyword>
+        <keyword>safety</keyword>
+        <keyword>procedures</keyword>
+        <indexterm>Safety</indexterm>
+        <indexterm>requirements</indexterm>
+        <indexterm>Observe</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Observe O-I standard safety requirements and procedures defined by the Global Environmental Health &amp; Safety (EH&amp;S) organization, as well as all applicable local, regional, and national requirements. Safety equipment and instructions specific to the completion of this work instruction are detailed in the Instructions Section.</p>
+  </conbody>
+</concept>

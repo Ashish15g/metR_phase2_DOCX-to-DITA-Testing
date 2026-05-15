@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="inspection_safety" xml:lang="en-us">
+  <title>Inspection Safety</title>
+  <shortdesc>2019-09-25</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Inspection</keyword>
+        <keyword>Safety</keyword>
+        <indexterm>Inspection</indexterm>
+        <indexterm>Safety</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>2019-09-25</p>
+  </conbody>
+</concept>

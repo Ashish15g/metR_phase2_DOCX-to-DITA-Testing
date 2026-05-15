@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="document_classification" xml:lang="en-us">
+  <title>Document Classification</title>
+  <shortdesc>Quality Safety and Environment</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Document</keyword>
+        <keyword>Classification</keyword>
+        <keyword>Quality</keyword>
+        <keyword>Safety</keyword>
+        <keyword>Environment</keyword>
+        <indexterm>Document</indexterm>
+        <indexterm>Classification</indexterm>
+        <indexterm>Quality</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <body>
+    <ul id="ul_07122201">
+      <li>Quality</li>
+      <li>Safety and Environment</li>
+    </ul>
+  </body>
+</topic>

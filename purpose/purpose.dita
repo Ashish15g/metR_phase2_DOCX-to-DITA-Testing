@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="purpose" xml:lang="en-us">
+  <title>Purpose</title>
+  <shortdesc>To define a standard set of minimum safety requirements and procedures that apply to all</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Purpose</keyword>
+        <keyword>inspection</keyword>
+        <keyword>define</keyword>
+        <keyword>standard</keyword>
+        <keyword>minimum</keyword>
+        <keyword>safety</keyword>
+        <indexterm>Purpose</indexterm>
+        <indexterm>inspection</indexterm>
+        <indexterm>define</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>  <context>
+    <p>To define a standard set of minimum safety requirements and procedures that apply to all inspection personnel, defined as anyone working in the inspection areas</p>
+  </context></taskbody>
+</task>

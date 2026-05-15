@@ -1,0 +1,303 @@
+{
+  "Purpose": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.375,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 1,
+        "concept_pattern_hits": 1,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 26
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Purpose",
+        "inspection",
+        "define",
+        "standard",
+        "minimum",
+        "safety",
+        "requirements",
+        "procedures",
+        "apply",
+        "personnel",
+        "defined",
+        "anyone"
+      ],
+      "compact_excerpt": "Purpose To define a standard set of minimum safety requirements and procedures that apply to all inspection personnel, defined as anyone working in the inspection areas"
+    },
+    "classified_at": 1778829143.1799145
+  },
+  "Approval": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.0,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 31
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Approval",
+        "Global",
+        "America",
+        "Sanctioning",
+        "Representatives",
+        "Team",
+        "Region",
+        "Representative",
+        "Asia",
+        "Pacific",
+        "Finbarr",
+        "Shea"
+      ],
+      "compact_excerpt": "Approval Sanctioning Representatives of the Global Team Region Representative Asia Pacific Finbarr O\u2019Shea Europe Jerzy Puk Latin America Juan Franco Mexico Yigael Hernandez North America David Gladwin Global Operations Bob Morin"
+    },
+    "classified_at": 1778829143.1879263
+  },
+  "Inspection Safety": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.125,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 3
+      },
+      "context_frame": "introductory",
+      "keyword_set": [
+        "Inspection",
+        "Safety"
+      ],
+      "compact_excerpt": "Inspection Safety 2019-09-25"
+    },
+    "classified_at": 1778829143.1962953
+  },
+  "Document Classification": {
+    "topic_type": "topic",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.5,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 6
+      },
+      "context_frame": "mixed",
+      "keyword_set": [
+        "Document",
+        "Classification",
+        "Quality",
+        "Safety",
+        "Environment"
+      ],
+      "compact_excerpt": "Document Classification Quality Safety and Environment"
+    },
+    "classified_at": 1778829143.205225
+  },
+  "Procedure": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.25,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 1,
+        "concept_pattern_hits": 5,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 606
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "shall",
+        "safety",
+        "local",
+        "must",
+        "INS",
+        "Machine",
+        "equipment",
+        "inspection",
+        "Safety",
+        "Lockout",
+        "Tagout",
+        "Procedure"
+      ],
+      "compact_excerpt": "Procedure Plant leadership shall be accountable and responsible for providing the safety devices, equipment and prerequisite programs described in this document. PPE: All personnel working on inspection equipment shall wear Personal Protective Equipment (PPE), as specified in MSDR INS-07-001 Inspection Safety Equipment. Cut resistant gloves shall be carried at all times and worn when handling glas"
+    },
+    "classified_at": 1778829143.3175883
+  },
+  "Fundamentals": {
+    "topic_type": "topic",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.625,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 2
+      },
+      "context_frame": "mixed",
+      "keyword_set": [
+        "Fundamentals",
+        "INS"
+      ],
+      "compact_excerpt": "Fundamentals INS-301"
+    },
+    "classified_at": 1778829143.533862
+  },
+  "Reference": {
+    "topic_type": "topic",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.75,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 49
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "INS",
+        "Lockout",
+        "Tagout",
+        "Tryout",
+        "Machine",
+        "Profile",
+        "Reference",
+        "FPX",
+        "ICK",
+        "CE",
+        "Inspection",
+        "Equipment"
+      ],
+      "compact_excerpt": "Reference INS-02-001-F001 Lockout Tagout Tryout Machine Profile - FP INS-02-001-F002 Lockout Tagout Tryout Machine Profile - FPX INS-02-001-F003 Lockout Tagout Tryout Machine Profile - FPX2 INS-02-001-F004 Lockout Tagout Tryout Machine Profile - ICK-CE INS-02-001-F005 Lockout Tagout Tryout Machine Profile - ICK-non-CE INS-02-040 Inspection Equipment Validation INS-07-001 Inspection Safety Equipmen"
+    },
+    "classified_at": 1778829143.539938
+  },
+  "Revision History": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.875,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 54
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Revision",
+        "History",
+        "Updated",
+        "Section",
+        "Non",
+        "Negotiable",
+        "requirement",
+        "FPX",
+        "Original",
+        "Issue",
+        "Approved",
+        "Bob"
+      ],
+      "compact_excerpt": "Revision History 2015-04-01 Original Issue 2019-09-25 Approved by Bob Morin, Global Inspection Network Leader Updated with the following changes: Made the entire contents of Section 3.4 a Non-Negotiable requirement. Added a Non-Negotiable requirement to Section 3.4 to adhere to machine specific Lockout / Tagout profiles for FP, FPX, FPX2, and ICK machines. Updated References"
+    },
+    "classified_at": 1778829143.6894011
+  }
+}

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="equipment_validation_process_squeeze_testers" xml:lang="en-us">
+  <title>Equipment Validation Process - Squeeze Testers</title>
+  <shortdesc>2015-07-31</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Equipment</keyword>
+        <keyword>Validation</keyword>
+        <keyword>Process</keyword>
+        <keyword>Squeeze</keyword>
+        <keyword>Testers</keyword>
+        <indexterm>Equipment</indexterm>
+        <indexterm>Validation</indexterm>
+        <indexterm>Process</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>2015-07-31</p>
+  </conbody>
+</concept>

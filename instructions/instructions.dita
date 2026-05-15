@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="instructions" xml:lang="en-us">
+  <title>Instructions</title>
+  <shortdesc>If the test container is not recovered, follow appropriate containment process</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>container</keyword>
+        <keyword>instruction</keyword>
+        <keyword>perform</keyword>
+        <keyword>following</keyword>
+        <keyword>equipment</keyword>
+        <keyword>activity</keyword>
+        <indexterm>container</indexterm>
+        <indexterm>instruction</indexterm>
+        <indexterm>perform</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <steps id="steps_071908">
+      <step>
+        <cmd>Before starting the work instruction activity, perform the following steps:</cmd>
+        <substeps id="substeps_07190801">
+          <substep>
+            <cmd>Do not begin these tasks without confirmation that personnel directly involved have completed the required training associated with the work instruction activity and have reviewed this document.</cmd>
+          </substep>
+          <substep>
+            <cmd>Gather necessary tools and equipment as identified below in the Equipment Section.</cmd>
+          </substep>
+          <substep>
+            <cmd>Wear and use additional Personal Protective Equipment (PPE) and safety equipment required for this specific work instruction</cmd>
+          </substep>
+          <substep>
+            <cmd>Obey all applicable safety requirements and procedures.</cmd>
+          </substep>
+          <substep>
+            <cmd>Notify appropriate personnel of the activity and estimated time needed to complete the tasks.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>To create the prepared sample, perform the following steps:</cmd>
+        <substeps id="substeps_07190802">
+          <substep>
+            <cmd>Capture one commercial container that has passed inspection. This container will become the first test container.</cmd>
+          </substep>
+          <substep>
+            <cmd>Mark the test container on the finish to clearly identify. Use tape, marker or other means to ensure that it can easily be found on the line in the event that it is not broken in the squeeze tester.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image1.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_07190804">
+          <substep>
+            <cmd>Make a 25 mm (1 inch) continuous, vertical scratch using moderate pressure with a 3 mm (1/8 inch) conical 120 grit abrasive bit on the inside sidewall of the test container, midway between the heel, shoulder, and seams.</cmd>
+          </substep>
+          <substep>
+            <cmd>Do NOT rotate the container when making the scratch.</cmd>
+          </substep>
+          <substep>
+            <cmd>No other method or tool may be used to make the test sample such as glass, metal bolts, foreign objects, etc</cmd>
+            <info>
+              <fig>
+                <image href="../media/image2.png"/>
+              </fig>
+              <fig>
+                <image href="../media/image3.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>To perform an equipment validation, perform the following steps</cmd>
+        <substeps id="substeps_07190806">
+          <substep>
+            <cmd>Monitor the production flow to ensure the squeeze tester is properly setup; including proper spacing between containers, air pressure, and finish guard.</cmd>
+          </substep>
+          <substep>
+            <cmd>Place the prepared test container on the infeed conveyor.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image4.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_07190808">
+          <substep>
+            <cmd>Observe the container passing through the squeeze tester and record the results on either a form or electronically.</cmd>
+          </substep>
+          <substep>
+            <cmd>If the sample breaks, return the squeeze tester to normal operation.</cmd>
+          </substep>
+          <substep>
+            <cmd>If the test container did not break in the machine, the plant must do the following:</cmd>
+          </substep>
+          <substep>
+            <cmd>Recover and discard the test container so it is not packed.</cmd>
+            <info>
+              <p>If the test container is not recovered, follow appropriate containment process</p>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_07190810">
+          <substep>
+            <cmd>Perform setup according to the appropriate setup work instruction or manufacturer’s manual.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>Do not return the machine to production until setup is performed and revalidated</cmd>
+        <info>
+          <fig>
+            <image href="../media/image5.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_07190812">
+          <substep>
+            <cmd>Repeat this validation at the required frequency specified in the control plan, generated by SAP or the region.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>Upon completion of tasks, perform the following steps:</cmd>
+        <substeps id="substeps_07190813">
+          <substep>
+            <cmd>Perform basic housekeeping duties. Clean up the work space, tools and equipment, dispose of trash, put tools and equipment in assigned area.</cmd>
+          </substep>
+          <substep>
+            <cmd>Notify appropriate personnel that the work instruction activity has been completed.</cmd>
+          </substep>
+          <substep>
+            <cmd>Record and report findings and results.</cmd>
+          </substep>
+        </substeps>
+      </step>
+    </steps>
+  </taskbody>
+</task>

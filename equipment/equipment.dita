@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="equipment" xml:lang="en-us">
+  <title>Equipment</title>
+  <shortdesc>3 mm (1/8 inch) conical 120 grit abrasive bit</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Equipment</keyword>
+        <keyword>conical</keyword>
+        <keyword>abrasive</keyword>
+        <keyword>Commercial</keyword>
+        <keyword>container</keyword>
+        <keyword>passed</keyword>
+        <indexterm>Equipment</indexterm>
+        <indexterm>conical</indexterm>
+        <indexterm>abrasive</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>3 mm (1/8 inch) conical 120 grit abrasive bit</p>
+    <p>
+      <fig>
+        <image href="../media/image6.png"/>
+      </fig>
+    </p>
+    <p>Commercial container(s) that has passed all inspection.</p>
+  </conbody>
+</concept>

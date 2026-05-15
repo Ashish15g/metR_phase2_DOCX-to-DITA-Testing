@@ -1,40 +1,36 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="revision_history" xml:lang="en-us">
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="revision_history" xml:lang="en-us">
   <title>Revision History</title>
-  <shortdesc>2015-04-01 Original Issue 2019-09-25 Approved by Bob Morin, Global Inspection Network Leader Updated with the</shortdesc>
+  <shortdesc>2015-07-31 Approved by Bob Morin Original Issue</shortdesc>
   <prolog>
     <metadata>
       <keywords>
         <keyword>Revision</keyword>
         <keyword>History</keyword>
-        <keyword>Updated</keyword>
-        <keyword>Section</keyword>
-        <keyword>Negotiable</keyword>
-        <keyword>requirement</keyword>
+        <keyword>Approved</keyword>
+        <keyword>Morin</keyword>
+        <keyword>Original</keyword>
+        <keyword>Issue</keyword>
         <indexterm>Revision</indexterm>
         <indexterm>History</indexterm>
-        <indexterm>Updated</indexterm>
+        <indexterm>Approved</indexterm>
       </keywords>
       <prodinfo>
         <prodname></prodname>
       </prodinfo>
     </metadata>
   </prolog>
-  <conbody><table frame="all" colsep="1" rowsep="1">
+  <body><table frame="all" colsep="1" rowsep="1">
         <tgroup cols="2">
           <colspec colname="col1" colnum="1" colwidth="1*"/>
           <colspec colname="col2" colnum="2" colwidth="1*"/>
           <tbody>
             <row>
-              <entry>2015-04-01</entry>
-              <entry>Original Issue</entry>
-            </row>
-            <row>
-              <entry>2019-09-25</entry>
-              <entry>Approved by Bob Morin, Global Inspection Network Leader Updated with the following changes: Made the entire contents of Section 3.4 a Non-Negotiable requirement. Added a Non-Negotiable requirement to Section 3.4 to adhere to machine specific Lockout / Tagout profiles for FP, FPX, FPX2, and ICK machines. Updated References</entry>
+              <entry>2015-07-31</entry>
+              <entry>Approved by Bob Morin Original Issue</entry>
             </row>
           </tbody>
         </tgroup>
-      </table></conbody>
-</concept>
+      </table></body>
+</topic>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="inspection_personnel_responsibilities" xml:lang="en-us">
+  <title>Inspection Personnel Responsibilities</title>
+  <shortdesc>2015-04-01</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Inspection</keyword>
+        <keyword>Personnel</keyword>
+        <keyword>Responsibilities</keyword>
+        <indexterm>Inspection</indexterm>
+        <indexterm>Personnel</indexterm>
+        <indexterm>Responsibilities</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>2015-04-01</p>
+  </conbody>
+</concept>

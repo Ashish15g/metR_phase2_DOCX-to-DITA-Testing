@@ -2,19 +2,19 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="revision_history" xml:lang="en-us">
   <title>Revision History</title>
-  <shortdesc>2015-12-15 Approved by Bob Morin Original Issue</shortdesc>
+  <shortdesc>2015-04-01 Original Issue 2019-06-17 Approved by Bob Morin, Global Inspection Network Leader No changes after</shortdesc>
   <prolog>
     <metadata>
       <keywords>
         <keyword>Revision</keyword>
         <keyword>History</keyword>
-        <keyword>Approved</keyword>
-        <keyword>Morin</keyword>
         <keyword>Original</keyword>
         <keyword>Issue</keyword>
+        <keyword>Approved</keyword>
+        <keyword>Morin</keyword>
         <indexterm>Revision</indexterm>
         <indexterm>History</indexterm>
-        <indexterm>Approved</indexterm>
+        <indexterm>Original</indexterm>
       </keywords>
       <prodinfo>
         <prodname></prodname>
@@ -27,8 +27,12 @@
           <colspec colname="col2" colnum="2" colwidth="1*"/>
           <tbody>
             <row>
-              <entry>2015-12-15</entry>
-              <entry>Approved by Bob Morin Original Issue</entry>
+              <entry>2015-04-01</entry>
+              <entry>Original Issue</entry>
+            </row>
+            <row>
+              <entry>2019-06-17</entry>
+              <entry>Approved by Bob Morin, Global Inspection Network Leader No changes after global network review.</entry>
             </row>
           </tbody>
         </tgroup>

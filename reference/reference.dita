@@ -2,19 +2,19 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="reference" xml:lang="en-us">
   <title>Reference</title>
-  <shortdesc>INS-02-001-F001 Lockout Tagout Tryout Machine Profile - FP INS-02-001-F002 Lockout Tagout Tryout Machine Profile -</shortdesc>
+  <shortdesc>INS-02-001 Inspection Safety INS-02-010 Inspection Personnel Training INS-02-030 Inspection Device Setup INS-02-050 Inspection Maintenance INS-02-070</shortdesc>
   <prolog>
     <metadata>
       <keywords>
-        <keyword>Lockout</keyword>
-        <keyword>Tagout</keyword>
-        <keyword>Tryout</keyword>
-        <keyword>Machine</keyword>
-        <keyword>Profile</keyword>
+        <keyword>Inspection</keyword>
         <keyword>Reference</keyword>
-        <indexterm>Lockout</indexterm>
-        <indexterm>Tagout</indexterm>
-        <indexterm>Tryout</indexterm>
+        <keyword>Safety</keyword>
+        <keyword>Personnel</keyword>
+        <keyword>Training</keyword>
+        <keyword>Device</keyword>
+        <indexterm>Inspection</indexterm>
+        <indexterm>Reference</indexterm>
+        <indexterm>Safety</indexterm>
       </keywords>
       <prodinfo>
         <prodname></prodname>
@@ -22,14 +22,14 @@
     </metadata>
   </prolog>
   <body>
-    <ul id="ul_071222">
-      <li>INS-02-001-F001 Lockout Tagout Tryout Machine Profile - FP</li>
-      <li>INS-02-001-F002 Lockout Tagout Tryout Machine Profile - FPX</li>
-      <li>INS-02-001-F003 Lockout Tagout Tryout Machine Profile - FPX2</li>
-      <li>INS-02-001-F004 Lockout Tagout Tryout Machine Profile - ICK-CE</li>
-      <li>INS-02-001-F005 Lockout Tagout Tryout Machine Profile - ICK-non-CE</li>
-      <li>INS-02-040 Inspection Equipment Validation</li>
-      <li>INS-07-001 Inspection Safety Equipment</li>
+    <ul id="ul_090029">
+      <li>INS-02-001 Inspection Safety</li>
+      <li>
+        <xref href="http://collaboration.o-i.intra/quality/Projects/Manufacturing%20Fundamentals/16%20Inspection/Automatic%20Inspection%20Workshop%20Documents/EN-INS-02-010%20Inspection%20Personnel%20Training.docx" scope="external" format="html">INS-02-010 Inspection Personnel Training</xref>
+      </li>
+      <li>INS-02-030 Inspection Device Setup</li>
+      <li>INS-02-050 Inspection Maintenance</li>
+      <li>INS-02-070 Inspection Machine Container Handling</li>
     </ul>
   </body>
 </topic>

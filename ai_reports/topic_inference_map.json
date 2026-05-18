@@ -1,5 +1,5 @@
 {
-  "Container Handling - Tiama - MCAL 4": {
+  "Approval": {
     "topic_type": "concept",
     "confidence": "low",
     "reasoning": "Heuristic fallback due to API error",
@@ -19,94 +19,26 @@
         "concept_pattern_hits": 0,
         "reference_pattern_hits": 0,
         "imperative_sentence_ratio": 0.0,
-        "avg_paragraph_length_words": 8
-      },
-      "context_frame": "introductory",
-      "keyword_set": [
-        "Container",
-        "Handling",
-        "Tiama",
-        "MCAL"
-      ],
-      "compact_excerpt": "Container Handling - Tiama - MCAL 4 2015-12-15"
-    },
-    "classified_at": 1779086656.2189765
-  },
-  "Application": {
-    "topic_type": "topic",
-    "confidence": "low",
-    "reasoning": "Heuristic fallback due to API error",
-    "ontology_hints": {},
-    "semantic_signals": {
-      "structural_signals": {
-        "heading_depth": 1,
-        "parent_title": "",
-        "position_in_doc": 0.333,
-        "paragraph_count": 1,
-        "step_list_count": 0,
-        "table_count": 0,
-        "has_code_block": false
-      },
-      "lexical_signals": {
-        "task_verb_hits": 0,
-        "concept_pattern_hits": 0,
-        "reference_pattern_hits": 0,
-        "imperative_sentence_ratio": 0.0,
-        "avg_paragraph_length_words": 10
+        "avg_paragraph_length_words": 31
       },
       "context_frame": "descriptive",
       "keyword_set": [
-        "Application",
-        "work",
-        "instruction",
-        "applies",
-        "manufacturing",
-        "facilities"
+        "Approval",
+        "Global",
+        "America",
+        "Sanctioning",
+        "Representatives",
+        "Team",
+        "Region",
+        "Representative",
+        "Asia",
+        "Pacific",
+        "Finbarr",
+        "Shea"
       ],
-      "compact_excerpt": "Application This work instruction applies to all O-I manufacturing facilities."
+      "compact_excerpt": "Approval Sanctioning Representatives of the Global Team Region Representative Asia Pacific Finbarr O\u2019Shea Europe Jerzy Puk Latin America Juan Franco Mexico Yigael Hernandez North America David Gladwin Global Operations Bob Morin"
     },
-    "classified_at": 1779086656.235981
-  },
-  "Instructions": {
-    "topic_type": "task",
-    "confidence": "low",
-    "reasoning": "Heuristic fallback due to API error",
-    "ontology_hints": {},
-    "semantic_signals": {
-      "structural_signals": {
-        "heading_depth": 1,
-        "parent_title": "",
-        "position_in_doc": 0.222,
-        "paragraph_count": 1,
-        "step_list_count": 0,
-        "table_count": 0,
-        "has_code_block": false
-      },
-      "lexical_signals": {
-        "task_verb_hits": 23,
-        "concept_pattern_hits": 27,
-        "reference_pattern_hits": 0,
-        "imperative_sentence_ratio": 0.103,
-        "avg_paragraph_length_words": 1064
-      },
-      "context_frame": "descriptive",
-      "keyword_set": [
-        "container",
-        "Adjust",
-        "work",
-        "following",
-        "screen",
-        "machine",
-        "conveyor",
-        "steps",
-        "setup",
-        "containers",
-        "light",
-        "center"
-      ],
-      "compact_excerpt": "Instructions Before starting the work instruction activity, perform the following steps: Do not begin these tasks without confirmation that personnel directly involved have completed the required training associated with the work instruction activity and have reviewed this document. Gather necessary tools and equipment as identified below in the Equipment Section. Wear and use additional Personal "
-    },
-    "classified_at": 1779086656.2489276
+    "classified_at": 1779094830.5090535
   },
   "Purpose": {
     "topic_type": "topic",
@@ -117,7 +49,7 @@
       "structural_signals": {
         "heading_depth": 1,
         "parent_title": "",
-        "position_in_doc": 0.444,
+        "position_in_doc": 0.375,
         "paragraph_count": 1,
         "step_list_count": 0,
         "table_count": 0,
@@ -128,28 +60,25 @@
         "concept_pattern_hits": 0,
         "reference_pattern_hits": 0,
         "imperative_sentence_ratio": 0.0,
-        "avg_paragraph_length_words": 24
+        "avg_paragraph_length_words": 17
       },
       "context_frame": "descriptive",
       "keyword_set": [
         "Purpose",
         "define",
-        "work",
-        "instruction",
-        "proper",
-        "container",
-        "handling",
-        "MCAL",
-        "machines",
-        "written",
-        "using",
-        "software"
+        "specific",
+        "roles",
+        "responsibilities",
+        "tasks",
+        "Inspection",
+        "Personnel",
+        "plants"
       ],
-      "compact_excerpt": "Purpose To define a work instruction for proper container handling of MCAL 4 machines. This was written using software 3.xx and images may vary."
+      "compact_excerpt": "Purpose To define the specific roles, responsibilities, and tasks of the Inspection Personnel in all O-I plants."
     },
-    "classified_at": 1779086656.2993698
+    "classified_at": 1779094830.5425198
   },
-  "Required Training": {
+  "Document Classification": {
     "topic_type": "topic",
     "confidence": "low",
     "reasoning": "Heuristic fallback due to API error",
@@ -158,7 +87,7 @@
       "structural_signals": {
         "heading_depth": 1,
         "parent_title": "",
-        "position_in_doc": 0.667,
+        "position_in_doc": 0.5,
         "paragraph_count": 1,
         "step_list_count": 0,
         "table_count": 0,
@@ -169,64 +98,20 @@
         "concept_pattern_hits": 0,
         "reference_pattern_hits": 0,
         "imperative_sentence_ratio": 0.0,
-        "avg_paragraph_length_words": 25
-      },
-      "context_frame": "descriptive",
-      "keyword_set": [
-        "Required",
-        "Training",
-        "Before",
-        "performing",
-        "work",
-        "instruction",
-        "applicable",
-        "personnel",
-        "must",
-        "trained",
-        "authorized",
-        "trainer"
-      ],
-      "compact_excerpt": "Required Training Before performing this work instruction, applicable personnel must be trained by an authorized trainer on the required training contents listed in this document."
-    },
-    "classified_at": 1779086656.551918
-  },
-  "Revision History": {
-    "topic_type": "topic",
-    "confidence": "low",
-    "reasoning": "Heuristic fallback due to API error",
-    "ontology_hints": {},
-    "semantic_signals": {
-      "structural_signals": {
-        "heading_depth": 1,
-        "parent_title": "",
-        "position_in_doc": 0.778,
-        "paragraph_count": 1,
-        "step_list_count": 0,
-        "table_count": 0,
-        "has_code_block": false
-      },
-      "lexical_signals": {
-        "task_verb_hits": 0,
-        "concept_pattern_hits": 0,
-        "reference_pattern_hits": 0,
-        "imperative_sentence_ratio": 0.0,
-        "avg_paragraph_length_words": 9
+        "avg_paragraph_length_words": 5
       },
       "context_frame": "mixed",
       "keyword_set": [
-        "Revision",
-        "History",
-        "Approved",
-        "Bob",
-        "Morin",
-        "Original",
-        "Issue"
+        "Document",
+        "Classification",
+        "Organization",
+        "Training"
       ],
-      "compact_excerpt": "Revision History 2015-12-15 Approved by Bob Morin Original Issue"
+      "compact_excerpt": "Document Classification Organization and Training"
     },
-    "classified_at": 1779086656.57925
+    "classified_at": 1779094830.5609262
   },
-  "Safety": {
+  "Procedure": {
     "topic_type": "concept",
     "confidence": "low",
     "reasoning": "Heuristic fallback due to API error",
@@ -235,7 +120,7 @@
       "structural_signals": {
         "heading_depth": 1,
         "parent_title": "",
-        "position_in_doc": 0.889,
+        "position_in_doc": 0.25,
         "paragraph_count": 1,
         "step_list_count": 0,
         "table_count": 0,
@@ -246,29 +131,29 @@
         "concept_pattern_hits": 1,
         "reference_pattern_hits": 0,
         "imperative_sentence_ratio": 0.0,
-        "avg_paragraph_length_words": 46
+        "avg_paragraph_length_words": 215
       },
       "context_frame": "descriptive",
       "keyword_set": [
-        "Safety",
-        "requirements",
-        "Observe",
-        "standard",
-        "safety",
-        "procedures",
-        "defined",
-        "Global",
-        "Environmental",
-        "Health",
-        "EH",
-        "organization"
+        "Inspection",
+        "Personnel",
+        "shall",
+        "Procedure",
+        "INS",
+        "inspection",
+        "tasks",
+        "equipment",
+        "Maintenance",
+        "accordance",
+        "performing",
+        "following"
       ],
-      "compact_excerpt": "Safety Observe O-I standard safety requirements and procedures defined by the Global Environmental Health & Safety (EH&S) organization, as well as all applicable local, regional, and national requirements. Safety equipment and instructions specific to the completion of this work instruction are detailed in the Instructions Section."
+      "compact_excerpt": "Procedure Inspection Personnel shall be defined as any person who performs tasks on inspection equipment including, but not limited to, Job Change, Maintenance, or Shift Personnel. Inspection Personnel shall be in compliance with all safety requirements in accordance with Procedure INS-02-001 Inspection Safety. Inspection Personnel shall be properly trained in accordance with Procedure INS-02-010 "
     },
-    "classified_at": 1779086656.585407
+    "classified_at": 1779094830.5726337
   },
-  "Equipment": {
-    "topic_type": "concept",
+  "Fundamentals": {
+    "topic_type": "topic",
     "confidence": "low",
     "reasoning": "Heuristic fallback due to API error",
     "ontology_hints": {},
@@ -276,7 +161,7 @@
       "structural_signals": {
         "heading_depth": 1,
         "parent_title": "",
-        "position_in_doc": 0.111,
+        "position_in_doc": 0.625,
         "paragraph_count": 1,
         "step_list_count": 0,
         "table_count": 0,
@@ -287,22 +172,129 @@
         "concept_pattern_hits": 0,
         "reference_pattern_hits": 0,
         "imperative_sentence_ratio": 0.0,
-        "avg_paragraph_length_words": 13
+        "avg_paragraph_length_words": 3
+      },
+      "context_frame": "mixed",
+      "keyword_set": [
+        "Fundamentals",
+        "INS"
+      ],
+      "compact_excerpt": "Fundamentals INS -313"
+    },
+    "classified_at": 1779094830.8196068
+  },
+  "Inspection Personnel Responsibilities": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.125,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 4
       },
       "context_frame": "introductory",
       "keyword_set": [
-        "Equipment",
-        "Job",
-        "History",
-        "Sheet",
-        "Hex",
-        "Tools",
-        "Proper",
-        "Change",
-        "parts"
+        "Inspection",
+        "Personnel",
+        "Responsibilities"
       ],
-      "compact_excerpt": "Equipment Job History Sheet Hex Tools Proper Job Change parts for new job"
+      "compact_excerpt": "Inspection Personnel Responsibilities 2015-04-01"
     },
-    "classified_at": 1779086657.4163775
+    "classified_at": 1779094830.8355107
+  },
+  "Reference": {
+    "topic_type": "topic",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.75,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 20
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "INS",
+        "Inspection",
+        "Reference",
+        "Safety",
+        "Personnel",
+        "Training",
+        "Device",
+        "Setup",
+        "Maintenance",
+        "Machine",
+        "Container",
+        "Handling"
+      ],
+      "compact_excerpt": "Reference INS-02-001 Inspection Safety INS-02-010 Inspection Personnel Training INS-02-030 Inspection Device Setup INS-02-050 Inspection Maintenance INS-02-070 Inspection Machine Container Handling"
+    },
+    "classified_at": 1779094830.8688312
+  },
+  "Revision History": {
+    "topic_type": "topic",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.875,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 20
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Revision",
+        "History",
+        "Original",
+        "Issue",
+        "Approved",
+        "Bob",
+        "Morin",
+        "Global",
+        "Inspection",
+        "Network",
+        "Leader",
+        "changes"
+      ],
+      "compact_excerpt": "Revision History 2015-04-01 Original Issue 2019-06-17 Approved by Bob Morin, Global Inspection Network Leader No changes after global network review."
+    },
+    "classified_at": 1779094830.8868797
   }
 }

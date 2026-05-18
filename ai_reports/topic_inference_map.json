@@ -1,5 +1,5 @@
 {
-  "Container Handling - Tiama - MCAL 4": {
+  "Approval": {
     "topic_type": "concept",
     "confidence": "low",
     "reasoning": "Heuristic fallback due to API error",
@@ -19,21 +19,29 @@
         "concept_pattern_hits": 0,
         "reference_pattern_hits": 0,
         "imperative_sentence_ratio": 0.0,
-        "avg_paragraph_length_words": 8
+        "avg_paragraph_length_words": 31
       },
-      "context_frame": "introductory",
+      "context_frame": "descriptive",
       "keyword_set": [
-        "Container",
-        "Handling",
-        "Tiama",
-        "MCAL"
+        "Approval",
+        "Global",
+        "America",
+        "Sanctioning",
+        "Representatives",
+        "Team",
+        "Region",
+        "Representative",
+        "Asia",
+        "Pacific",
+        "Finbarr",
+        "Shea"
       ],
-      "compact_excerpt": "Container Handling - Tiama - MCAL 4 2015-12-15"
+      "compact_excerpt": "Approval Sanctioning Representatives of the Global Team Region Representative Asia Pacific Finbarr O\u2019Shea Europe Jerzy Puk Latin America Juan Franco Mexico Yigael Hernandez North America David Gladwin Global Operations Bob Morin"
     },
-    "classified_at": 1779086656.2189765
+    "classified_at": 1779095287.1839225
   },
-  "Application": {
-    "topic_type": "topic",
+  "Inspection Supervisor Responsibilities": {
+    "topic_type": "concept",
     "confidence": "low",
     "reasoning": "Heuristic fallback due to API error",
     "ontology_hints": {},
@@ -41,7 +49,7 @@
       "structural_signals": {
         "heading_depth": 1,
         "parent_title": "",
-        "position_in_doc": 0.333,
+        "position_in_doc": 0.143,
         "paragraph_count": 1,
         "step_list_count": 0,
         "table_count": 0,
@@ -52,23 +60,20 @@
         "concept_pattern_hits": 0,
         "reference_pattern_hits": 0,
         "imperative_sentence_ratio": 0.0,
-        "avg_paragraph_length_words": 10
+        "avg_paragraph_length_words": 4
       },
-      "context_frame": "descriptive",
+      "context_frame": "introductory",
       "keyword_set": [
-        "Application",
-        "work",
-        "instruction",
-        "applies",
-        "manufacturing",
-        "facilities"
+        "Inspection",
+        "Supervisor",
+        "Responsibilities"
       ],
-      "compact_excerpt": "Application This work instruction applies to all O-I manufacturing facilities."
+      "compact_excerpt": "Inspection Supervisor Responsibilities 2019-09-25"
     },
-    "classified_at": 1779086656.235981
+    "classified_at": 1779095287.1911824
   },
-  "Instructions": {
-    "topic_type": "task",
+  "Procedure": {
+    "topic_type": "concept",
     "confidence": "low",
     "reasoning": "Heuristic fallback due to API error",
     "ontology_hints": {},
@@ -76,37 +81,72 @@
       "structural_signals": {
         "heading_depth": 1,
         "parent_title": "",
-        "position_in_doc": 0.222,
+        "position_in_doc": 0.286,
         "paragraph_count": 1,
         "step_list_count": 0,
         "table_count": 0,
         "has_code_block": false
       },
       "lexical_signals": {
-        "task_verb_hits": 23,
-        "concept_pattern_hits": 27,
+        "task_verb_hits": 1,
+        "concept_pattern_hits": 13,
         "reference_pattern_hits": 0,
-        "imperative_sentence_ratio": 0.103,
-        "avg_paragraph_length_words": 1064
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 446
       },
       "context_frame": "descriptive",
       "keyword_set": [
-        "container",
-        "Adjust",
-        "work",
-        "following",
-        "screen",
-        "machine",
-        "conveyor",
-        "steps",
-        "setup",
-        "containers",
-        "light",
-        "center"
+        "Inspection",
+        "shall",
+        "Supervisor",
+        "Personnel",
+        "ensure",
+        "Procedure",
+        "each",
+        "plant",
+        "inspection",
+        "INS",
+        "Plant",
+        "tasks"
       ],
-      "compact_excerpt": "Instructions Before starting the work instruction activity, perform the following steps: Do not begin these tasks without confirmation that personnel directly involved have completed the required training associated with the work instruction activity and have reviewed this document. Gather necessary tools and equipment as identified below in the Equipment Section. Wear and use additional Personal "
+      "compact_excerpt": "Procedure The Inspection Supervisor shall be identified in each plant. Accountable for the personnel who perform tasks on inspection equipment. Facilitates planning, coordination, execution, documentation, communication, and continuous improvement of the inspection process in the plant. The Inspection Supervisors\u2019 responsibilities may or may not all be fulfilled by one individual, but each respons"
     },
-    "classified_at": 1779086656.2489276
+    "classified_at": 1779095287.204831
+  },
+  "Document Classification": {
+    "topic_type": "topic",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.571,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 8
+      },
+      "context_frame": "mixed",
+      "keyword_set": [
+        "Document",
+        "Classification",
+        "Organization",
+        "Training",
+        "Fundamentals",
+        "INS"
+      ],
+      "compact_excerpt": "Document Classification Organization and Training Fundamentals: INS- 313"
+    },
+    "classified_at": 1779095287.214371
   },
   "Purpose": {
     "topic_type": "topic",
@@ -117,7 +157,7 @@
       "structural_signals": {
         "heading_depth": 1,
         "parent_title": "",
-        "position_in_doc": 0.444,
+        "position_in_doc": 0.429,
         "paragraph_count": 1,
         "step_list_count": 0,
         "table_count": 0,
@@ -128,70 +168,26 @@
         "concept_pattern_hits": 0,
         "reference_pattern_hits": 0,
         "imperative_sentence_ratio": 0.0,
-        "avg_paragraph_length_words": 24
+        "avg_paragraph_length_words": 17
       },
       "context_frame": "descriptive",
       "keyword_set": [
         "Purpose",
         "define",
-        "work",
-        "instruction",
-        "proper",
-        "container",
-        "handling",
-        "MCAL",
-        "machines",
-        "written",
-        "using",
-        "software"
+        "specific",
+        "roles",
+        "responsibilities",
+        "tasks",
+        "Inspection",
+        "Supervisor",
+        "plants"
       ],
-      "compact_excerpt": "Purpose To define a work instruction for proper container handling of MCAL 4 machines. This was written using software 3.xx and images may vary."
+      "compact_excerpt": "Purpose To define the specific roles, responsibilities, and tasks of the Inspection Supervisor in all O-I plants."
     },
-    "classified_at": 1779086656.2993698
-  },
-  "Required Training": {
-    "topic_type": "topic",
-    "confidence": "low",
-    "reasoning": "Heuristic fallback due to API error",
-    "ontology_hints": {},
-    "semantic_signals": {
-      "structural_signals": {
-        "heading_depth": 1,
-        "parent_title": "",
-        "position_in_doc": 0.667,
-        "paragraph_count": 1,
-        "step_list_count": 0,
-        "table_count": 0,
-        "has_code_block": false
-      },
-      "lexical_signals": {
-        "task_verb_hits": 0,
-        "concept_pattern_hits": 0,
-        "reference_pattern_hits": 0,
-        "imperative_sentence_ratio": 0.0,
-        "avg_paragraph_length_words": 25
-      },
-      "context_frame": "descriptive",
-      "keyword_set": [
-        "Required",
-        "Training",
-        "Before",
-        "performing",
-        "work",
-        "instruction",
-        "applicable",
-        "personnel",
-        "must",
-        "trained",
-        "authorized",
-        "trainer"
-      ],
-      "compact_excerpt": "Required Training Before performing this work instruction, applicable personnel must be trained by an authorized trainer on the required training contents listed in this document."
-    },
-    "classified_at": 1779086656.551918
+    "classified_at": 1779095287.2303345
   },
   "Revision History": {
-    "topic_type": "topic",
+    "topic_type": "concept",
     "confidence": "low",
     "reasoning": "Heuristic fallback due to API error",
     "ontology_hints": {},
@@ -199,7 +195,7 @@
       "structural_signals": {
         "heading_depth": 1,
         "parent_title": "",
-        "position_in_doc": 0.778,
+        "position_in_doc": 0.857,
         "paragraph_count": 1,
         "step_list_count": 0,
         "table_count": 0,
@@ -210,24 +206,29 @@
         "concept_pattern_hits": 0,
         "reference_pattern_hits": 0,
         "imperative_sentence_ratio": 0.0,
-        "avg_paragraph_length_words": 9
+        "avg_paragraph_length_words": 67
       },
-      "context_frame": "mixed",
+      "context_frame": "descriptive",
       "keyword_set": [
         "Revision",
         "History",
+        "Inspection",
+        "Leader",
         "Approved",
         "Bob",
         "Morin",
+        "Global",
+        "Network",
+        "Updated",
         "Original",
         "Issue"
       ],
-      "compact_excerpt": "Revision History 2015-12-15 Approved by Bob Morin Original Issue"
+      "compact_excerpt": "Revision History 2015-04-17 Original Issue 2015-10-13 Approved by Bob Morin, Global Inspection Discipline Leader Added Inspection Supervisor responsibilities and tasks to Section 3.1.C. Revised Sections 3.2 and 3.3 to state that Plant Network Leader and Backup shall be identified in each plant. 2019-09-25 Approved by Bob Morin, Global Inspection Network Leader Updated with the following changes: U"
     },
-    "classified_at": 1779086656.57925
+    "classified_at": 1779095287.53304
   },
-  "Safety": {
-    "topic_type": "concept",
+  "Reference": {
+    "topic_type": "topic",
     "confidence": "low",
     "reasoning": "Heuristic fallback due to API error",
     "ontology_hints": {},
@@ -235,48 +236,7 @@
       "structural_signals": {
         "heading_depth": 1,
         "parent_title": "",
-        "position_in_doc": 0.889,
-        "paragraph_count": 1,
-        "step_list_count": 0,
-        "table_count": 0,
-        "has_code_block": false
-      },
-      "lexical_signals": {
-        "task_verb_hits": 0,
-        "concept_pattern_hits": 1,
-        "reference_pattern_hits": 0,
-        "imperative_sentence_ratio": 0.0,
-        "avg_paragraph_length_words": 46
-      },
-      "context_frame": "descriptive",
-      "keyword_set": [
-        "Safety",
-        "requirements",
-        "Observe",
-        "standard",
-        "safety",
-        "procedures",
-        "defined",
-        "Global",
-        "Environmental",
-        "Health",
-        "EH",
-        "organization"
-      ],
-      "compact_excerpt": "Safety Observe O-I standard safety requirements and procedures defined by the Global Environmental Health & Safety (EH&S) organization, as well as all applicable local, regional, and national requirements. Safety equipment and instructions specific to the completion of this work instruction are detailed in the Instructions Section."
-    },
-    "classified_at": 1779086656.585407
-  },
-  "Equipment": {
-    "topic_type": "concept",
-    "confidence": "low",
-    "reasoning": "Heuristic fallback due to API error",
-    "ontology_hints": {},
-    "semantic_signals": {
-      "structural_signals": {
-        "heading_depth": 1,
-        "parent_title": "",
-        "position_in_doc": 0.111,
+        "position_in_doc": 0.714,
         "paragraph_count": 1,
         "step_list_count": 0,
         "table_count": 0,
@@ -287,22 +247,25 @@
         "concept_pattern_hits": 0,
         "reference_pattern_hits": 0,
         "imperative_sentence_ratio": 0.0,
-        "avg_paragraph_length_words": 13
+        "avg_paragraph_length_words": 30
       },
-      "context_frame": "introductory",
+      "context_frame": "descriptive",
       "keyword_set": [
-        "Equipment",
-        "Job",
-        "History",
-        "Sheet",
-        "Hex",
-        "Tools",
-        "Proper",
-        "Change",
-        "parts"
+        "INS",
+        "Inspection",
+        "Reference",
+        "MOE",
+        "Plant",
+        "Network",
+        "Leader",
+        "Roles",
+        "Responsibilities",
+        "Safety",
+        "Personnel",
+        "Training"
       ],
-      "compact_excerpt": "Equipment Job History Sheet Hex Tools Proper Job Change parts for new job"
+      "compact_excerpt": "Reference MOE-02-043Plant Network Leader Roles and Responsibilities INS-02-001 Inspection Safety INS-02-010 Inspection Personnel Training INS-02-030 Inspection Device Setup INS-02-050 Inspection Maintenance INS-02-070 Inspection Machine Container Handling INS-02-080 Installed Inspection Equipment"
     },
-    "classified_at": 1779086657.4163775
+    "classified_at": 1779095287.88785
   }
 }

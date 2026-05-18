@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="container_handling_tiama_mcal_4" xml:lang="en-us">
+  <title>Container Handling - Tiama - MCAL 4</title>
+  <shortdesc>2015-12-15</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Container</keyword>
+        <keyword>Handling</keyword>
+        <keyword>Tiama</keyword>
+        <keyword>MCAL</keyword>
+        <indexterm>Container</indexterm>
+        <indexterm>Handling</indexterm>
+        <indexterm>Tiama</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>2015-12-15</p>
+  </conbody>
+</concept>

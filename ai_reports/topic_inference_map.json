@@ -1,5 +1,5 @@
 {
-  "Finish Setup - Tiama - CSBC-LO for MultiStation 3": {
+  "Container Handling - Tiama - MCAL 4": {
     "topic_type": "concept",
     "confidence": "low",
     "reasoning": "Heuristic fallback due to API error",
@@ -19,23 +19,20 @@
         "concept_pattern_hits": 0,
         "reference_pattern_hits": 0,
         "imperative_sentence_ratio": 0.0,
-        "avg_paragraph_length_words": 11
+        "avg_paragraph_length_words": 8
       },
       "context_frame": "introductory",
       "keyword_set": [
-        "Finish",
-        "Setup",
+        "Container",
+        "Handling",
         "Tiama",
-        "CSBC",
-        "LO",
-        "MultiStation",
-        "Approved"
+        "MCAL"
       ],
-      "compact_excerpt": "Finish Setup - Tiama - CSBC-LO for MultiStation 3 Approved: 2016-01-29"
+      "compact_excerpt": "Container Handling - Tiama - MCAL 4 2015-12-15"
     },
-    "classified_at": 1778834422.413075
+    "classified_at": 1779086656.2189765
   },
-  "Purpose": {
+  "Application": {
     "topic_type": "topic",
     "confidence": "low",
     "reasoning": "Heuristic fallback due to API error",
@@ -44,7 +41,7 @@
       "structural_signals": {
         "heading_depth": 1,
         "parent_title": "",
-        "position_in_doc": 0.375,
+        "position_in_doc": 0.333,
         "paragraph_count": 1,
         "step_list_count": 0,
         "table_count": 0,
@@ -55,23 +52,20 @@
         "concept_pattern_hits": 0,
         "reference_pattern_hits": 0,
         "imperative_sentence_ratio": 0.0,
-        "avg_paragraph_length_words": 14
+        "avg_paragraph_length_words": 10
       },
       "context_frame": "descriptive",
       "keyword_set": [
-        "Purpose",
-        "define",
+        "Application",
         "work",
         "instruction",
-        "proper",
-        "device",
-        "setup",
-        "MultiStation",
-        "machines"
+        "applies",
+        "manufacturing",
+        "facilities"
       ],
-      "compact_excerpt": "Purpose To define a work instruction for proper device setup of MultiStation 3 machines."
+      "compact_excerpt": "Application This work instruction applies to all O-I manufacturing facilities."
     },
-    "classified_at": 1778834422.4360394
+    "classified_at": 1779086656.235981
   },
   "Instructions": {
     "topic_type": "task",
@@ -82,37 +76,78 @@
       "structural_signals": {
         "heading_depth": 1,
         "parent_title": "",
-        "position_in_doc": 0.125,
+        "position_in_doc": 0.222,
         "paragraph_count": 1,
         "step_list_count": 0,
         "table_count": 0,
         "has_code_block": false
       },
       "lexical_signals": {
-        "task_verb_hits": 104,
-        "concept_pattern_hits": 87,
-        "reference_pattern_hits": 5,
-        "imperative_sentence_ratio": 0.095,
-        "avg_paragraph_length_words": 3546
+        "task_verb_hits": 23,
+        "concept_pattern_hits": 27,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.103,
+        "avg_paragraph_length_words": 1064
       },
       "context_frame": "descriptive",
       "keyword_set": [
-        "defect",
-        "button",
-        "Press",
-        "screen",
-        "size",
         "container",
-        "circle",
-        "energy",
-        "green",
-        "parameters",
-        "finish",
-        "using"
+        "Adjust",
+        "work",
+        "following",
+        "screen",
+        "machine",
+        "conveyor",
+        "steps",
+        "setup",
+        "containers",
+        "light",
+        "center"
       ],
       "compact_excerpt": "Instructions Before starting the work instruction activity, perform the following steps: Do not begin these tasks without confirmation that personnel directly involved have completed the required training associated with the work instruction activity and have reviewed this document. Gather necessary tools and equipment as identified below in the Equipment Section. Wear and use additional Personal "
     },
-    "classified_at": 1778834422.4681025
+    "classified_at": 1779086656.2489276
+  },
+  "Purpose": {
+    "topic_type": "topic",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.444,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 24
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Purpose",
+        "define",
+        "work",
+        "instruction",
+        "proper",
+        "container",
+        "handling",
+        "MCAL",
+        "machines",
+        "written",
+        "using",
+        "software"
+      ],
+      "compact_excerpt": "Purpose To define a work instruction for proper container handling of MCAL 4 machines. This was written using software 3.xx and images may vary."
+    },
+    "classified_at": 1779086656.2993698
   },
   "Required Training": {
     "topic_type": "topic",
@@ -123,7 +158,7 @@
       "structural_signals": {
         "heading_depth": 1,
         "parent_title": "",
-        "position_in_doc": 0.625,
+        "position_in_doc": 0.667,
         "paragraph_count": 1,
         "step_list_count": 0,
         "table_count": 0,
@@ -153,9 +188,9 @@
       ],
       "compact_excerpt": "Required Training Before performing this work instruction, applicable personnel must be trained by an authorized trainer on the required training contents listed in this document."
     },
-    "classified_at": 1778834422.4754918
+    "classified_at": 1779086656.551918
   },
-  "Application": {
+  "Revision History": {
     "topic_type": "topic",
     "confidence": "low",
     "reasoning": "Heuristic fallback due to API error",
@@ -164,7 +199,7 @@
       "structural_signals": {
         "heading_depth": 1,
         "parent_title": "",
-        "position_in_doc": 0.25,
+        "position_in_doc": 0.778,
         "paragraph_count": 1,
         "step_list_count": 0,
         "table_count": 0,
@@ -175,20 +210,21 @@
         "concept_pattern_hits": 0,
         "reference_pattern_hits": 0,
         "imperative_sentence_ratio": 0.0,
-        "avg_paragraph_length_words": 10
+        "avg_paragraph_length_words": 9
       },
-      "context_frame": "descriptive",
+      "context_frame": "mixed",
       "keyword_set": [
-        "Application",
-        "work",
-        "instruction",
-        "applies",
-        "manufacturing",
-        "facilities"
+        "Revision",
+        "History",
+        "Approved",
+        "Bob",
+        "Morin",
+        "Original",
+        "Issue"
       ],
-      "compact_excerpt": "Application This work instruction applies to all O-I manufacturing facilities."
+      "compact_excerpt": "Revision History 2015-12-15 Approved by Bob Morin Original Issue"
     },
-    "classified_at": 1778834422.47972
+    "classified_at": 1779086656.57925
   },
   "Safety": {
     "topic_type": "concept",
@@ -199,7 +235,7 @@
       "structural_signals": {
         "heading_depth": 1,
         "parent_title": "",
-        "position_in_doc": 0.875,
+        "position_in_doc": 0.889,
         "paragraph_count": 1,
         "step_list_count": 0,
         "table_count": 0,
@@ -229,10 +265,10 @@
       ],
       "compact_excerpt": "Safety Observe O-I standard safety requirements and procedures defined by the Global Environmental Health & Safety (EH&S) organization, as well as all applicable local, regional, and national requirements. Safety equipment and instructions specific to the completion of this work instruction are detailed in the Instructions Section."
     },
-    "classified_at": 1778834422.833838
+    "classified_at": 1779086656.585407
   },
-  "Revision History": {
-    "topic_type": "topic",
+  "Equipment": {
+    "topic_type": "concept",
     "confidence": "low",
     "reasoning": "Heuristic fallback due to API error",
     "ontology_hints": {},
@@ -240,7 +276,7 @@
       "structural_signals": {
         "heading_depth": 1,
         "parent_title": "",
-        "position_in_doc": 0.75,
+        "position_in_doc": 0.111,
         "paragraph_count": 1,
         "step_list_count": 0,
         "table_count": 0,
@@ -251,20 +287,22 @@
         "concept_pattern_hits": 0,
         "reference_pattern_hits": 0,
         "imperative_sentence_ratio": 0.0,
-        "avg_paragraph_length_words": 9
+        "avg_paragraph_length_words": 13
       },
-      "context_frame": "mixed",
+      "context_frame": "introductory",
       "keyword_set": [
-        "Revision",
+        "Equipment",
+        "Job",
         "History",
-        "Approved",
-        "Bob",
-        "Morin",
-        "Original",
-        "Issue"
+        "Sheet",
+        "Hex",
+        "Tools",
+        "Proper",
+        "Change",
+        "parts"
       ],
-      "compact_excerpt": "Revision History 2016-02-08 Approved by Bob Morin Original Issue"
+      "compact_excerpt": "Equipment Job History Sheet Hex Tools Proper Job Change parts for new job"
     },
-    "classified_at": 1778834423.159093
+    "classified_at": 1779086657.4163775
   }
 }

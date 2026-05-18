@@ -2,19 +2,19 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="equipment" xml:lang="en-us">
   <title>Equipment</title>
-  <shortdesc>3 mm (1/8 inch) conical 120 grit abrasive bit</shortdesc>
+  <shortdesc>Job History Sheet</shortdesc>
   <prolog>
     <metadata>
       <keywords>
         <keyword>Equipment</keyword>
-        <keyword>conical</keyword>
-        <keyword>abrasive</keyword>
-        <keyword>Commercial</keyword>
-        <keyword>container</keyword>
-        <keyword>passed</keyword>
+        <keyword>History</keyword>
+        <keyword>Sheet</keyword>
+        <keyword>Tools</keyword>
+        <keyword>Proper</keyword>
+        <keyword>Change</keyword>
         <indexterm>Equipment</indexterm>
-        <indexterm>conical</indexterm>
-        <indexterm>abrasive</indexterm>
+        <indexterm>History</indexterm>
+        <indexterm>Sheet</indexterm>
       </keywords>
       <prodinfo>
         <prodname></prodname>
@@ -22,12 +22,8 @@
     </metadata>
   </prolog>
   <conbody>
-    <p>3 mm (1/8 inch) conical 120 grit abrasive bit</p>
-    <p>
-      <fig>
-        <image href="../media/image6.png"/>
-      </fig>
-    </p>
-    <p>Commercial container(s) that has passed all inspection.</p>
+    <p>Job History Sheet</p>
+    <p>Hex Tools</p>
+    <p>Proper Job Change parts for new job</p>
   </conbody>
 </concept>

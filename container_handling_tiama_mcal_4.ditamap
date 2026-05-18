@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="container_handling_tiama_mcal_4" xml:lang="en-us">
+  <title>Container Handling - Tiama - MCAL 4</title>
+  <topicmeta>
+    <critdates>
+      <created date="2024-05-13" />
+      <revised modified="2024-05-13" />
+    </critdates>
+  </topicmeta>
+  <topicref href="container_handling_tiama_mcal_4.dita" navtitle="Container Handling - Tiama - MCAL 4" />
+  <mapref href="purpose_and_application_map.ditamap" navtitle="Purpose and Application" format="ditamap" />
+  <mapref href="safety_map.ditamap" navtitle="Safety" format="ditamap" />
+  <mapref href="instructions_map.ditamap" navtitle="Instructions" format="ditamap" />
+  <mapref href="required_training_map.ditamap" navtitle="Required Training" format="ditamap" />
+  <mapref href="equipment_map.ditamap" navtitle="Equipment" format="ditamap" />
+  <mapref href="revision_history_map.ditamap" navtitle="Revision History" format="ditamap" />
+</map>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="qa_test_engineer_headings" xml:lang="en-us">
+  <title>QA Test Engineer Headings</title>
+  <topicmeta>
+    <critdates>
+      <created date="2013-12-23" />
+      <revised modified="2013-12-23" />
+    </critdates>
+  </topicmeta>
+  <mapref href="start_testing_map.ditamap" navtitle="start testing" format="ditamap" />
+</map>

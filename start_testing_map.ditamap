@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="start_testing_map" xml:lang="en-us">
+  <title>start testing</title>
+  <topicref href="start_testing/start_testing.dita" navtitle="start testing" />
+</map>

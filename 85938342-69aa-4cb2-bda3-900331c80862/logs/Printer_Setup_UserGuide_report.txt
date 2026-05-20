@@ -1,0 +1,526 @@
+========================================================================
+  DITA OUTPUT VALIDATION REPORT
+========================================================================
+  Generated  : 2026-05-20 10:51:33
+  Output dir : /app/output/85938342-69aa-4cb2-bda3-900331c80862
+  Files found: 71  (.dita + .ditamap)
+========================================================================
+
+------------------------------------------------------------------------
+  FILE   : adjusting_print_quality/adjusting_print_quality.dita
+  STATUS : [PASS]
+  Root tag     : concept
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : adjusting_print_quality/aligning_the_print_head_using_the_product_control_panel.dita
+  STATUS : [PASS]
+  Root tag     : task
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : adjusting_print_quality/checking_the_nozzles_using_a_computer_utility.dita
+  STATUS : [PASS]
+  Root tag     : task
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : adjusting_print_quality/checking_the_nozzles_using_the_product_control_panel.dita
+  STATUS : [PASS]
+  Root tag     : task
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : adjusting_print_quality/checking_the_number_of_sheets_fed.dita
+  STATUS : [PASS]
+  Root tag     : concept
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : adjusting_print_quality/checking_the_number_of_sheets_on_the_lcd_screen.dita
+  STATUS : [PASS]
+  Root tag     : task
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : adjusting_print_quality/checking_the_sheet_counter_mac.dita
+  STATUS : [PASS]
+  Root tag     : task
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : adjusting_print_quality/checking_the_sheet_counter_windows.dita
+  STATUS : [PASS]
+  Root tag     : task
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : adjusting_print_quality/cleaning_the_paper_guide.dita
+  STATUS : [PASS]
+  Root tag     : task
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : adjusting_print_quality/cleaning_the_print_head_path.dita
+  STATUS : [PASS]
+  Root tag     : task
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : adjusting_print_quality/cleaning_the_print_head_using_a_computer_utility.dita
+  STATUS : [FAIL]
+  Root tag     : unknown
+  DOCTYPE      : OK
+  Errors       : XML parse error — file may be malformed or contain undeclared entities: mismatched tag: line 6, column 2872
+
+------------------------------------------------------------------------
+  FILE   : adjusting_print_quality/cleaning_the_print_head_using_the_product_control_panel.dita
+  STATUS : [PASS]
+  Root tag     : task
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : adjusting_print_quality/power_cleaning.dita
+  STATUS : [PASS]
+  Root tag     : concept
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : adjusting_print_quality/power_cleaning_using_a_computer_utility.dita
+  STATUS : [PASS]
+  Root tag     : task
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : adjusting_print_quality/power_cleaning_using_the_product_control_panel.dita
+  STATUS : [PASS]
+  Root tag     : task
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : adjusting_print_quality/print_head_alignment.dita
+  STATUS : [PASS]
+  Root tag     : concept
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : adjusting_print_quality/print_head_cleaning.dita
+  STATUS : [PASS]
+  Root tag     : concept
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : adjusting_print_quality/print_head_maintenance.dita
+  STATUS : [PASS]
+  Root tag     : concept
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : adjusting_print_quality/print_head_nozzle_check.dita
+  STATUS : [PASS]
+  Root tag     : concept
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : cleaning_and_transporting_your_product/cleaning_and_transporting_your_product.dita
+  STATUS : [PASS]
+  Root tag     : concept
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : cleaning_and_transporting_your_product/cleaning_your_product.dita
+  STATUS : [PASS]
+  Root tag     : task
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : cleaning_and_transporting_your_product/copyright_notice.dita
+  STATUS : [PASS]
+  Root tag     : concept
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : cleaning_and_transporting_your_product/transporting_your_product.dita
+  STATUS : [PASS]
+  Root tag     : task
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : copying/copying.dita
+  STATUS : [PASS]
+  Root tag     : concept
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : copying/copying_documents_or_photos.dita
+  STATUS : [PASS]
+  Root tag     : task
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : copying/copying_options.dita
+  STATUS : [PASS]
+  Root tag     : reference
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : loading_paper/borderless_paper_type_compatibility.dita
+  STATUS : [PASS]
+  Root tag     : concept
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : loading_paper/compatible_metr_papers.dita
+  STATUS : [PASS]
+  Root tag     : reference
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : loading_paper/double_sided_printing_capacity.dita
+  STATUS : [PASS]
+  Root tag     : concept
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : loading_paper/loading_paper.dita
+  STATUS : [PASS]
+  Root tag     : concept
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : loading_paper/loading_paper_in_the_rear_paper_feeder.dita
+  STATUS : [PASS]
+  Root tag     : task
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : loading_paper/paper_loading_capacity.dita
+  STATUS : [PASS]
+  Root tag     : reference
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : loading_paper/paper_or_media_type_settings_control_panel.dita
+  STATUS : [PASS]
+  Root tag     : reference
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : loading_paper/paper_or_media_type_settings_printing_software.dita
+  STATUS : [PASS]
+  Root tag     : reference
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : loading_paper/paper_source_settings_options.dita
+  STATUS : [PASS]
+  Root tag     : reference
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : loading_paper/selecting_the_default_paper_source_settings.dita
+  STATUS : [PASS]
+  Root tag     : task
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : loading_paper/selecting_the_paper_settings_control_panel.dita
+  STATUS : [PASS]
+  Root tag     : task
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : placing_originals_on_the_product/placing_originals_on_the_product.dita
+  STATUS : [PASS]
+  Root tag     : concept
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : placing_originals_on_the_product/placing_originals_on_the_scanner_glass.dita
+  STATUS : [PASS]
+  Root tag     : task
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : product_basics/changing_lcd_screen_language.dita
+  STATUS : [PASS]
+  Root tag     : task
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : product_basics/changing_the_power_off_timer_setting_from_the_control_panel.dita
+  STATUS : [PASS]
+  Root tag     : task
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : product_basics/changing_the_sleep_timer_setting_from_the_control_panel.dita
+  STATUS : [PASS]
+  Root tag     : task
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : product_basics/entering_characters_on_the_lcd_screen.dita
+  STATUS : [PASS]
+  Root tag     : concept
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : product_basics/product_basics.dita
+  STATUS : [PASS]
+  Root tag     : concept
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : product_basics/product_parts_back.dita
+  STATUS : [PASS]
+  Root tag     : task
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : product_basics/product_parts_front.dita
+  STATUS : [PASS]
+  Root tag     : task
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : product_basics/product_parts_inside.dita
+  STATUS : [PASS]
+  Root tag     : task
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : product_basics/product_parts_locations.dita
+  STATUS : [PASS]
+  Root tag     : concept
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : product_basics/status_icon_information.dita
+  STATUS : [PASS]
+  Root tag     : reference
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : product_basics/the_lcd_screen.dita
+  STATUS : [PASS]
+  Root tag     : task
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : product_basics/using_power_saving_settings.dita
+  STATUS : [PASS]
+  Root tag     : concept
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : product_basics/using_the_control_panel.dita
+  STATUS : [PASS]
+  Root tag     : task
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : product_basics/viewing_animations.dita
+  STATUS : [PASS]
+  Root tag     : task
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : refilling_ink/check_ink_levels.dita
+  STATUS : [PASS]
+  Root tag     : concept
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : refilling_ink/checking_ink_levels_mac.dita
+  STATUS : [PASS]
+  Root tag     : task
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : refilling_ink/checking_ink_levels_on_your_product.dita
+  STATUS : [PASS]
+  Root tag     : concept
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : refilling_ink/checking_ink_levels_windows.dita
+  STATUS : [PASS]
+  Root tag     : task
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : refilling_ink/disabling_special_offers_with_windows.dita
+  STATUS : [PASS]
+  Root tag     : task
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : refilling_ink/ink_bottle_part_numbers.dita
+  STATUS : [PASS]
+  Root tag     : reference
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : refilling_ink/ink_safety_precautions.dita
+  STATUS : [PASS]
+  Root tag     : concept
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : refilling_ink/purchase_metr_ink.dita
+  STATUS : [PASS]
+  Root tag     : concept
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : refilling_ink/refilling_ink.dita
+  STATUS : [PASS]
+  Root tag     : concept
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : refilling_ink/refilling_the_ink_tanks.dita
+  STATUS : [PASS]
+  Root tag     : task
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : adjusting_print_quality_map.ditamap
+  STATUS : [PASS]
+  Root tag     : map
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : cleaning_and_transporting_your_product_map.ditamap
+  STATUS : [PASS]
+  Root tag     : map
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : copying_map.ditamap
+  STATUS : [PASS]
+  Root tag     : map
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : loading_paper_map.ditamap
+  STATUS : [PASS]
+  Root tag     : map
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : placing_originals_on_the_product_map.ditamap
+  STATUS : [PASS]
+  Root tag     : map
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : printer_setup_userguide.ditamap
+  STATUS : [PASS]
+  Root tag     : bookmap
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : product_basics_map.ditamap
+  STATUS : [PASS]
+  Root tag     : map
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : refilling_ink_map.ditamap
+  STATUS : [PASS]
+  Root tag     : map
+  DOCTYPE      : OK
+  Errors       : none
+
+========================================================================
+  SUMMARY
+------------------------------------------------------------------------
+  Total files : 71
+  Passed      : 70
+  Failed      : 1
+----------------------------------------
+  Total Dita Files generated         : 63
+  Total Headings counted             : 7
+  Total subheadings under Heading (per heading name):
+    - Adjusting Print Quality                           : 19 file(s)
+    - Cleaning And Transporting Your Product            : 4 file(s)
+    - Copying                                           : 3 file(s)
+    - Loading Paper                                     : 11 file(s)
+    - Placing Originals On The Product                  : 2 file(s)
+    - Product Basics                                    : 14 file(s)
+    - Refilling Ink                                     : 10 file(s)
+  Total Ditamap Files generated      : 8
+  Root Ditamap                       : adjusting_print_quality_map.ditamap
+  Total images counted               : 235
+========================================================================

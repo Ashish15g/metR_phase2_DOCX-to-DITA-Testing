@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="placing_originals_on_the_product_map" xml:lang="en-us">
+  <title>Placing Originals on the Product</title>
+  <topicref href="placing_originals_on_the_product/placing_originals_on_the_product.dita" navtitle="Placing Originals on the Product" />
+  <topicref href="placing_originals_on_the_product/placing_originals_on_the_scanner_glass.dita" navtitle="Placing Originals on the Scanner Glass" />
+</map>

@@ -1,0 +1,133 @@
+{
+  "job_id": "a917dfc8-c7c1-4b65-aee7-a8368d309637",
+  "output_dir": "/app/output/a917dfc8-c7c1-4b65-aee7-a8368d309637",
+  "run_at": "2026-05-20T08:37:44.043428+00:00",
+  "files_discovered": {
+    "dita_file_count": 6,
+    "dita_files": [
+      "approval/approval.dita",
+      "procedure/procedure.dita",
+      "purpose/purpose.dita",
+      "reference/reference.dita",
+      "revision_history/revision_history.dita",
+      "shift_coordinator_allocation.dita"
+    ],
+    "ditamap_file_count": 6,
+    "ditamap_files": [
+      "approval_map.ditamap",
+      "procedure_map.ditamap",
+      "purpose_map.ditamap",
+      "reference_map.ditamap",
+      "revision_history_map.ditamap",
+      "shift_coordinator_allocation.ditamap"
+    ]
+  },
+  "document_context": {
+    "prodname": "",
+    "equipment_name": "",
+    "task_type": "",
+    "document_keywords": [],
+    "extraction_method": "heuristic"
+  },
+  "structural_issues": [
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "shift_coordinator_allocation.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "purpose/purpose.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "section_missing_title",
+      "file": "revision_history/revision_history.dita",
+      "message": "<section> #1 has no <title> \u2014 recommended for DITA compliance",
+      "line": 6
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_missing_title",
+      "file": "revision_history/revision_history.dita",
+      "message": "<table> #1 has no <title> element \u2014 required for accessibility and DITA compliance",
+      "line": 7
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "revision_history/revision_history.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "reference/reference.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "section_missing_title",
+      "file": "approval/approval.dita",
+      "message": "<section> #1 has no <title> \u2014 recommended for DITA compliance",
+      "line": 6
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_missing_title",
+      "file": "approval/approval.dita",
+      "message": "<table> #1 has no <title> element \u2014 required for accessibility and DITA compliance",
+      "line": 8
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "approval/approval.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "procedure/procedure.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    }
+  ],
+  "summary": {
+    "dita_file_count": 6,
+    "missing_count": 0,
+    "broken_xml_count": 0,
+    "empty_count": 0,
+    "ditamap_broken_ref_count": 0,
+    "broken_mapref_count": 0,
+    "orphan_file_count": 0,
+    "duplicate_id_count": 0,
+    "broken_xref_count": 0,
+    "filename_space_count": 0,
+    "severity_counts": {
+      "CRITICAL": 0,
+      "WARNING": 10,
+      "INFO": 0
+    },
+    "category_counts": {
+      "missing_shortdesc": 6,
+      "section_missing_title": 2,
+      "table_missing_title": 2
+    }
+  },
+  "zone1_auto_fixes": {
+    "fixed": [],
+    "errors": [],
+    "summary": {
+      "fixed_count": 0,
+      "error_count": 0
+    }
+  },
+  "backend_dtd_errors": {
+    "source": "backend core _report.txt",
+    "errors_by_file": {},
+    "file_count_with_errors": 0
+  }
+}

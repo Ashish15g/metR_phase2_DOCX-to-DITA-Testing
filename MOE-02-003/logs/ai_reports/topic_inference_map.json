@@ -1,0 +1,232 @@
+{
+  "Approval": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.0,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 36
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Approval",
+        "Global",
+        "Sanctioning",
+        "Representatives",
+        "Team",
+        "Region",
+        "Representative",
+        "Asia",
+        "Pacific",
+        "Jen",
+        "Marshall",
+        "Michael"
+      ],
+      "compact_excerpt": "Approval Sanctioning Representatives of the Global Team Region Representative Asia Pacific Jen Marshall, Michael Woods Jr. Europe Silvio Gaffulli, Christophe Courbiere Americas Alejandro Uribe, Mario Vendramini, Andres Zuluaga, Luis Bedoya Global Operations Steve Kitcher, Joyce Gilman"
+    },
+    "classified_at": 1779266263.337779
+  },
+  "Procedure": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.167,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 83
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Shift",
+        "Procedure",
+        "role",
+        "MOE",
+        "Organizational",
+        "Chart",
+        "Template",
+        "Lead",
+        "Coordinator",
+        "position",
+        "each",
+        "shall"
+      ],
+      "compact_excerpt": "Procedure The Shift Lead role or a Shift Coordinator position shall be required at each facility for each shift, as specified in EN-MOE-02-021-F 003 Organizational Chart Template. MOE-02-021-F 003  Organizational Chart Template MOE-02-021-F 003  Organizational Chart Template To define a procedure that applies to all O-I plants outlining the minimum requirements for the Shift Coordinator position o"
+    },
+    "classified_at": 1779266263.3575277
+  },
+  "Purpose": {
+    "topic_type": "topic",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.333,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 47
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Purpose",
+        "Shift",
+        "role",
+        "define",
+        "procedure",
+        "applies",
+        "plants",
+        "outlining",
+        "minimum",
+        "requirements",
+        "Coordinator",
+        "position"
+      ],
+      "compact_excerpt": "Purpose To define a procedure that applies to all O-I plants outlining the minimum requirements for the Shift Coordinator position or a Shift Lead role in the plant.  Note that the name of this role may vary by local nomenclature, such as Shift Manager or Shift Supervisor."
+    },
+    "classified_at": 1779266263.3698964
+  },
+  "Revision History": {
+    "topic_type": "topic",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.667,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 35
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Revision",
+        "History",
+        "Approved",
+        "Director",
+        "Sarah",
+        "Zibbel",
+        "HR",
+        "Manufacturing",
+        "Excellence",
+        "Original",
+        "Issue",
+        "Joyce"
+      ],
+      "compact_excerpt": "Revision History 2015-10-26 Approved by Sarah Zibbel, HR Director, Manufacturing Excellence Original Issue 2018-04-20 Approved by Joyce Gilman, Director, Global Operations Talent and Leadership Development Updated with the following changes: Revised Sections 1.1 and 3.1"
+    },
+    "classified_at": 1779266263.3975153
+  },
+  "Reference": {
+    "topic_type": "topic",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.5,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 6
+      },
+      "context_frame": "mixed",
+      "keyword_set": [
+        "Reference",
+        "MOE",
+        "Organizational",
+        "Chart",
+        "Template"
+      ],
+      "compact_excerpt": "Reference MOE-02-021-F 003  Organizational Chart Template"
+    },
+    "classified_at": 1779266263.4606647
+  },
+  "Shift Coordinator Allocation": {
+    "topic_type": "topic",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.833,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 4
+      },
+      "context_frame": "mixed",
+      "keyword_set": [
+        "Shift",
+        "Coordinator",
+        "Allocation"
+      ],
+      "compact_excerpt": "Shift Coordinator Allocation 2018-04-20"
+    },
+    "classified_at": 1779266263.6612167
+  }
+}

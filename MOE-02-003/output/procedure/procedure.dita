@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="procedure" xml:lang="en-us">
+  <title>Procedure</title>
+  <shortdesc>The Shift Lead role or a Shift Coordinator position shall be required at each facility</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Shift</keyword>
+        <keyword>Organizational</keyword>
+        <keyword>Chart</keyword>
+        <keyword>Template</keyword>
+        <keyword>Procedure</keyword>
+        <keyword>Lead</keyword>
+        <indexterm>Shift</indexterm>
+        <indexterm>Organizational</indexterm>
+        <indexterm>Chart</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>    <ol>
+    <li><p>The Shift Lead role or a Shift Coordinator position shall be required at each facility for each shift, as specified in EN-MOE-02-021-F 003 Organizational Chart Template.</p>
+      <ul id="ul_08374201">
+            <li>MOE-02-021-F 003  Organizational Chart Template</li>
+            <li>MOE-02-021-F 003  Organizational Chart Template</li>
+          </ul></li>
+    <li>To define a procedure that applies to all O-I plants outlining the minimum requirements for the Shift Coordinator position or a Shift Lead role in the plant.  Note that the name of this role may vary by local nomenclature, such as Shift Manager or Shift Supervisor.</li>
+    </ol></conbody>
+</concept>

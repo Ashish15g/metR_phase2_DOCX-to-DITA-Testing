@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="revision_history" xml:lang="en-us">
+  <title>Revision History</title>
+  <shortdesc>2015-10-26 Approved by Sarah Zibbel, HR Director, Manufacturing Excellence Original Issue 2018-04-20 Approved by Joyce</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Revision</keyword>
+        <keyword>History</keyword>
+        <keyword>Approved</keyword>
+        <keyword>Director</keyword>
+        <keyword>Sarah</keyword>
+        <keyword>Zibbel</keyword>
+        <indexterm>Revision</indexterm>
+        <indexterm>History</indexterm>
+        <indexterm>Approved</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <body><table frame="all" colsep="1" rowsep="1">
+        <tgroup cols="2">
+          <colspec colname="col1" colnum="1" colwidth="1*"/>
+          <colspec colname="col2" colnum="2" colwidth="1*"/>
+          <tbody>
+            <row>
+              <entry>2015-10-26</entry>
+              <entry>Approved by Sarah Zibbel, HR Director, Manufacturing Excellence Original Issue</entry>
+            </row>
+            <row>
+              <entry>2018-04-20</entry>
+              <entry>Approved by Joyce Gilman, Director, Global Operations Talent and Leadership Development Updated with the following changes: Revised Sections 1.1 and 3.1</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table></body>
+</topic>

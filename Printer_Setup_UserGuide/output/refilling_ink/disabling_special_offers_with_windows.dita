@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Disabling_Special_Offers_with_Windows" xml:lang="en-us">
+  <title>Disabling Special Offers with Windows</title>
+  <shortdesc>You can disable special offers messages from MetR using a utility on your Windows computer.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Windows</keyword>
+        <keyword>Offers</keyword>
+        <keyword>right</keyword>
+        <keyword>click</keyword>
+        <keyword>Disabling</keyword>
+        <keyword>Special</keyword>
+        <indexterm>Windows</indexterm>
+        <indexterm>Offers</indexterm>
+        <indexterm>right</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <context>
+      <p>You can disable special offers messages from MetR using a utility on your Windows computer.</p>
+    </context>
+    <steps id="steps_09140751">
+      <step>
+        <cmd>Access the Windows Desktop and right-click the  icon for your product in the right side of the Windows taskbar, or click the up arrow and right-click . Select <b>Monitoring Preferences</b>.</cmd>
+        <info>
+          <p>You see this window:</p>
+          <fig>
+            <image href="../media/image151.jpeg"/>
+          </fig>
+        </info>
+        <info>
+          <fig>
+            <image href="../media/image147.png"/>
+          </fig>
+          <fig>
+            <image href="../media/image147.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>To disable promotional offers, deselect the <b>Display</b>
+          <b>MetR</b>
+          <b>Offers</b>checkbox.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

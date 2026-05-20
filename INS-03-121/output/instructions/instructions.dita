@@ -1,0 +1,1093 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="instructions" xml:lang="en-us">
+  <title>Instructions</title>
+  <shortdesc>The height of the reaction wheel is changed with the wheel adjusting nut. It may</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>wheel</keyword>
+        <keyword>drive</keyword>
+        <keyword>reaction</keyword>
+        <keyword>position</keyword>
+        <keyword>container</keyword>
+        <keyword>squeeze</keyword>
+        <indexterm>wheel</indexterm>
+        <indexterm>drive</indexterm>
+        <indexterm>reaction</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <steps id="steps_084849">
+      <step>
+        <cmd>Before starting the work instruction activity, perform the following steps:</cmd>
+        <substeps id="substeps_08484901">
+          <substep>
+            <cmd>Do not begin these tasks without confirmation that personnel directly involved have completed the required training associated with the work instruction activity and have reviewed this document.</cmd>
+          </substep>
+          <substep>
+            <cmd>Gather necessary tools and equipment as identified below in the Equipment Section.</cmd>
+          </substep>
+          <substep>
+            <cmd>Wear and use additional Personal Protective Equipment (PPE) and safety equipment required for this specific work instruction.</cmd>
+          </substep>
+          <substep>
+            <cmd>Obey all applicable safety requirements and procedures.</cmd>
+          </substep>
+          <substep>
+            <cmd>Notify appropriate personnel of the activity and estimated time needed to complete the tasks.</cmd>
+          </substep>
+          <substep>
+            <cmd>Clearly identify, mark-off, and secure the designated area defined by the work instruction activity.</cmd>
+          </substep>
+          <substep>
+            <cmd>Follow all Lockout/Tagout procedures when work instruction activity requires isolating energy in the designated area. Verify energy is isolated before starting work.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image1.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484903">
+          <substep>
+            <cmd>Some setup procedures require that power be turned ON to the squeeze tester. These procedures should only be performed by experienced personnel who understand the potential safety hazards. Exercise extreme caution at all times.</cmd>
+          </substep>
+          <substep>
+            <cmd>Never run any containers through the squeeze tester without all guards in place. Failure to observe this warning could result in personal injury.</cmd>
+          </substep>
+          <substep>
+            <cmd>Always wear gloves when working around the squeeze tester as glass slivers may be present.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>To prepare the TW0444 for a new job, perform the following steps:</cmd>
+        <substeps id="substeps_08484904">
+          <substep>
+            <cmd>The drive wheel, reaction shoe, and reaction wheel are considered tooling parts and are available in a variety of heights from 1 to 5 in. [25 to 127 mm] with an optional 7 in. [178 mm] height available on a special order basis.</cmd>
+          </substep>
+          <substep>
+            <cmd>The choice of which tooling to use depends on the ware being run and user-determined criteria of how the ware should be tested.</cmd>
+          </substep>
+          <substep>
+            <cmd>The tooling must be changed prior to setting up the squeeze tester to operate.</cmd>
+          </substep>
+          <substep>
+            <cmd>When changing from larger to smaller tooling, no machine changes are usually required prior to changing the tooling.</cmd>
+          </substep>
+          <substep>
+            <cmd>When changing from smaller to larger tooling, it may be necessary to raise the height of the squeeze tester so the new tooling will clear the conveyor.</cmd>
+          </substep>
+          <substep>
+            <cmd>The choice of which drive wheel and reaction shoe to use depends on the ware being run and user-determined criteria of how the ware should be tested.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image2.png"/>
+              </fig>
+              <fig>
+                <image href="../media/image3.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484906">
+          <substep>
+            <cmd>When the most desirable combination for squeeze testing is determined, select and assemble the required change parts.</cmd>
+          </substep>
+          <substep>
+            <cmd>Stop the machine and clean out any broken glass. A glass breaking device may be used.</cmd>
+          </substep>
+          <substep>
+            <cmd>Inspect the infeed and outfeed guide rails for damage and replace if necessary.</cmd>
+          </substep>
+          <substep>
+            <cmd>Inspect for any missing or damaged safety guards and replace or install if necessary.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>To set up the TW0444 Drive Wheel, perform the following steps:</cmd>
+        <substeps id="substeps_08484907">
+          <substep>
+            <cmd>Remove the two 3/8-16 UNC x 1 in. hex-head bolts which hold the drive wheel guard assembly to the air bag supports. Remove the guard assembly.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image4.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484909">
+          <substep>
+            <cmd>Remove the drive wheel alignment arm assembly and spacer by removing two 3/8-16 UNC x 2-1/4 in. hex-head bolts.</cmd>
+          </substep>
+          <substep>
+            <cmd>Remove the 1/4-20 UNC x 2 in. hex-head bolt which holds the drive alignment bearing and bearing spacer.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image5.png"/>
+              </fig>
+              <fig>
+                <image href="../media/image6.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484911">
+          <substep>
+            <cmd>Remove the 1/4-20 UNC x 1 in. hex-head bolt which holds the brush mount. Remove the brush mount and brush.</cmd>
+          </substep>
+          <substep>
+            <cmd>Remove the clamp-roller spreader plate and three die springs by removing the four 5/16-18 UNC x 1-1/2 in. hex-head bolts.</cmd>
+          </substep>
+          <substep>
+            <cmd>Remove the upper clamp-roller plate by removing the 1/2-13 UNC x 1 in. hex-head bolt attaching it to the top of the clamp roller shaft.</cmd>
+          </substep>
+          <substep>
+            <cmd>Remove the three upper drive wheel support cam follower assemblies.</cmd>
+            <info>
+              <note type="note">The assembly attached to the cam follower support plate next to the drive roller assembly has only two cam followers while the assemblies at the other two locations each have three cam followers.</note>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484913">
+          <substep>
+            <cmd>Push the lower clamp roller plate and clamp roller toward the center of the drive wheel and lift out the drive wheel.</cmd>
+          </substep>
+          <substep>
+            <cmd>Remove the three lower drive wheel support cam follower assemblies and relocate to the proper tapped hole location for the drive wheel to be installed.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image7.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484915">
+          <substep>
+            <cmd>Insert the desired drive wheel into position on the support cam follower assemblies. Make sure the clamp roller is inside the drive roll.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image8.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484917">
+          <substep>
+            <cmd>Check to make sure the rear alignment cam followers and the bearing wheel are tight against the drive wheel at the front and back. If they are not, adjust them until they are tight against the inside of the drive wheel so the drive wheel cannot move sideways relative to the yoke assembly.</cmd>
+          </substep>
+          <substep>
+            <cmd>Replace the upper clamp-roller plate and clamp roller bolt.</cmd>
+          </substep>
+          <substep>
+            <cmd>Install the upper drive wheel cam follower support assemblies in the proper tapped hole.</cmd>
+          </substep>
+          <substep>
+            <cmd>Push the clamp roller assembly away from the center of the drive roll. Replace the die springs and c lamp-roller spreader plate.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image9.png"/>
+              </fig>
+              <fig>
+                <image href="../media/image10.png"/>
+              </fig>
+              <fig>
+                <image href="../media/image11.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484919">
+          <substep>
+            <cmd>Replace the brush and brush mount.</cmd>
+          </substep>
+          <substep>
+            <cmd>Replace the drive alignment arm and spacers.</cmd>
+          </substep>
+          <substep>
+            <cmd>Replace the drive wheel guard assembly.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>To set up the TW0444 Reaction Shoe, perform the following steps:</cmd>
+        <substeps id="substeps_08484920">
+          <substep>
+            <cmd>To prevent possible injury or machine damage, support the reaction shoe so it does not fall when the clamping bolts are released.</cmd>
+          </substep>
+          <substep>
+            <cmd>Remove the four 3/8-16 UNC x 6 in. hex-head bolts and two strap clamps which hold the reaction shoe to the support column.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image12.png"/>
+              </fig>
+              <fig>
+                <image href="../media/image13.png"/>
+              </fig>
+              <fig>
+                <image href="../media/image14.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484922">
+          <substep>
+            <cmd>Remove the reaction shoe.</cmd>
+          </substep>
+          <substep>
+            <cmd>Place the new reaction shoe against the support column and replace the clamp bolts and straps.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image15.png"/>
+              </fig>
+              <fig>
+                <image href="../media/image16.png"/>
+              </fig>
+              <fig>
+                <image href="../media/image17.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>To set up the TW0444 Reaction Wheel, perform the following steps:</cmd>
+        <substeps id="substeps_08484924">
+          <substep>
+            <cmd>Remove the three 3/8-16 UNC hex-head bolts which hold the reaction-wheel cover in place and remove the reaction wheel cover.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image18.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484926">
+          <substep>
+            <cmd>Remove the reaction wheel and replace with the proper size wheel.</cmd>
+            <info>
+              <note type="caution">The height of the reaction wheel is changed with the wheel adjusting nut. It may be necessary to temporarily raise the height of the reaction wheel to avoid interference with the conveyor while adjusting the height of the drive wheel</note>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484928">
+          <substep>
+            <cmd>Rotate the wheel by hand to make sure it is centered on the cast iron hub. It may be necessary to insert shims between the cast iron hub and the inside rim of the wheel to prevent an off-centered condition.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>For Machine Adjustments of the TW0444 Drive Wheel, perform the following steps:</cmd>
+        <info>
+          <p>The height of the reaction wheel is changed with the wheel adjusting nut. It may be necessary to temporarily raise the height of the reaction wheel to avoid interference with the conveyor while adjusting the height of the drive wheel.</p>
+        </info>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484930">
+          <substep>
+            <cmd>Adjust the height of the drive wheel to the proper position:</cmd>
+          </substep>
+          <substep>
+            <cmd>Loosen the lock nut on each of the four leg jack screws.</cmd>
+          </substep>
+          <substep>
+            <cmd>Equally adjust the four jack screws up or down until the drive wheel is at the proper location relative to the container to be tested. The bottom of the drive wheel should be at least 1/4 in. (6.4 mm) above the top surface of the conveyor.</cmd>
+            <info>
+              <note type="note">Make sure the jack screws are adjusted equally so the drive wheel is parallel to the conveyor surface in all directions.</note>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484932">
+          <substep>
+            <cmd>Tighten the jack screw lock nuts.</cmd>
+            <info>
+              <note type="caution">If this setup is changing to a larger container, it may be necessary to move the reaction shoe or wheel away from the conveyor temporarily in order to set up the drive wheel.</note>
+              <fig>
+                <image href="../media/image19.png"/>
+              </fig>
+              <fig>
+                <image href="../media/image20.png"/>
+              </fig>
+              <fig>
+                <image href="../media/image21.png"/>
+              </fig>
+              <fig>
+                <image href="../media/image22.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484934">
+          <substep>
+            <cmd>Adjust the forward position of the drive wheel.</cmd>
+          </substep>
+          <substep>
+            <cmd>Loosen the two strap clamps which secure the leg plates to the floor plates.</cmd>
+          </substep>
+          <substep>
+            <cmd>Turn on the air supply to the squeeze tester.</cmd>
+          </substep>
+          <substep>
+            <cmd>Turn on the electrical power to the squeeze tester.</cmd>
+          </substep>
+          <substep>
+            <cmd>Turn the OFF/RUN/SETUP switch to SETUP. The drive wheel will extend to its forward position.</cmd>
+          </substep>
+          <substep>
+            <cmd>Adjust the air bag air pressure to 15 psi [103.4 kPa]. Cycle the OFF/RUN/SETUP switch to OFF and back to SETUP to retract and extend the drive wheel again and verify that the pressure has changed correctly.</cmd>
+          </substep>
+          <substep>
+            <cmd>For flask-shaped or small diameter ware, the ware can be run in the center of the conveyor.</cmd>
+          </substep>
+          <substep>
+            <cmd>For large diameter containers, the forward position of the drive wheel (under compression) should allow the container to be aligned with 1/3 to 1/2 of the container overhanging the edge of the conveyor.</cmd>
+          </substep>
+          <substep>
+            <cmd>The illustrations in this work instruction assume there is such an overhang and that the overhang is on the side of the conveyor away from the drive wheel. Depending on the position of the cullet chute, the overhang might be on the drive-wheel side of the conveyor.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image23.png"/>
+              </fig>
+              <fig>
+                <image href="../media/image24.png"/>
+              </fig>
+              <fig>
+                <image href="../media/image25.png"/>
+              </fig>
+              <fig>
+                <image href="../media/image26.png"/>
+              </fig>
+              <note type="note">When adjusting the forward position of the squeeze tester, it will be necessary to move one side of the squeeze tester a small amount and then move the other side so the squeeze tester moves straight toward the conveyor.</note>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484936">
+          <substep>
+            <cmd>Insert a pry bar in the teeth of the rack near the pry pin and move the squeeze tester toward or away from the conveyor as necessary.</cmd>
+            <info>
+              <note type="note">If there is not enough room to use the rack and pry pin in the position shown, they can be moved to the alternate position at the other end of the leg plates.</note>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484938">
+          <substep>
+            <cmd>With the conveyor turned off, place a container in front of the drive wheel at the desired location relative to the side of the conveyor and move the squeeze tester until the drive wheel touches the container. Continue to move the drive wheel forward the distance the air bag is to be compressed for test operations.</cmd>
+            <info>
+              <note type="note">If this is a first time setup, use the recommended air bag compression distances shown in the table. Otherwise, use the distance previously established for the container being run.</note>
+              <fig>
+                <image href="../media/image27.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484940">
+          <substep>
+            <cmd>When the squeeze tester is in the desired position, tighten the bolts holding the leg base strap clamps.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image28.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484942">
+          <substep>
+            <cmd>Check the position of the wire brush against the drive wheel. The brush should be making reasonably firm contact against the drive wheel without digging into the surface of the wheel or causing excessive drag on the wheel. Adjust the forward position of the drive wheel.</cmd>
+          </substep>
+          <substep>
+            <cmd>If the brush position is not correct, loosen the brush mount and alignment bearing 1/4-20 UNC bolts.</cmd>
+          </substep>
+          <substep>
+            <cmd>Move the brush to the correct position and tighten the bolts</cmd>
+            <info>
+              <fig>
+                <image href="../media/image29.png"/>
+              </fig>
+              <fig>
+                <image href="../media/image30.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484944">
+          <substep>
+            <cmd>With the drive wheel in the extended position, check the position of the scraper against the drive wheel. It should be tight against the drive wheel with no noticeable gaps and a reasonably stiff resistance to being moved away from the drive wheel.</cmd>
+          </substep>
+          <substep>
+            <cmd>If the scraper position is not correct, remove the two 3/8-16 UNC x 1/2 hex-head bolts and washers which hold the scraper in position.</cmd>
+          </substep>
+          <substep>
+            <cmd>Bend the scraper to the desired angle which will hold it against the drive wheel with a reasonable amount of tension.</cmd>
+          </substep>
+          <substep>
+            <cmd>Replace the scraper and scraper mounting bolts and washers.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image31.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>For Machine Adjustments of the TW0444 Reaction Shoe, perform the following steps:</cmd>
+        <substeps id="substeps_08484946">
+          <substep>
+            <cmd>Loosen the reaction shoe clamp straps by loosening the shoe locking screws. The reaction shoe assembly should be free to move but should not be so loose it can tip away from its true position when force is applied at the top.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image32.png"/>
+              </fig>
+              <fig>
+                <image href="../media/image33.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484948">
+          <substep>
+            <cmd>If not already on, turn on the air supply to the squeeze tester.</cmd>
+          </substep>
+          <substep>
+            <cmd>If not already on, turn on the electrical power to the squeeze tester.</cmd>
+          </substep>
+          <substep>
+            <cmd>Turn the OFF/RUN/SETUP switch to SETUP. The drive wheel will extend to its forward Zposition.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image34.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484950">
+          <substep>
+            <cmd>Adjust the air bag air pressure to 15 psi [103.4 kPa]. Cycle the OFF/RUN/SETUP switch to OFF and back to SETUP to retract and extend the drive wheel again and verify that the pressure has changed correctly.</cmd>
+            <info>
+              <note type="note">Initial setup is performed at 15 psi [103.4 kPa] to prevent unnecessary breakage of ware. This setting is low enough that all but the weakest ware will survive the squeezing pressure.</note>
+              <fig>
+                <image href="../media/image35.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484952">
+          <substep>
+            <cmd>With a container in position in front of the drive wheel and the conveyor turned off, turn the crank clockwise to move the reaction shoe toward the container until it is almost touching the container.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image36.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484954">
+          <substep>
+            <cmd>Loosen the clamp bolts and hold-down straps and adjust the height of the reaction shoe relative to the container. Tighten the clamp bolts.</cmd>
+          </substep>
+          <substep>
+            <cmd>Turn the crank clockwise to move the reaction shoe toward the container until the container and drive wheel compress the air bag the desired amount as indicated by the reference scale position.</cmd>
+            <info>
+              <note type="note">If this is a first time setup, use the recommended air bag compression distances. Otherwise, use the distance previously established for the container being run.</note>
+              <fig>
+                <image href="../media/image37.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484956">
+          <substep>
+            <cmd>Tighten the reaction shoe locking screws and clamp straps. Make sure the air bag compression distance does not change when the reaction shoe is clamped in place.</cmd>
+          </substep>
+          <substep>
+            <cmd>Check the overall location of the container and squeeze tester relative to the conveyor. If it is not correct, adjust the position of the machine following the procedures for adjusting the forward position of the drive wheel.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>For Machine Adjustments of the TW0444 Reaction Wheel, perform the following steps:</cmd>
+        <substeps id="substeps_08484957">
+          <substep>
+            <cmd>Loosen the reaction wheel clamp straps by loosening the clamp bolts. The reaction wheel assembly should be free to move but should not be so loose it can tip away from its true position when force is applied at the top.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image38.png"/>
+              </fig>
+              <fig>
+                <image href="../media/image39.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484959">
+          <substep>
+            <cmd>If not already on, turn on the air supply to the squeeze tester.</cmd>
+          </substep>
+          <substep>
+            <cmd>If not already on, turn on the electrical power to the squeeze tester.</cmd>
+          </substep>
+          <substep>
+            <cmd>Turn the OFF/RUN/SETUP switch to SETUP. The drive wheel will extend to its forward position.</cmd>
+          </substep>
+          <substep>
+            <cmd>Adjust the air bag air pressure to 15 psi [103.4 kPa]. Cycle the OFF/RUN/SETUP switch to OFF and back to SETUP to retract and extend the drive wheel again and verify that the pressure has changed correctly.</cmd>
+          </substep>
+          <substep>
+            <cmd>Initial setup is performed at 15 psi [103.4 kPa] to prevent unnecessary breakage of ware. This setting is low enough that all but the weakest ware will survive the squeezing pressure</cmd>
+          </substep>
+          <substep>
+            <cmd>With a container in position in front of the drive wheel and the conveyor turned off, turn the crank clockwise to move the reaction wheel toward the container until it is almost touching the container.</cmd>
+          </substep>
+          <substep>
+            <cmd>Loosen the lock screw and turn the wheel adjusting nut to set the height of the reaction wheel relative to the container. Tighten the lock screw.</cmd>
+          </substep>
+          <substep>
+            <cmd>Turn the crank clockwise to move the reaction wheel toward the container until the container and drive wheel compress the air bag the desired amount as indicated by the reference scale position.</cmd>
+            <info>
+              <note type="note">If this is a first time setup, use the recommended air bag compression distances. Otherwise, use the distance previously established for the container being run.</note>
+              <fig>
+                <image href="../media/image40.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484961">
+          <substep>
+            <cmd>Tighten the reaction wheel clamp bolts and straps. Make sure the air bag compression distance does not change when the reaction wheel is clamped in place.</cmd>
+          </substep>
+          <substep>
+            <cmd>Check the overall location of the container and squeeze tester relative to the conveyor. If it is not correct, adjust the position of the machine following the procedures for adjusting the forward position of the drive wheel.</cmd>
+            <info>
+              <note type="note">For non-round ware, use the scraper in the location shown in Step 12; for round ware, move the scraper to the opposite support frame arm.</note>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484963">
+          <substep>
+            <cmd>Check the position of the scraper against the reaction wheel. It should be tight against the reaction wheel with no noticeable gaps, but should not place a noticeable drag on the reaction wheel.</cmd>
+          </substep>
+          <substep>
+            <cmd>If the scraper position is not correct, loosen the two 1/4-20 UNC x 1/2 in. hex-head bolts which hold the scraper in position.</cmd>
+          </substep>
+          <substep>
+            <cmd>Slide the scraper against the reaction wheel.</cmd>
+          </substep>
+          <substep>
+            <cmd>Tighten the mounting bolts.</cmd>
+          </substep>
+          <substep>
+            <cmd>Check the location of the wire-brush drive relative to the reaction wheel. For non-round ware, the wire brush drive should be positioned tightly against the reaction wheel. For round ware, the wire brush should be in light contact against the reaction wheel.</cmd>
+          </substep>
+          <substep>
+            <cmd>If the position of the wire-brush drive is not correct, loosen the drive clamp bolts.</cmd>
+          </substep>
+          <substep>
+            <cmd>Slide the wire-brush drive assembly to the correct location and tighten the bolts.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image41.png"/>
+              </fig>
+              <fig>
+                <image href="../media/image42.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484965">
+          <substep>
+            <cmd>Check the reaction-wheel brake adjustment. For non-round ware, the brake shoe should be loosened enough so the wire-brush drive can turn the reaction wheel continually. For round ware, the brake should be tightened to prevent continual turning of the reaction wheel but adjusted to allow the reaction wheel to index approximately 1/4 to 1/2 in. [6.3 to 12.7 mm] for each container passing through the squeeze tester.</cmd>
+          </substep>
+          <substep>
+            <cmd>Turn the brake adjustment knob as necessary to move the brake shoe. CAUTION: To prevent uneven wear on the reaction wheel, the brake shoe support must be vertical.</cmd>
+          </substep>
+          <substep>
+            <cmd>Check the brake shoe support to make sure it is vertical. As necessary, loosen the two 1/4-20 UNC socket-head brake clamp screws, slide the brake assembly mount to a position where the brake shoe support will be vertical when the brake shoe is against the reaction wheel and tighten the clamp screws. Check to make sure the brake adjustment is correct.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image43.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>For Machine Adjustments of the TW0444 Guide Rails, perform the following steps:</cmd>
+        <substeps id="substeps_08484967">
+          <substep>
+            <cmd>Adjust the conveyor infeed guide rail to allow smooth flow of containers into the squeeze tester.</cmd>
+          </substep>
+          <substep>
+            <cmd>Adjust the production line conveyor discharge guide rail to allow smooth flow of the containers out of the squeeze tester. Adjust the height of the rail to allow cullet and down containers to be blown off the conveyor under the guide rail.</cmd>
+          </substep>
+          <substep>
+            <cmd>If using the reaction wheel assembly, adjust the infeed and discharge guide rail sections.</cmd>
+          </substep>
+          <substep>
+            <cmd>Loosen the 1/4-20 UNC x 1 in. hex-head bolts at the front and top of the guide rail section.</cmd>
+          </substep>
+          <substep>
+            <cmd>Adjust the guide rail so it just clears the reaction wheel and allows the containers to follow the same path as the production line guide rail.</cmd>
+          </substep>
+          <substep>
+            <cmd>Adjust the height of the infeed guide rail to provide best support for the particular container being run.</cmd>
+          </substep>
+          <substep>
+            <cmd>Adjust the height of the discharge guide rail to allow a down container to pass under the rail while still supporting an upright container.</cmd>
+          </substep>
+          <substep>
+            <cmd>Tighten all guide rail adjustment bolts</cmd>
+            <info>
+              <fig>
+                <image href="../media/image44.png"/>
+              </fig>
+              <fig>
+                <image href="../media/image45.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>For Machine Adjustments of the TW0444 Speeds, perform the following steps:</cmd>
+        <info>
+          <p>The speed of the drive wheel (and reaction wheel, if used) must be set to maintain the speed and spacing of the ware on the conveyor.</p>
+          <note type="caution">Never change the speed of the Varimot mechanical drive unless the drive is running. Failure to observe this caution could damage the drive and void the warranty</note>
+        </info>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484970">
+          <substep>
+            <cmd>Make sure the production line conveyor is running at the correct operating speed.</cmd>
+          </substep>
+          <substep>
+            <cmd>Turn the OFF/RUN/SETUP switch to RUN.</cmd>
+          </substep>
+          <substep>
+            <cmd>Press the START button on the START/STOP station. The drive wheel will extend and begin to rotate.</cmd>
+          </substep>
+          <substep>
+            <cmd>Adjust the speed control wheel on the Varimot drive.</cmd>
+          </substep>
+          <substep>
+            <cmd>For a wheel/shoe squeeze tester, adjust the speed control wheel until the surface speed of the drive wheel is twice the speed of the conveyor.</cmd>
+          </substep>
+          <substep>
+            <cmd>For a two-wheel squeeze tester, adjust the speed control wheel until the surface speed of the drive wheel matches the speed of the conveyor</cmd>
+            <info>
+              <note type="note">The drive wheel speed will require fine adjusting under production conditions to make sure the container spacing in the squeezing area is the same as the bottle spacing just prior to the squeeze tester infeed.</note>
+              <note type="note">The speed of the upstream bottle spacer should be adjusted to run slightly above forming speeds. The single-line production conveyor should then be set to run at the speed which provides proper container spacing. Finally, the squeeze tester drive wheel should be set to maintain the container spacing in the squeezing area.==</note>
+              <fig>
+                <image href="../media/image46.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484972">
+          <substep>
+            <cmd>If using the reaction wheel assembly, adjust the speed of the reaction wheel so it is the same as or slightly less than the drive wheel speed.</cmd>
+          </substep>
+          <substep>
+            <cmd>Turn the Ratiotrol POWER switch to ON.</cmd>
+          </substep>
+          <substep>
+            <cmd>Turn the speed control potentiometer to increase or decrease the reaction wheel speed as necessary.</cmd>
+            <info>
+              <note type="note">When the reaction wheel speed is properly adjusted, leave the POWER switch set to ON. The DC drive motor for the wire-brush drive will start and stop with the drive wheel.</note>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>For Machine Adjustments of the TW0444 Overload Assembly, perform the following steps:</cmd>
+        <substeps id="substeps_08484974">
+          <substep>
+            <cmd>Loosen the overload-assembly mounting bracket bolts.</cmd>
+          </substep>
+          <substep>
+            <cmd>Adjust the forward direction of the overload assembly so the actuator will not trip the switch for a container passing properly through the squeeze tester but will trip for abnormal conditions.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image47.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484976">
+          <substep>
+            <cmd>Adjust the height of the overload assembly to a position suitable for the containers being run. It is usually a good idea to have the actuator low enough to detect a down container which is crosswise on the conveyor.</cmd>
+          </substep>
+          <substep>
+            <cmd>Adjust the position of the assembly relative to the drive wheel. It is usually best to be closer to the drive wheel for small containers and farther away for large containers.</cmd>
+          </substep>
+          <substep>
+            <cmd>Tighten all mounting bracket bolts.</cmd>
+          </substep>
+          <substep>
+            <cmd>Adjust the sensitivity of the switch for the desired actuator movement necessary for switch actuation.</cmd>
+            <info>
+              <note type="note">The less movement it takes to make the switch actuate, the more sensitive the setting and the quicker a jam or overload will be sensed. However, if the setting is made too sensitive, false actuations can occur due to vibration or slightly misaligned containers on the conveyor.</note>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>To set up the TW0444 Finish Cover Plate, perform the following steps:</cmd>
+        <substeps id="substeps_08484978">
+          <substep>
+            <cmd>Loosen the four 5/16-18 UNC x 3/4 in. hex-head bolts securing the cover-plate mounting brackets.</cmd>
+          </substep>
+          <substep>
+            <cmd>Slide the cover plate over the path of the containers so it will cover the finish of the containers at all times as they pass through the squeeze tester.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image48.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484980">
+          <substep>
+            <cmd>Loosen the four 3/8-16 UNC x 3/4 in. hex-head bolts which secure the brackets to the mounting plates.</cmd>
+          </substep>
+          <substep>
+            <cmd>Adjust the height of the cover plate until the container is compressing the spring steel approximately 1/64 to 1/32 in. [0.4 to 0.8 mm] from its free position. This compression should be constant along the entire length of the cover plate.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image49.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>To set up the TW0444 Guard Assemblies, perform the following steps:</cmd>
+        <substeps id="substeps_08484982">
+          <substep>
+            <cmd>Close the front Lexan cover of the front guard assembly and latch in place with the cover latches on either side of the guard assembly.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image50.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484984">
+          <substep>
+            <cmd>Lower the back cover of the front guard assembly into its operating position.</cmd>
+          </substep>
+          <substep>
+            <cmd>Loosen the two wing nuts which hold the adjustable side shields and adjust the shields to the maximum closed position which will allow ware to pass without contacting the shields. Tighten the wing nuts.</cmd>
+          </substep>
+          <substep>
+            <cmd>Lower the drive wheel guard into position over the drive wheel assembly.</cmd>
+          </substep>
+          <substep>
+            <cmd>Check all rubber sheets to make sure they are present and intact. Replace any sheets which are missing or damaged.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image51.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>To set up the Ware Transporter, perform the following steps:</cmd>
+        <substeps id="substeps_08484986">
+          <substep>
+            <cmd>Loosen the In/Out Adjustment Lock.</cmd>
+          </substep>
+          <substep>
+            <cmd>Depending on the version of the machine, it could be a handle or a cap screw as shown.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image52.png"/>
+              </fig>
+              <fig>
+                <image href="../media/image53.png"/>
+              </fig>
+              <note type="note">When the Ware Transporter is close-coupled to the Emhart High Speed Squeeze Tester, the Ware Transport Belts should be set to grip the container below the finish in a position that ensures that only good ware is grasped and transported to the discharge conveyor, while broken containers are allowed to fall to the cullet chute between containers.</note>
+              <fig>
+                <image href="../media/image54.png"/>
+              </fig>
+              <fig>
+                <image href="../media/image55.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484988">
+          <substep>
+            <cmd>If necessary, use the In/Out Adjustment Handles to open the belts to suit the width of the container finish. Rotate each handle an equal number of turns to maintain the alignment of the belts relative to the conveyors.</cmd>
+          </substep>
+          <substep>
+            <cmd>Turn the Up/Down Adjustment Handle to move the belts to the desired height.</cmd>
+          </substep>
+          <substep>
+            <cmd/>
+            <info>
+              <fig>
+                <image href="../media/image56.png"/>
+              </fig>
+            </info>
+          </substep>
+          <substep>
+            <cmd/>
+            <info>
+              <fig>
+                <image href="../media/image58.png"/>
+              </fig>
+            </info>
+            <info>
+              <fig>
+                <image href="../media/image57.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484990">
+          <substep>
+            <cmd>Place a container into position at each end of the ware transporter (one on each conveyor).</cmd>
+          </substep>
+          <substep>
+            <cmd>Rotate the In/Out Adjustment Handles to close the belts until they grip both container equally. Rotate each handle an equal number of turns to maintain the alignment of the belts relative to the conveyors.</cmd>
+          </substep>
+          <substep>
+            <cmd>With the containers in position in the belts, the belts should be compressed approximately 1/4 in. [6.4 mm].</cmd>
+            <info>
+              <fig>
+                <image href="../media/image59.png"/>
+              </fig>
+              <fig>
+                <image href="../media/image60.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484992">
+          <substep>
+            <cmd>When the In/Out Adjustment is proper, tighten the In/Out Adjustment Lock.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>For the TW0444 Test Pressure Adjustments, perform the following steps:</cmd>
+        <info>
+          <note type="warning">Never run any container through the squeeze tester without all guards in place. Failure to observe this warning could result in personal injury.</note>
+          <p>Squeeze testing test pressure depends on the shape of the ware and the locations and sizes of the drive wheel and reaction shoe or wheel. It also depends on the degree of rejection desired</p>
+          <note type="note">It is very important to establish an exact air pressure setting for any particular setup. The accuracy of the air pressure setting is directly related to the effectiveness of the squeeze tester for eliminating weak ware while not causing failure of good ware</note>
+          <fig>
+            <image href="../media/image61.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484994">
+          <substep>
+            <cmd>Select a number of known good and defective ware samples.</cmd>
+            <info>
+              <note type="note">If no defective samples are available, they can be created by abrading the inside surface of good ware by shaking a chip of glass in the container</note>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484996">
+          <substep>
+            <cmd>Turn the conveyor on to regular operating speed.</cmd>
+          </substep>
+          <substep>
+            <cmd>Turn the squeeze tester OFF/RUN/SETUP switch to RUN.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image62.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_08484998">
+          <substep>
+            <cmd>Press the START button on the START/STOP station. The drive wheel will extend and the drive wheel (and reaction wheel if in use) will rotate at operating speed.</cmd>
+          </substep>
+          <substep>
+            <cmd>Set the air pressure to 15 psi [103.4 kPa] and pass a defective sample through the squeeze tester by setting it on the conveyor upstream from the squeeze tester. Unless it is very weak, it should not fail.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image63.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084849100">
+          <substep>
+            <cmd>Increase the air pressure slightly and pass another defective container through the squeeze tester.</cmd>
+            <info>
+              <note type="note">Failure will occur when the thrust of the air bag, as distributed through the face width of the drive heel, exceeds the structural strength of the container wall. The table to the right shows how the air bag thrust is related to the air pressure.</note>
+              <fig>
+                <image href="../media/image64.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_084849102">
+          <substep>
+            <cmd>Repeat Step 6 until the defective container fails.</cmd>
+          </substep>
+          <substep>
+            <cmd>Pass a good container through the squeeze tester. It should not fail. If it does fail, reduce the air pressure slightly.</cmd>
+          </substep>
+          <substep>
+            <cmd>Repeat Steps 7 and 8 until the desired pressure is established.</cmd>
+          </substep>
+          <substep>
+            <cmd>The squeeze tester is now set up and ready for operation.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>Upon completion of tasks, perform the following steps:</cmd>
+        <substeps id="substeps_084849103">
+          <substep>
+            <cmd>Replace protective guarding and close safety interlock gates.</cmd>
+          </substep>
+          <substep>
+            <cmd>Confirm the designated work area is clear and communicate to personnel the intent to restart energy.</cmd>
+          </substep>
+          <substep>
+            <cmd>After the designated work area is confirmed clear and personnel are aware of the pending restart, follow all Lockout/Tagout procedures to restart energy supplied to the designated area. Verify energy is active.</cmd>
+          </substep>
+          <substep>
+            <cmd>Remove signs and markings from the designated work area.</cmd>
+          </substep>
+          <substep>
+            <cmd>Perform basic housekeeping duties. Clean up the work space, tools and equipment, dispose of trash, put tools and equipment in assigned area.</cmd>
+          </substep>
+          <substep>
+            <cmd>Notify appropriate personnel that the work instruction activity has been completed.</cmd>
+          </substep>
+        </substeps>
+      </step>
+    </steps>
+  </taskbody>
+</task>

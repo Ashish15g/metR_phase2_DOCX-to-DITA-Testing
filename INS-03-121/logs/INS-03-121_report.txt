@@ -1,0 +1,162 @@
+========================================================================
+  DITA OUTPUT VALIDATION REPORT
+========================================================================
+  Generated  : 2026-05-20 08:48:49
+  Output dir : /app/output/37f27f88-fb30-4d91-9fc8-260c52f269f3
+  Files found: 19  (.dita + .ditamap)
+========================================================================
+
+------------------------------------------------------------------------
+  FILE   : approval/approval.dita
+  STATUS : [PASS]
+  Root tag     : reference
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : container_handling_setup_emhart_tw0444.dita
+  STATUS : [PASS]
+  Root tag     : concept
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : instructions/instructions.dita
+  STATUS : [PASS]
+  Root tag     : task
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : purpose_and_application/application.dita
+  STATUS : [PASS]
+  Root tag     : concept
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : purpose_and_application/purpose.dita
+  STATUS : [PASS]
+  Root tag     : concept
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : purpose_and_application/purpose_and_application.dita
+  STATUS : [PASS]
+  Root tag     : concept
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : references/document_classification.dita
+  STATUS : [PASS]
+  Root tag     : concept
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : references/references.dita
+  STATUS : [PASS]
+  Root tag     : concept
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : required_training/required_training.dita
+  STATUS : [PASS]
+  Root tag     : concept
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : revision_history/revision_history.dita
+  STATUS : [PASS]
+  Root tag     : reference
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : safety/safety.dita
+  STATUS : [PASS]
+  Root tag     : concept
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : approval_map.ditamap
+  STATUS : [PASS]
+  Root tag     : map
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : container_handling_setup_emhart_tw0444.ditamap
+  STATUS : [PASS]
+  Root tag     : map
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : instructions_map.ditamap
+  STATUS : [PASS]
+  Root tag     : map
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : purpose_and_application_map.ditamap
+  STATUS : [PASS]
+  Root tag     : map
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : references_map.ditamap
+  STATUS : [PASS]
+  Root tag     : map
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : required_training_map.ditamap
+  STATUS : [PASS]
+  Root tag     : map
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : revision_history_map.ditamap
+  STATUS : [PASS]
+  Root tag     : map
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : safety_map.ditamap
+  STATUS : [PASS]
+  Root tag     : map
+  DOCTYPE      : OK
+  Errors       : none
+
+========================================================================
+  SUMMARY
+------------------------------------------------------------------------
+  Total files : 19
+  Passed      : 19
+  Failed      : 0
+----------------------------------------
+  Total Dita Files generated         : 11
+  Total Headings counted             : 7
+  Total subheadings under Heading (per heading name):
+    - Approval                                          : 1 file(s)
+    - Instructions                                      : 1 file(s)
+    - Purpose And Application                           : 3 file(s)
+    - References                                        : 2 file(s)
+    - Required Training                                 : 1 file(s)
+    - Revision History                                  : 1 file(s)
+    - Safety                                            : 1 file(s)
+  Total Ditamap Files generated      : 8
+  Root Ditamap                       : approval_map.ditamap
+  Total images counted               : 64
+========================================================================

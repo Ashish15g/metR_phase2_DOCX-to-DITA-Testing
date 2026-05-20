@@ -1,0 +1,368 @@
+[2026-05-20T08:48:49.368037+00:00] detect_docx_toc No TOC styles or field codes detected.
+[2026-05-20T08:48:49.368185+00:00] detect_docx_toc No TOC styles, field codes, or SDT detected.
+[2026-05-20T08:48:49.368687+00:00] PipelineOrchestrator TOC DETECTED = False
+[2026-05-20T08:48:49.371541+00:00] PipelineOrchestrator Starting conversion pipeline for 'INS-03-121.docx'.
+[2026-05-20T08:48:49.371676+00:00] DocxToHtmlProcessor Converting 'INS-03-121.docx' from DOCX to HTML.
+[2026-05-20T08:48:49.374379+00:00] DocxToHtmlProcessor Opening DOCX archive: 'INS-03-121.docx'.
+[2026-05-20T08:48:49.375090+00:00] DocxToHtmlProcessor Reading relationships.
+[2026-05-20T08:48:49.375167+00:00] DocxToHtmlProcessor Parsing relationships from 'word/_rels/document.xml.rels'.
+[2026-05-20T08:48:49.375547+00:00] DocxToHtmlProcessor Extracted 77 relationship(s).
+[2026-05-20T08:48:49.375594+00:00] DocxToHtmlProcessor Extracting media files.
+[2026-05-20T08:48:49.375781+00:00] DocxToHtmlProcessor Copying 64 media file(s) to '/app/output/37f27f88-fb30-4d91-9fc8-260c52f269f3/media'.
+[2026-05-20T08:48:49.376023+00:00] DocxToHtmlProcessor Media copied: 'image19.png'.
+[2026-05-20T08:48:49.376316+00:00] DocxToHtmlProcessor Media copied: 'image14.png'.
+[2026-05-20T08:48:49.376566+00:00] DocxToHtmlProcessor Media copied: 'image35.png'.
+[2026-05-20T08:48:49.376775+00:00] DocxToHtmlProcessor Media copied: 'image40.png'.
+[2026-05-20T08:48:49.376992+00:00] DocxToHtmlProcessor Media copied: 'image56.png'.
+[2026-05-20T08:48:49.377297+00:00] DocxToHtmlProcessor Media copied: 'image61.png'.
+[2026-05-20T08:48:49.377827+00:00] DocxToHtmlProcessor Media copied: 'image9.png'.
+[2026-05-20T08:48:49.378188+00:00] DocxToHtmlProcessor Media copied: 'image4.png'.
+[2026-05-20T08:48:49.378505+00:00] DocxToHtmlProcessor Media copied: 'image17.png'.
+[2026-05-20T08:48:49.378691+00:00] DocxToHtmlProcessor Media copied: 'image25.png'.
+[2026-05-20T08:48:49.378918+00:00] DocxToHtmlProcessor Media copied: 'image30.png'.
+[2026-05-20T08:48:49.379093+00:00] DocxToHtmlProcessor Media copied: 'image33.png'.
+[2026-05-20T08:48:49.379261+00:00] DocxToHtmlProcessor Media copied: 'image38.png'.
+[2026-05-20T08:48:49.379418+00:00] DocxToHtmlProcessor Media copied: 'image46.png'.
+[2026-05-20T08:48:49.379834+00:00] DocxToHtmlProcessor Media copied: 'image51.png'.
+[2026-05-20T08:48:49.380202+00:00] DocxToHtmlProcessor Media copied: 'image59.png'.
+[2026-05-20T08:48:49.380375+00:00] DocxToHtmlProcessor Media copied: 'image54.png'.
+[2026-05-20T08:48:49.380525+00:00] DocxToHtmlProcessor Media copied: 'image12.png'.
+[2026-05-20T08:48:49.380870+00:00] DocxToHtmlProcessor Media copied: 'image7.png'.
+[2026-05-20T08:48:49.381201+00:00] DocxToHtmlProcessor Media copied: 'image15.png'.
+[2026-05-20T08:48:49.381552+00:00] DocxToHtmlProcessor Media copied: 'image20.png'.
+[2026-05-20T08:48:49.381969+00:00] DocxToHtmlProcessor Media copied: 'image23.png'.
+[2026-05-20T08:48:49.382159+00:00] DocxToHtmlProcessor Media copied: 'image28.png'.
+[2026-05-20T08:48:49.382482+00:00] DocxToHtmlProcessor Media copied: 'image36.png'.
+[2026-05-20T08:48:49.382698+00:00] DocxToHtmlProcessor Media copied: 'image41.png'.
+[2026-05-20T08:48:49.383185+00:00] DocxToHtmlProcessor Media copied: 'image49.png'.
+[2026-05-20T08:48:49.383561+00:00] DocxToHtmlProcessor Media copied: 'image57.png'.
+[2026-05-20T08:48:49.383900+00:00] DocxToHtmlProcessor Media copied: 'image62.png'.
+[2026-05-20T08:48:49.384248+00:00] DocxToHtmlProcessor Media copied: 'image1.png'.
+[2026-05-20T08:48:49.384441+00:00] DocxToHtmlProcessor Media copied: 'image44.png'.
+[2026-05-20T08:48:49.384801+00:00] DocxToHtmlProcessor Media copied: 'image5.png'.
+[2026-05-20T08:48:49.385283+00:00] DocxToHtmlProcessor Media copied: 'image10.png'.
+[2026-05-20T08:48:49.385499+00:00] DocxToHtmlProcessor Media copied: 'image18.png'.
+[2026-05-20T08:48:49.385891+00:00] DocxToHtmlProcessor Media copied: 'image26.png'.
+[2026-05-20T08:48:49.386365+00:00] DocxToHtmlProcessor Media copied: 'image31.png'.
+[2026-05-20T08:48:49.386644+00:00] DocxToHtmlProcessor Media copied: 'image39.png'.
+[2026-05-20T08:48:49.386996+00:00] DocxToHtmlProcessor Media copied: 'image52.png'.
+[2026-05-20T08:48:49.387551+00:00] DocxToHtmlProcessor Media copied: 'image60.png'.
+[2026-05-20T08:48:49.388092+00:00] DocxToHtmlProcessor Media copied: 'image13.png'.
+[2026-05-20T08:48:49.388564+00:00] DocxToHtmlProcessor Media copied: 'image34.png'.
+[2026-05-20T08:48:49.388928+00:00] DocxToHtmlProcessor Media copied: 'image47.png'.
+[2026-05-20T08:48:49.389468+00:00] DocxToHtmlProcessor Media copied: 'image55.png'.
+[2026-05-20T08:48:49.389848+00:00] DocxToHtmlProcessor Media copied: 'image63.png'.
+[2026-05-20T08:48:49.390363+00:00] DocxToHtmlProcessor Media copied: 'image8.png'.
+[2026-05-20T08:48:49.390899+00:00] DocxToHtmlProcessor Media copied: 'image16.png'.
+[2026-05-20T08:48:49.391490+00:00] DocxToHtmlProcessor Media copied: 'image21.png'.
+[2026-05-20T08:48:49.392068+00:00] DocxToHtmlProcessor Media copied: 'image29.png'.
+[2026-05-20T08:48:49.392407+00:00] DocxToHtmlProcessor Media copied: 'image42.png'.
+[2026-05-20T08:48:49.392700+00:00] DocxToHtmlProcessor Media copied: 'image50.png'.
+[2026-05-20T08:48:49.393000+00:00] DocxToHtmlProcessor Media copied: 'image3.png'.
+[2026-05-20T08:48:49.393564+00:00] DocxToHtmlProcessor Media copied: 'image24.png'.
+[2026-05-20T08:48:49.393897+00:00] DocxToHtmlProcessor Media copied: 'image37.png'.
+[2026-05-20T08:48:49.394340+00:00] DocxToHtmlProcessor Media copied: 'image45.png'.
+[2026-05-20T08:48:49.394898+00:00] DocxToHtmlProcessor Media copied: 'image53.png'.
+[2026-05-20T08:48:49.395451+00:00] DocxToHtmlProcessor Media copied: 'image58.png'.
+[2026-05-20T08:48:49.395774+00:00] DocxToHtmlProcessor Media copied: 'image2.png'.
+[2026-05-20T08:48:49.396300+00:00] DocxToHtmlProcessor Media copied: 'image6.png'.
+[2026-05-20T08:48:49.396803+00:00] DocxToHtmlProcessor Media copied: 'image11.png'.
+[2026-05-20T08:48:49.397064+00:00] DocxToHtmlProcessor Media copied: 'image32.png'.
+[2026-05-20T08:48:49.397484+00:00] DocxToHtmlProcessor Media copied: 'image27.png'.
+[2026-05-20T08:48:49.397788+00:00] DocxToHtmlProcessor Media copied: 'image43.png'.
+[2026-05-20T08:48:49.398049+00:00] DocxToHtmlProcessor Media copied: 'image48.png'.
+[2026-05-20T08:48:49.398274+00:00] DocxToHtmlProcessor Media copied: 'image64.png'.
+[2026-05-20T08:48:49.398677+00:00] DocxToHtmlProcessor Media copied: 'image22.png'.
+[2026-05-20T08:48:49.398756+00:00] DocxToHtmlProcessor Media copy complete -- 64 file(s) exported.
+[2026-05-20T08:48:49.398806+00:00] DocxToHtmlProcessor Reading list numbering definitions.
+[2026-05-20T08:48:49.398851+00:00] DocxToHtmlProcessor Parsing 'word/numbering.xml' for list type map.
+[2026-05-20T08:48:49.467868+00:00] DocxToHtmlProcessor Numbering map built with 46 numId(s).
+[2026-05-20T08:48:49.468207+00:00] DocxToHtmlProcessor Reading 'word/document.xml'.
+[2026-05-20T08:48:49.468828+00:00] DocxToHtmlProcessor Parsing 'word/document.xml' XML structure.
+[2026-05-20T08:48:49.475219+00:00] DocxToHtmlProcessor Processing document body paragraphs for 'INS-03-121.docx'.
+[2026-05-20T08:48:49.483663+00:00] DocxToHtmlProcessor Document body processed — 157 HTML block(s) generated for 'INS-03-121.docx'.
+[2026-05-20T08:48:49.484587+00:00] DocxToHtmlProcessor DOCX to HTML conversion complete.
+[2026-05-20T08:48:49.487465+00:00] HtmlToDitaNormalizer Normalizing generated HTML for DITA conversion.
+[2026-05-20T08:48:49.491560+00:00] helper_port.py class is running.
+[2026-05-20T08:48:49.534834+00:00] HtmlToDitaNormalizer HTML normalization complete.
+[2026-05-20T08:48:49.554915+00:00] TopicSplitter Splitting HTML content into topics.
+[2026-05-20T08:48:49.579486+00:00] TopicSplitter Found 11 topics.
+[2026-05-20T08:48:49.582746+00:00] TopicWriter Writing topics to .dita files.
+[2026-05-20T08:48:49.585630+00:00] TopicWriter Starting to write 11 topics to '/app/output/37f27f88-fb30-4d91-9fc8-260c52f269f3'.
+[2026-05-20T08:48:49.585993+00:00] TopicWriter Building topic tree hierarchy.
+[2026-05-20T08:48:49.586064+00:00] TopicWriter Building topic tree from 11 flat topic(s).
+[2026-05-20T08:48:49.586118+00:00] TopicWriter Topic tree built — 8 root node(s).
+[2026-05-20T08:48:49.586173+00:00] TopicWriter Assigning output paths to all topics.
+[2026-05-20T08:48:49.586237+00:00] TopicWriter Assigning output paths for 8 node(s) under '/app/output/37f27f88-fb30-4d91-9fc8-260c52f269f3'.
+[2026-05-20T08:48:49.586324+00:00] TopicWriter Assigned path for topic 'Container Handling Setup - Emhart - TW0444': '/app/output/37f27f88-fb30-4d91-9fc8-260c52f269f3/container_handling_setup_emhart_tw0444.dita'.
+[2026-05-20T08:48:49.586609+00:00] TopicWriter Assigning output paths for 2 node(s) under '/app/output/37f27f88-fb30-4d91-9fc8-260c52f269f3'.
+[2026-05-20T08:48:49.586671+00:00] TopicWriter Assigned path for topic 'Purpose': '/app/output/37f27f88-fb30-4d91-9fc8-260c52f269f3/purpose_and_application/purpose.dita'.
+[2026-05-20T08:48:49.586733+00:00] TopicWriter Assigned path for topic 'Application': '/app/output/37f27f88-fb30-4d91-9fc8-260c52f269f3/purpose_and_application/application.dita'.
+[2026-05-20T08:48:49.586772+00:00] TopicWriter Path assignment complete for 2 node(s).
+[2026-05-20T08:48:49.586801+00:00] TopicWriter Assigned path for topic 'Purpose and Application': '/app/output/37f27f88-fb30-4d91-9fc8-260c52f269f3/purpose_and_application/purpose_and_application.dita'.
+[2026-05-20T08:48:49.586911+00:00] TopicWriter Assigned path for topic 'Safety': '/app/output/37f27f88-fb30-4d91-9fc8-260c52f269f3/safety/safety.dita'.
+[2026-05-20T08:48:49.587008+00:00] TopicWriter Assigned path for topic 'Instructions': '/app/output/37f27f88-fb30-4d91-9fc8-260c52f269f3/instructions/instructions.dita'.
+[2026-05-20T08:48:49.587105+00:00] TopicWriter Assigned path for topic 'Required Training': '/app/output/37f27f88-fb30-4d91-9fc8-260c52f269f3/required_training/required_training.dita'.
+[2026-05-20T08:48:49.587195+00:00] TopicWriter Assigning output paths for 1 node(s) under '/app/output/37f27f88-fb30-4d91-9fc8-260c52f269f3'.
+[2026-05-20T08:48:49.587239+00:00] TopicWriter Assigned path for topic 'Document Classification': '/app/output/37f27f88-fb30-4d91-9fc8-260c52f269f3/references/document_classification.dita'.
+[2026-05-20T08:48:49.587267+00:00] TopicWriter Path assignment complete for 1 node(s).
+[2026-05-20T08:48:49.587296+00:00] TopicWriter Assigned path for topic 'References': '/app/output/37f27f88-fb30-4d91-9fc8-260c52f269f3/references/references.dita'.
+[2026-05-20T08:48:49.587388+00:00] TopicWriter Assigned path for topic 'Approval': '/app/output/37f27f88-fb30-4d91-9fc8-260c52f269f3/approval/approval.dita'.
+[2026-05-20T08:48:49.587484+00:00] TopicWriter Assigned path for topic 'Revision History': '/app/output/37f27f88-fb30-4d91-9fc8-260c52f269f3/revision_history/revision_history.dita'.
+[2026-05-20T08:48:49.587516+00:00] TopicWriter Path assignment complete for 8 node(s).
+[2026-05-20T08:48:49.587543+00:00] TopicWriter Walking topic tree and writing DITA files.
+[2026-05-20T08:48:49.587571+00:00] TopicWriter Writing topic 'Container Handling Setup - Emhart - TW0444' to .dita file.
+[2026-05-20T08:48:49.587598+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-20T08:48:49.587857+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-20T08:48:49.587937+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-20T08:48:49.588126+00:00] TopicWriter Topic '/app/output/37f27f88-fb30-4d91-9fc8-260c52f269f3/container_handling_setup_emhart_tw0444.dita' written successfully.
+[2026-05-20T08:48:49.588164+00:00] TopicWriter Writing topic 'Purpose and Application' to .dita file.
+[2026-05-20T08:48:49.588191+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-20T08:48:49.588289+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-20T08:48:49.588323+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-20T08:48:49.588546+00:00] TopicWriter Topic '/app/output/37f27f88-fb30-4d91-9fc8-260c52f269f3/purpose_and_application/purpose_and_application.dita' written successfully.
+[2026-05-20T08:48:49.588581+00:00] TopicWriter Writing topic 'Purpose' to .dita file.
+[2026-05-20T08:48:49.588608+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-20T08:48:49.588782+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-20T08:48:49.588851+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-20T08:48:49.589009+00:00] TopicWriter Topic '/app/output/37f27f88-fb30-4d91-9fc8-260c52f269f3/purpose_and_application/purpose.dita' written successfully.
+[2026-05-20T08:48:49.589064+00:00] TopicWriter Writing topic 'Application' to .dita file.
+[2026-05-20T08:48:49.589091+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-20T08:48:49.589267+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-20T08:48:49.589336+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-20T08:48:49.589490+00:00] TopicWriter Topic '/app/output/37f27f88-fb30-4d91-9fc8-260c52f269f3/purpose_and_application/application.dita' written successfully.
+[2026-05-20T08:48:49.589526+00:00] TopicWriter Writing topic 'Safety' to .dita file.
+[2026-05-20T08:48:49.589553+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-20T08:48:49.589694+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-20T08:48:49.589877+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-20T08:48:49.590058+00:00] TopicWriter Topic '/app/output/37f27f88-fb30-4d91-9fc8-260c52f269f3/safety/safety.dita' written successfully.
+[2026-05-20T08:48:49.590094+00:00] TopicWriter Writing topic 'Instructions' to .dita file.
+[2026-05-20T08:48:49.590142+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-20T08:48:49.601802+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-20T08:48:49.604183+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-20T08:48:49.604348+00:00] topic_structure Running convert_ol_to_steps on DITA body.
+[2026-05-20T08:48:49.614696+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.614886+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.614992+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.615088+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.615151+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.615246+00:00] topic_structure <steps> block built with 2 step(s) (style-based mode).
+[2026-05-20T08:48:49.615344+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.615402+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.615480+00:00] topic_structure <steps> block built with 2 step(s) (style-based mode).
+[2026-05-20T08:48:49.615546+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.615597+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.615641+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.615742+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.615807+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.615858+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.615919+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.615970+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.616013+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.616073+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.616137+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.616177+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.616237+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.616288+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.616338+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.616443+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.616497+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.616574+00:00] topic_structure <steps> block built with 2 step(s) (style-based mode).
+[2026-05-20T08:48:49.616681+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.616763+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.616834+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.616948+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.617003+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.617067+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.617129+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.617180+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.617220+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.617280+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.617330+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.617388+00:00] topic_structure <steps> block built with 2 step(s) (style-based mode).
+[2026-05-20T08:48:49.617443+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.617494+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.617539+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.617595+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.617645+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.617683+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.617882+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.617962+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.618028+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.618173+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.618226+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.618267+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.618323+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.618373+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.618413+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.618506+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.618557+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.618597+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.618655+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.618723+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.618776+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.618860+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.618913+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.618963+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.619021+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.619071+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.619131+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.619213+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.619263+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.619308+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.619366+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.619414+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.619452+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.619534+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.619584+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.619624+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.619681+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.619745+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.619794+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.619874+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.619925+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.619996+00:00] topic_structure <steps> block built with 2 step(s) (style-based mode).
+[2026-05-20T08:48:49.620079+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.620130+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.620189+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.620269+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.620320+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.620364+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.620418+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.620469+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.620531+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.620616+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.620667+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.620727+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.620791+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.620847+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.620924+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.621007+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.621061+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-20T08:48:49.621131+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.621182+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.621235+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.621333+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.621384+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.621430+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.621486+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.621537+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.621598+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.621659+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.621730+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.621788+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.621849+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.621900+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.621961+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.622022+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.622072+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.622116+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.622176+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.622226+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.622284+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.622344+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.622394+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.622440+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.622501+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.622550+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.622618+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.622779+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.622840+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.622949+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.623009+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.623060+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.623106+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.623187+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.623237+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.623296+00:00] topic_structure <steps> block built with 2 step(s) (style-based mode).
+[2026-05-20T08:48:49.623411+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.623462+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.623503+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.623558+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.623607+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.623649+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.623721+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.623779+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.623833+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.623923+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.624007+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.624054+00:00] topic_structure <steps> block built with 1 step(s) (style-based mode).
+[2026-05-20T08:48:49.624139+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-20T08:48:49.624193+00:00] topic_structure Style-based step/substep structure detected — emitting DTD-compliant <step><substeps><substep> hierarchy.
+[2026-05-20T08:48:49.624281+00:00] topic_structure <steps> block built with 2 step(s) (style-based mode).
+[2026-05-20T08:48:49.624315+00:00] topic_structure convert_ol_to_steps completed.
+[2026-05-20T08:48:49.624377+00:00] topic_structure Partitioning task body into context/steps/result.
+[2026-05-20T08:48:49.675466+00:00] topic_structure Taskbody partitioning complete.
+[2026-05-20T08:48:49.676744+00:00] TopicWriter Topic '/app/output/37f27f88-fb30-4d91-9fc8-260c52f269f3/instructions/instructions.dita' written successfully.
+[2026-05-20T08:48:49.676825+00:00] TopicWriter Writing topic 'Required Training' to .dita file.
+[2026-05-20T08:48:49.676870+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-20T08:48:49.677040+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-20T08:48:49.677105+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-20T08:48:49.677338+00:00] TopicWriter Topic '/app/output/37f27f88-fb30-4d91-9fc8-260c52f269f3/required_training/required_training.dita' written successfully.
+[2026-05-20T08:48:49.677377+00:00] TopicWriter Writing topic 'References' to .dita file.
+[2026-05-20T08:48:49.677410+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-20T08:48:49.677502+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-20T08:48:49.677536+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-20T08:48:49.677670+00:00] TopicWriter Topic '/app/output/37f27f88-fb30-4d91-9fc8-260c52f269f3/references/references.dita' written successfully.
+[2026-05-20T08:48:49.677730+00:00] TopicWriter Writing topic 'Document Classification' to .dita file.
+[2026-05-20T08:48:49.677773+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-20T08:48:49.677971+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-20T08:48:49.678056+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-20T08:48:49.678212+00:00] TopicWriter Topic '/app/output/37f27f88-fb30-4d91-9fc8-260c52f269f3/references/document_classification.dita' written successfully.
+[2026-05-20T08:48:49.678248+00:00] TopicWriter Writing topic 'Approval' to .dita file.
+[2026-05-20T08:48:49.678276+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-20T08:48:49.679111+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-20T08:48:49.679479+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-20T08:48:49.679542+00:00] topic_structure Ensuring <refbody> content is correctly wrapped in a <section> element.
+[2026-05-20T08:48:49.680586+00:00] topic_structure Wrapped <refbody> content in a single <section>.
+[2026-05-20T08:48:49.680825+00:00] TopicWriter Topic '/app/output/37f27f88-fb30-4d91-9fc8-260c52f269f3/approval/approval.dita' written successfully.
+[2026-05-20T08:48:49.680871+00:00] TopicWriter Writing topic 'Revision History' to .dita file.
+[2026-05-20T08:48:49.680900+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-20T08:48:49.681145+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-20T08:48:49.681287+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-20T08:48:49.681331+00:00] topic_structure Ensuring <refbody> content is correctly wrapped in a <section> element.
+[2026-05-20T08:48:49.681789+00:00] topic_structure Wrapped <refbody> content in a single <section>.
+[2026-05-20T08:48:49.681973+00:00] TopicWriter Topic '/app/output/37f27f88-fb30-4d91-9fc8-260c52f269f3/revision_history/revision_history.dita' written successfully.
+[2026-05-20T08:48:49.682023+00:00] TopicWriter All 11 topic file(s) written successfully.
+[2026-05-20T08:48:49.686183+00:00] TopicWriter Finished writing .dita files.
+[2026-05-20T08:48:49.690610+00:00] DitaMapBuilder Generating DITAMAP file.
+[2026-05-20T08:48:49.696376+00:00] DitaMapBuilder DITAMAP generation complete.
+[2026-05-20T08:48:49.707561+00:00] DitaPostProcessor Post-processing all generated DITA files.
+[2026-05-20T08:48:49.713957+00:00] DitaPostProcessor Starting EMF->image conversion in '/app/output/37f27f88-fb30-4d91-9fc8-260c52f269f3/media'.
+[2026-05-20T08:48:49.714261+00:00] DitaPostProcessor No EMF files converted (none found or all failed).
+[2026-05-20T08:48:49.732910+00:00] DitaPostProcessor Post-processing complete.
+[2026-05-20T08:48:49.737154+00:00] PipelineOrchestrator Running concept reclassification pass on topic files.
+[2026-05-20T08:48:49.737366+00:00] PipelineOrchestrator Concept reclassification complete — no files required updating.
+[2026-05-20T08:48:49.737434+00:00] HyperlinkResolver Resolving internal hyperlinks.
+[2026-05-20T08:48:49.741409+00:00] HyperlinkResolver Resolving internal hyperlinks in 11 DITA file(s) under '/app/output/37f27f88-fb30-4d91-9fc8-260c52f269f3'.
+[2026-05-20T08:48:49.744672+00:00] HyperlinkResolver Hyperlink resolution complete -- no anchor xrefs required updating.
+[2026-05-20T08:48:49.744762+00:00] HyperlinkResolver Hyperlink resolution complete.
+[2026-05-20T08:48:49.747295+00:00] PipelineOrchestrator Running DTD compliance validation on all output files.
+[2026-05-20T08:48:49.750238+00:00] DitaDtdValidator Starting DTD structural compliance check for all output files in '/app/output/37f27f88-fb30-4d91-9fc8-260c52f269f3'.
+[2026-05-20T08:48:49.754801+00:00] DitaDtdValidator [PASS] 'approval.dita' - This file is following DTD-compliant structure.
+[2026-05-20T08:48:49.754873+00:00] DitaDtdValidator [PASS] 'container_handling_setup_emhart_tw0444.dita' - This file is following DTD-compliant structure.
+[2026-05-20T08:48:49.754905+00:00] DitaDtdValidator [PASS] 'instructions.dita' - This file is following DTD-compliant structure.
+[2026-05-20T08:48:49.754931+00:00] DitaDtdValidator [PASS] 'application.dita' - This file is following DTD-compliant structure.
+[2026-05-20T08:48:49.754957+00:00] DitaDtdValidator [PASS] 'purpose.dita' - This file is following DTD-compliant structure.
+[2026-05-20T08:48:49.754981+00:00] DitaDtdValidator [PASS] 'purpose_and_application.dita' - This file is following DTD-compliant structure.
+[2026-05-20T08:48:49.755006+00:00] DitaDtdValidator [PASS] 'document_classification.dita' - This file is following DTD-compliant structure.
+[2026-05-20T08:48:49.755031+00:00] DitaDtdValidator [PASS] 'references.dita' - This file is following DTD-compliant structure.
+[2026-05-20T08:48:49.755055+00:00] DitaDtdValidator [PASS] 'required_training.dita' - This file is following DTD-compliant structure.
+[2026-05-20T08:48:49.755084+00:00] DitaDtdValidator [PASS] 'revision_history.dita' - This file is following DTD-compliant structure.
+[2026-05-20T08:48:49.755127+00:00] DitaDtdValidator [PASS] 'safety.dita' - This file is following DTD-compliant structure.
+[2026-05-20T08:48:49.755155+00:00] DitaDtdValidator [PASS] 'approval_map.ditamap' - This file is following DTD-compliant structure.
+[2026-05-20T08:48:49.755180+00:00] DitaDtdValidator [PASS] 'container_handling_setup_emhart_tw0444.ditamap' - This file is following DTD-compliant structure.
+[2026-05-20T08:48:49.755204+00:00] DitaDtdValidator [PASS] 'instructions_map.ditamap' - This file is following DTD-compliant structure.
+[2026-05-20T08:48:49.755229+00:00] DitaDtdValidator [PASS] 'purpose_and_application_map.ditamap' - This file is following DTD-compliant structure.
+[2026-05-20T08:48:49.755253+00:00] DitaDtdValidator [PASS] 'references_map.ditamap' - This file is following DTD-compliant structure.
+[2026-05-20T08:48:49.755278+00:00] DitaDtdValidator [PASS] 'required_training_map.ditamap' - This file is following DTD-compliant structure.
+[2026-05-20T08:48:49.755302+00:00] DitaDtdValidator [PASS] 'revision_history_map.ditamap' - This file is following DTD-compliant structure.
+[2026-05-20T08:48:49.755326+00:00] DitaDtdValidator [PASS] 'safety_map.ditamap' - This file is following DTD-compliant structure.
+[2026-05-20T08:48:49.755351+00:00] DitaDtdValidator All 19 output file(s) are following DTD-compliant structure.
+[2026-05-20T08:48:49.756830+00:00] DitaDtdValidator Validation report written: 'INS-03-121_report.txt'.
+[2026-05-20T08:48:49.761009+00:00] PipelineOrchestrator Successfully converted 'INS-03-121.docx'.
+[2026-05-20T08:48:49.768420+00:00] ConversionService class completed successfully.
+[2026-05-20T08:48:49.773985+00:00] Upload Endpoint Successfully processed 'INS-03-121.docx' for user '37f27f88-fb30-4d91-9fc8-260c52f269f3'.
+[2026-05-20T08:48:49.774096+00:00] Upload Endpoint Processing slot released for user '37f27f88-fb30-4d91-9fc8-260c52f269f3'.
+[2026-05-20T08:49:43.186641+00:00] Download Endpoint Received download request for user '37f27f88-fb30-4d91-9fc8-260c52f269f3'.
+[2026-05-20T08:49:43.186783+00:00] DownloadService class is running.

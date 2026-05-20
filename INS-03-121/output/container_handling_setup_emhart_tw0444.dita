@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="container_handling_setup_emhart_tw0444" xml:lang="en-us">
+  <title>Container Handling Setup - Emhart - TW0444</title>
+  <shortdesc>2022-05-18</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Container</keyword>
+        <keyword>Handling</keyword>
+        <keyword>Setup</keyword>
+        <keyword>Emhart</keyword>
+        <indexterm>Container</indexterm>
+        <indexterm>Handling</indexterm>
+        <indexterm>Setup</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>2022-05-18</p>
+  </conbody>
+</concept>

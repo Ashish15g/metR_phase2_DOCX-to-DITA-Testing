@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="application" xml:lang="en-us">
+  <title>Application</title>
+  <shortdesc>This work instruction applies to all O-I manufacturing facilities.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>document</keyword>
+        <keyword>Application</keyword>
+        <keyword>Global</keyword>
+        <keyword>Inspection</keyword>
+        <keyword>Network</keyword>
+        <keyword>plant</keyword>
+        <indexterm>document</indexterm>
+        <indexterm>Application</indexterm>
+        <indexterm>Global</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>This work instruction applies to all O-I manufacturing facilities.</p>
+    <note type="note">This document is still in DRAFT form. The content has been reviewed and approved by the Global Inspection Network but it has not been validated in a plant. Please utilize this document accordingly. If you have questions or concerns, improvement suggestions, or are able to validate this document in your plant, please contact your Country Group DNL or the Global Inspection Network Leader.</note>
+  </conbody>
+</concept>

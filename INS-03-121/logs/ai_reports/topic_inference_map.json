@@ -1,0 +1,354 @@
+{
+  "Approval": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.0,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 35
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Approval",
+        "Global",
+        "America",
+        "Sanctioning",
+        "Representatives",
+        "Team",
+        "Region",
+        "Representative",
+        "Europe",
+        "Robert",
+        "Kurpiel",
+        "Bruno"
+      ],
+      "compact_excerpt": "Approval Sanctioning Representatives of the Global Team Region Representative Europe Robert Kurpiel, Bruno Laumier, Stefano Lucidi, Hans de Willigen Latin America Marlon Bravo Mexico Cesar Chavez Hernandez North America David Gladwin Global Operations Bob Morin"
+    },
+    "classified_at": 1779266931.311536
+  },
+  "Container Handling Setup - Emhart - TW0444": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.091,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 8
+      },
+      "context_frame": "introductory",
+      "keyword_set": [
+        "Container",
+        "Handling",
+        "Setup",
+        "Emhart",
+        "TW"
+      ],
+      "compact_excerpt": "Container Handling Setup - Emhart - TW0444 2022-05-18"
+    },
+    "classified_at": 1779266931.3181653
+  },
+  "Application": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.273,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 2,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 73
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Application",
+        "document",
+        "Global",
+        "Inspection",
+        "Network",
+        "plant",
+        "your",
+        "work",
+        "instruction",
+        "applies",
+        "manufacturing",
+        "facilities"
+      ],
+      "compact_excerpt": "Application This work instruction applies to all O-I manufacturing facilities. This document is still in DRAFT form. The content has been reviewed and approved by the Global Inspection Network but it has not been validated in a plant. Please utilize this document accordingly. If you have questions or concerns, improvement suggestions, or are able to validate this document in your plant, please con"
+    },
+    "classified_at": 1779266931.3905036
+  },
+  "Instructions": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.182,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 70,
+        "concept_pattern_hits": 72,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.067,
+        "avg_paragraph_length_words": 4316
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "wheel",
+        "drive",
+        "reaction",
+        "position",
+        "container",
+        "squeeze",
+        "tester",
+        "conveyor",
+        "bolts",
+        "should",
+        "ware",
+        "shoe"
+      ],
+      "compact_excerpt": "Instructions Before starting the work instruction activity, perform the following steps: Do not begin these tasks without confirmation that personnel directly involved have completed the required training associated with the work instruction activity and have reviewed this document. Gather necessary tools and equipment as identified below in the Equipment Section. Wear and use additional Personal "
+    },
+    "classified_at": 1779266931.4731088
+  },
+  "Document Classification": {
+    "topic_type": "topic",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.545,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 6
+      },
+      "context_frame": "mixed",
+      "keyword_set": [
+        "Document",
+        "Classification",
+        "Efficiency",
+        "Throughput",
+        "Quality"
+      ],
+      "compact_excerpt": "Document Classification Efficiency and Throughput Quality"
+    },
+    "classified_at": 1779266931.6511383
+  },
+  "Required Training": {
+    "topic_type": "topic",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.727,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 25
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Required",
+        "Training",
+        "Before",
+        "performing",
+        "work",
+        "instruction",
+        "applicable",
+        "personnel",
+        "must",
+        "trained",
+        "authorized",
+        "trainer"
+      ],
+      "compact_excerpt": "Required Training Before performing this work instruction, applicable personnel must be trained by an authorized trainer on the required training contents listed in this document."
+    },
+    "classified_at": 1779266931.6746771
+  },
+  "Purpose": {
+    "topic_type": "topic",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.364,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 15
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Purpose",
+        "define",
+        "work",
+        "instruction",
+        "proper",
+        "setup",
+        "Emhart",
+        "TW",
+        "Squeeze",
+        "Tester"
+      ],
+      "compact_excerpt": "Purpose To define a work instruction for proper setup of the Emhart TW0444 Squeeze Tester."
+    },
+    "classified_at": 1779266931.6827247
+  },
+  "Revision History": {
+    "topic_type": "topic",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.818,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 13
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Revision",
+        "History",
+        "Approved",
+        "Bob",
+        "Morin",
+        "Global",
+        "Inspection",
+        "Network",
+        "Leader",
+        "Original",
+        "Issu"
+      ],
+      "compact_excerpt": "Revision History 2022-05-18 Approved by Bob Morin, Global Inspection Network Leader Original Issu"
+    },
+    "classified_at": 1779266931.724333
+  },
+  "Safety": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.909,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 1,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 46
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Safety",
+        "requirements",
+        "Observe",
+        "standard",
+        "safety",
+        "procedures",
+        "defined",
+        "Global",
+        "Environmental",
+        "Health",
+        "EH",
+        "organization"
+      ],
+      "compact_excerpt": "Safety Observe O-I standard safety requirements and procedures defined by the Global Environmental Health & Safety (EH&S) organization, as well as all applicable local, regional, and national requirements. Safety equipment and instructions specific to the completion of this work instruction are detailed in the Instructions Section."
+    },
+    "classified_at": 1779266931.8061416
+  }
+}

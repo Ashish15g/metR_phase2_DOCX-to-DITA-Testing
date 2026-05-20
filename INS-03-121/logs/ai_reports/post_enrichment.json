@@ -1,0 +1,1710 @@
+{
+  "job_id": "37f27f88-fb30-4d91-9fc8-260c52f269f3",
+  "mode": "enrich-only",
+  "output_dir": "/app/output/37f27f88-fb30-4d91-9fc8-260c52f269f3",
+  "processed_at": "2026-05-20T08:48:52.234574+00:00",
+  "counts": {
+    "dita_files_total": 11,
+    "ditamap_files_total": 8,
+    "topics_reclassified": 5,
+    "issues_fixed_by_zone1": 2,
+    "issues_fixed_by_ai": 11,
+    "issues_remaining": 111,
+    "ai_obligations_missed": 2,
+    "new_issues_by_ai": 0,
+    "pending_suggestions": 19
+  },
+  "quality_metrics": {
+    "element_validation_success_pct": 63,
+    "attribute_mapping_success_pct": 100,
+    "href_resolution_success_pct": 100,
+    "table_resolution": {
+      "validated": 2,
+      "total": 2,
+      "success_pct": 100
+    }
+  },
+  "token_usage": {
+    "total_input_tokens": 0,
+    "total_output_tokens": 0,
+    "total_tokens": 0,
+    "total_cost_usd": 0,
+    "by_model": {}
+  },
+  "element_counts": {
+    "ol": 0,
+    "ul": 1,
+    "table": 2,
+    "image": 64,
+    "crosslink": 0,
+    "hyperlink": 0,
+    "concept": 6,
+    "task": 1,
+    "reference": 0,
+    "topic": 4
+  },
+  "enrichment_summary": [
+    {
+      "file": "approval/approval.dita",
+      "original_type": "reference",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": true,
+      "skipped": false
+    },
+    {
+      "file": "container_handling_setup_emhart_tw0444.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "instructions/instructions.dita",
+      "original_type": "task",
+      "ai_assigned_type": "task",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "purpose_and_application/application.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    },
+    {
+      "file": "purpose_and_application/purpose.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "topic",
+      "confidence": "low",
+      "reclassified": true,
+      "skipped": false
+    },
+    {
+      "file": "purpose_and_application/purpose_and_application.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "medium",
+      "reclassified": false,
+      "skipped": true
+    },
+    {
+      "file": "references/document_classification.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "topic",
+      "confidence": "low",
+      "reclassified": true,
+      "skipped": false
+    },
+    {
+      "file": "references/references.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "medium",
+      "reclassified": false,
+      "skipped": true
+    },
+    {
+      "file": "required_training/required_training.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "topic",
+      "confidence": "low",
+      "reclassified": true,
+      "skipped": false
+    },
+    {
+      "file": "revision_history/revision_history.dita",
+      "original_type": "reference",
+      "ai_assigned_type": "topic",
+      "confidence": "low",
+      "reclassified": true,
+      "skipped": false
+    },
+    {
+      "file": "safety/safety.dita",
+      "original_type": "concept",
+      "ai_assigned_type": "concept",
+      "confidence": "low",
+      "reclassified": false,
+      "skipped": false
+    }
+  ],
+  "structural_issues_remaining": [
+    {
+      "severity": "WARNING",
+      "category": "empty_body",
+      "file": "references/references.dita",
+      "message": "<conbody> exists but has no child elements or text content",
+      "line": 5
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "references/references.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 2 has an empty <cmd> element",
+      "line": 58
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 4 has an empty <cmd> element",
+      "line": 103
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 6 has an empty <cmd> element",
+      "line": 133
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 7 has an empty <cmd> element",
+      "line": 152
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 8 has an empty <cmd> element",
+      "line": 172
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 9 has an empty <cmd> element",
+      "line": 188
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 10 has an empty <cmd> element",
+      "line": 201
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 11 has an empty <cmd> element",
+      "line": 229
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 13 has an empty <cmd> element",
+      "line": 265
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 15 has an empty <cmd> element",
+      "line": 300
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 16 has an empty <cmd> element",
+      "line": 311
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 18 has an empty <cmd> element",
+      "line": 325
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 19 has an empty <cmd> element",
+      "line": 342
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 20 has an empty <cmd> element",
+      "line": 365
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 21 has an empty <cmd> element",
+      "line": 412
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 22 has an empty <cmd> element",
+      "line": 423
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 23 has an empty <cmd> element",
+      "line": 437
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 24 has an empty <cmd> element",
+      "line": 450
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 25 has an empty <cmd> element",
+      "line": 472
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 27 has an empty <cmd> element",
+      "line": 510
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 28 has an empty <cmd> element",
+      "line": 529
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 29 has an empty <cmd> element",
+      "line": 543
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 30 has an empty <cmd> element",
+      "line": 556
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 31 has an empty <cmd> element",
+      "line": 573
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 33 has an empty <cmd> element",
+      "line": 600
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 34 has an empty <cmd> element",
+      "line": 635
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 35 has an empty <cmd> element",
+      "line": 649
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 36 has an empty <cmd> element",
+      "line": 683
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 39 has an empty <cmd> element",
+      "line": 746
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 40 has an empty <cmd> element",
+      "line": 776
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 42 has an empty <cmd> element",
+      "line": 809
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 44 has an empty <cmd> element",
+      "line": 845
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 46 has an empty <cmd> element",
+      "line": 874
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 48 has an empty <cmd> element",
+      "line": 922
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 49 has an empty <cmd> element",
+      "line": 954
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 50 has an empty <cmd> element",
+      "line": 976
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 52 has an empty <cmd> element",
+      "line": 995
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 53 has an empty <cmd> element",
+      "line": 1006
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 54 has an empty <cmd> element",
+      "line": 1022
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 55 has an empty <cmd> element",
+      "line": 1038
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "instructions/instructions.dita",
+      "message": "step 56 has an empty <cmd> element",
+      "line": 1052
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #1 (href='../media/image1.png') has no alt text \u2014 required for accessibility",
+      "line": 51
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #2 (href='../media/image2.png') has no alt text \u2014 required for accessibility",
+      "line": 93
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #3 (href='../media/image3.png') has no alt text \u2014 required for accessibility",
+      "line": 96
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #4 (href='../media/image4.png') has no alt text \u2014 required for accessibility",
+      "line": 126
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #5 (href='../media/image5.png') has no alt text \u2014 required for accessibility",
+      "line": 142
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #6 (href='../media/image6.png') has no alt text \u2014 required for accessibility",
+      "line": 145
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #7 (href='../media/image7.png') has no alt text \u2014 required for accessibility",
+      "line": 181
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #8 (href='../media/image8.png') has no alt text \u2014 required for accessibility",
+      "line": 194
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #9 (href='../media/image9.png') has no alt text \u2014 required for accessibility",
+      "line": 216
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #10 (href='../media/image10.png') has no alt text \u2014 required for accessibility",
+      "line": 219
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #11 (href='../media/image11.png') has no alt text \u2014 required for accessibility",
+      "line": 222
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #12 (href='../media/image12.png') has no alt text \u2014 required for accessibility",
+      "line": 252
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #13 (href='../media/image13.png') has no alt text \u2014 required for accessibility",
+      "line": 255
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #14 (href='../media/image14.png') has no alt text \u2014 required for accessibility",
+      "line": 258
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #15 (href='../media/image15.png') has no alt text \u2014 required for accessibility",
+      "line": 274
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #16 (href='../media/image16.png') has no alt text \u2014 required for accessibility",
+      "line": 277
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #17 (href='../media/image17.png') has no alt text \u2014 required for accessibility",
+      "line": 280
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #18 (href='../media/image18.png') has no alt text \u2014 required for accessibility",
+      "line": 293
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #19 (href='../media/image19.png') has no alt text \u2014 required for accessibility",
+      "line": 349
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #20 (href='../media/image20.png') has no alt text \u2014 required for accessibility",
+      "line": 352
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #21 (href='../media/image21.png') has no alt text \u2014 required for accessibility",
+      "line": 355
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #22 (href='../media/image22.png') has no alt text \u2014 required for accessibility",
+      "line": 358
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #23 (href='../media/image23.png') has no alt text \u2014 required for accessibility",
+      "line": 395
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #24 (href='../media/image24.png') has no alt text \u2014 required for accessibility",
+      "line": 398
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #25 (href='../media/image25.png') has no alt text \u2014 required for accessibility",
+      "line": 401
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #26 (href='../media/image26.png') has no alt text \u2014 required for accessibility",
+      "line": 404
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #27 (href='../media/image27.png') has no alt text \u2014 required for accessibility",
+      "line": 430
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #28 (href='../media/image28.png') has no alt text \u2014 required for accessibility",
+      "line": 443
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #29 (href='../media/image29.png') has no alt text \u2014 required for accessibility",
+      "line": 462
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #30 (href='../media/image30.png') has no alt text \u2014 required for accessibility",
+      "line": 465
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #31 (href='../media/image31.png') has no alt text \u2014 required for accessibility",
+      "line": 487
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #32 (href='../media/image32.png') has no alt text \u2014 required for accessibility",
+      "line": 500
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #33 (href='../media/image33.png') has no alt text \u2014 required for accessibility",
+      "line": 503
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #34 (href='../media/image34.png') has no alt text \u2014 required for accessibility",
+      "line": 522
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #35 (href='../media/image35.png') has no alt text \u2014 required for accessibility",
+      "line": 536
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #36 (href='../media/image36.png') has no alt text \u2014 required for accessibility",
+      "line": 549
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #37 (href='../media/image37.png') has no alt text \u2014 required for accessibility",
+      "line": 566
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #38 (href='../media/image38.png') has no alt text \u2014 required for accessibility",
+      "line": 590
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #39 (href='../media/image39.png') has no alt text \u2014 required for accessibility",
+      "line": 593
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #40 (href='../media/image40.png') has no alt text \u2014 required for accessibility",
+      "line": 628
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #41 (href='../media/image41.png') has no alt text \u2014 required for accessibility",
+      "line": 673
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #42 (href='../media/image42.png') has no alt text \u2014 required for accessibility",
+      "line": 676
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #43 (href='../media/image43.png') has no alt text \u2014 required for accessibility",
+      "line": 695
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #44 (href='../media/image44.png') has no alt text \u2014 required for accessibility",
+      "line": 729
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #45 (href='../media/image45.png') has no alt text \u2014 required for accessibility",
+      "line": 732
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #46 (href='../media/image46.png') has no alt text \u2014 required for accessibility",
+      "line": 769
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #47 (href='../media/image47.png') has no alt text \u2014 required for accessibility",
+      "line": 802
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #48 (href='../media/image48.png') has no alt text \u2014 required for accessibility",
+      "line": 838
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #49 (href='../media/image49.png') has no alt text \u2014 required for accessibility",
+      "line": 854
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #50 (href='../media/image50.png') has no alt text \u2014 required for accessibility",
+      "line": 867
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #51 (href='../media/image51.png') has no alt text \u2014 required for accessibility",
+      "line": 889
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #52 (href='../media/image52.png') has no alt text \u2014 required for accessibility",
+      "line": 905
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #53 (href='../media/image53.png') has no alt text \u2014 required for accessibility",
+      "line": 908
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #54 (href='../media/image54.png') has no alt text \u2014 required for accessibility",
+      "line": 912
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #55 (href='../media/image55.png') has no alt text \u2014 required for accessibility",
+      "line": 915
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #56 (href='../media/image56.png') has no alt text \u2014 required for accessibility",
+      "line": 934
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #57 (href='../media/image58.png') has no alt text \u2014 required for accessibility",
+      "line": 942
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #58 (href='../media/image57.png') has no alt text \u2014 required for accessibility",
+      "line": 947
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #59 (href='../media/image59.png') has no alt text \u2014 required for accessibility",
+      "line": 966
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #60 (href='../media/image60.png') has no alt text \u2014 required for accessibility",
+      "line": 969
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #61 (href='../media/image61.png') has no alt text \u2014 required for accessibility",
+      "line": 990
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #62 (href='../media/image62.png') has no alt text \u2014 required for accessibility",
+      "line": 1015
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #63 (href='../media/image63.png') has no alt text \u2014 required for accessibility",
+      "line": 1031
+    },
+    {
+      "severity": "WARNING",
+      "category": "image_missing_alt",
+      "file": "instructions/instructions.dita",
+      "message": "<image> #64 (href='../media/image64.png') has no alt text \u2014 required for accessibility",
+      "line": 1045
+    },
+    {
+      "severity": "WARNING",
+      "category": "empty_body",
+      "file": "purpose_and_application/purpose_and_application.dita",
+      "message": "<conbody> exists but has no child elements or text content",
+      "line": 5
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "purpose_and_application/purpose_and_application.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_missing_title",
+      "file": "revision_history/revision_history.dita",
+      "message": "<table> #1 has no <title> element \u2014 required for accessibility and DITA compliance",
+      "line": 24
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_missing_title",
+      "file": "approval/approval.dita",
+      "message": "<table> #1 has no <title> element \u2014 required for accessibility and DITA compliance",
+      "line": 25
+    }
+  ],
+  "enrichment_quality": {
+    "summary": {
+      "dita_file_count": 11,
+      "severity_counts": {
+        "CRITICAL": 0,
+        "WARNING": 4,
+        "INFO": 0
+      },
+      "category_counts": {
+        "missing_shortdesc": 2,
+        "missing_prolog": 2
+      }
+    },
+    "issues": [
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "references/references.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_prolog",
+        "file": "references/references.dita",
+        "message": "<prolog> element is missing \u2014 AI (Layer 3) should have added prolog with keywords and indexterms"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "purpose_and_application/purpose_and_application.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_prolog",
+        "file": "purpose_and_application/purpose_and_application.dita",
+        "message": "<prolog> element is missing \u2014 AI (Layer 3) should have added prolog with keywords and indexterms"
+      }
+    ]
+  },
+  "fix_diff": {
+    "fixed_by_zone1": [
+      {
+        "file": "purpose_and_application/purpose_and_application.dita",
+        "fix": "expanded self-closing <conbody/> to explicit open/close tags"
+      },
+      {
+        "file": "references/references.dita",
+        "fix": "expanded self-closing <conbody/> to explicit open/close tags"
+      }
+    ],
+    "fixed_by_ai": [
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "container_handling_setup_emhart_tw0444.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "required_training/required_training.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "references/document_classification.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "safety/safety.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "instructions/instructions.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "purpose_and_application/application.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "purpose_and_application/purpose.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "section_missing_title",
+        "file": "revision_history/revision_history.dita",
+        "message": "<section> #1 has no <title> \u2014 recommended for DITA compliance",
+        "line": 6
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "revision_history/revision_history.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      },
+      {
+        "severity": "WARNING",
+        "category": "section_missing_title",
+        "file": "approval/approval.dita",
+        "message": "<section> #1 has no <title> \u2014 recommended for DITA compliance",
+        "line": 6
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_shortdesc",
+        "file": "approval/approval.dita",
+        "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+      }
+    ],
+    "ai_obligations_missed": [
+      {
+        "severity": "WARNING",
+        "category": "missing_prolog",
+        "file": "references/references.dita",
+        "message": "<prolog> element is missing \u2014 AI (Layer 3) should have added prolog with keywords and indexterms"
+      },
+      {
+        "severity": "WARNING",
+        "category": "missing_prolog",
+        "file": "purpose_and_application/purpose_and_application.dita",
+        "message": "<prolog> element is missing \u2014 AI (Layer 3) should have added prolog with keywords and indexterms"
+      }
+    ],
+    "new_issues_introduced_by_ai": [],
+    "summary": {
+      "pre_enrichment_issue_count": 122,
+      "post_enrichment_issue_count": 115,
+      "backend_error_file_count": 0,
+      "fixed_by_zone1_count": 2,
+      "fixed_by_ai_count": 11,
+      "remaining_count": 111,
+      "ai_obligations_missed_count": 2,
+      "new_issues_count": 0
+    }
+  },
+  "ai_quality_review": {
+    "layer4": {
+      "overall_quality": "fair",
+      "topic_type_accuracy_pct": 0,
+      "recommendations": [],
+      "dita_best_practice_gaps": [],
+      "autofix": {
+        "fixed": [],
+        "flagged": [],
+        "failed": []
+      }
+    },
+    "layer5": {
+      "validation_passed": true,
+      "overall_accuracy_pct": 100,
+      "per_topic_issues": [
+        {
+          "severity": "WARNING",
+          "file": "approval/approval.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Approval' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "container_handling_setup_emhart_tw0444.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Container Handling Setup - Emhart - TW0444' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 18
+        },
+        {
+          "severity": "WARNING",
+          "file": "instructions/instructions.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Instructions' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "purpose_and_application/application.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Application' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "purpose_and_application/purpose.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Purpose' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "purpose_and_application/purpose_and_application.dita",
+          "issue": "Empty body: <conbody> has no content or child elements",
+          "line": 5
+        },
+        {
+          "severity": "WARNING",
+          "file": "purpose_and_application/purpose_and_application.dita",
+          "issue": "Missing shortdesc element",
+          "reason": "Topic body has no content \u2014 shortdesc could not be generated from an empty source body",
+          "line": 3
+        },
+        {
+          "severity": "WARNING",
+          "file": "references/document_classification.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Document Classification' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 19
+        },
+        {
+          "severity": "WARNING",
+          "file": "references/references.dita",
+          "issue": "Empty body: <conbody> has no content or child elements",
+          "line": 5
+        },
+        {
+          "severity": "WARNING",
+          "file": "references/references.dita",
+          "issue": "Missing shortdesc element",
+          "reason": "Topic body has no content \u2014 shortdesc could not be generated from an empty source body",
+          "line": 3
+        },
+        {
+          "severity": "WARNING",
+          "file": "required_training/required_training.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Required Training' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "revision_history/revision_history.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Revision History' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        },
+        {
+          "severity": "WARNING",
+          "file": "safety/safety.dita",
+          "issue": "<prodname> is present but empty",
+          "reason": "No product name was found in the source DOCX for topic 'Safety' \u2014 the <prodname> element was generated by the enrichment layer but requires manual entry of the actual product name",
+          "line": 20
+        }
+      ],
+      "shortdesc_issues": [
+        {
+          "file": "purpose_and_application/purpose_and_application.dita",
+          "issue": "Missing shortdesc element"
+        },
+        {
+          "file": "references/references.dita",
+          "issue": "Missing shortdesc element"
+        }
+      ],
+      "recommendations": [
+        "13 WARNING(s) \u2014 missing id, DOCTYPE, or shortdesc"
+      ],
+      "schema_validation": {
+        "schema_passed": true,
+        "total_files": 11,
+        "valid_files": 11,
+        "invalid_files": 0,
+        "results": [
+          {
+            "file": "approval.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "container_handling_setup_emhart_tw0444.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "instructions.dita",
+            "valid": true,
+            "issues": [
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              },
+              {
+                "severity": "WARNING",
+                "element": "fig",
+                "message": "<fig> has no <title>"
+              }
+            ]
+          },
+          {
+            "file": "application.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "purpose.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "purpose_and_application.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "document_classification.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "references.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "required_training.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "revision_history.dita",
+            "valid": true,
+            "issues": []
+          },
+          {
+            "file": "safety.dita",
+            "valid": true,
+            "issues": []
+          }
+        ]
+      }
+    }
+  },
+  "element_counts_per_file": [
+    {
+      "file": "approval/approval.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 1,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "container_handling_setup_emhart_tw0444.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "instructions/instructions.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 64,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 0,
+      "task": 1,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "purpose_and_application/application.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "purpose_and_application/purpose.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 0,
+      "task": 0,
+      "reference": 0,
+      "topic": 1
+    },
+    {
+      "file": "purpose_and_application/purpose_and_application.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "references/document_classification.dita",
+      "ol": 0,
+      "ul": 1,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 0,
+      "task": 0,
+      "reference": 0,
+      "topic": 1
+    },
+    {
+      "file": "references/references.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    },
+    {
+      "file": "required_training/required_training.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 0,
+      "task": 0,
+      "reference": 0,
+      "topic": 1
+    },
+    {
+      "file": "revision_history/revision_history.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 1,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 0,
+      "task": 0,
+      "reference": 0,
+      "topic": 1
+    },
+    {
+      "file": "safety/safety.dita",
+      "ol": 0,
+      "ul": 0,
+      "table": 0,
+      "image": 0,
+      "crosslink": 0,
+      "hyperlink": 0,
+      "concept": 1,
+      "task": 0,
+      "reference": 0,
+      "topic": 0
+    }
+  ]
+}

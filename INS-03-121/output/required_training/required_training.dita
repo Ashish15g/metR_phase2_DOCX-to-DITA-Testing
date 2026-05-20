@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="_Toc448821620" xml:lang="en-us">
+  <title>Required Training</title>
+  <shortdesc>Before performing this work instruction, applicable personnel must be trained by an authorized trainer on</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Required</keyword>
+        <keyword>Training</keyword>
+        <keyword>Before</keyword>
+        <keyword>performing</keyword>
+        <keyword>instruction</keyword>
+        <keyword>applicable</keyword>
+        <indexterm>Required</indexterm>
+        <indexterm>Training</indexterm>
+        <indexterm>Before</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <body>
+    <p>Before performing this work instruction, applicable personnel must be trained by an authorized trainer on the required training contents listed in this document.</p>
+  </body>
+</topic>

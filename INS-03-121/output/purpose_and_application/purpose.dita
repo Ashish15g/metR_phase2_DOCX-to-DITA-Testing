@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="purpose" xml:lang="en-us">
+  <title>Purpose</title>
+  <shortdesc>To define a work instruction for proper setup of the Emhart TW0444 Squeeze Tester.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Purpose</keyword>
+        <keyword>define</keyword>
+        <keyword>instruction</keyword>
+        <keyword>proper</keyword>
+        <keyword>setup</keyword>
+        <keyword>Emhart</keyword>
+        <indexterm>Purpose</indexterm>
+        <indexterm>define</indexterm>
+        <indexterm>instruction</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <body>
+    <p>To define a work instruction for proper setup of the Emhart TW0444 Squeeze Tester.</p>
+  </body>
+</topic>

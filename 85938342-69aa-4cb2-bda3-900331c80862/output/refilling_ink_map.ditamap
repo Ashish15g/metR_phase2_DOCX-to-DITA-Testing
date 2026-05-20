@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="refilling_ink_map" xml:lang="en-us">
+  <title>Refilling Ink</title>
+  <topicref href="refilling_ink/refilling_ink.dita" navtitle="Refilling Ink" />
+  <topicref href="refilling_ink/ink_safety_precautions.dita" navtitle="Ink Safety Precautions" />
+  <topicref href="refilling_ink/check_ink_levels.dita" navtitle="Check Ink Levels" chunk="to-content">
+    <topicref href="refilling_ink/checking_ink_levels_on_your_product.dita" navtitle="Checking Ink Levels on Your Product" />
+    <topicref href="refilling_ink/checking_ink_levels_windows.dita" navtitle="Checking Ink Levels - Windows" />
+    <topicref href="refilling_ink/checking_ink_levels_mac.dita" navtitle="Checking Ink Levels - Mac" />
+    <topicref href="refilling_ink/disabling_special_offers_with_windows.dita" navtitle="Disabling Special Offers with Windows" />
+  </topicref>
+  <topicref href="refilling_ink/purchase_metr_ink.dita" navtitle="Purchase MetR Ink" chunk="to-content">
+    <topicref href="refilling_ink/ink_bottle_part_numbers.dita" navtitle="Ink Bottle Part Numbers" />
+  </topicref>
+  <topicref href="refilling_ink/refilling_the_ink_tanks.dita" navtitle="Refilling the Ink Tanks" />
+</map>

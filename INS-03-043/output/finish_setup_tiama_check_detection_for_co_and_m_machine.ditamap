@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="finish_setup_tiama_check_detection_for_co_and_m_machine" xml:lang="en-us">
+  <title>Finish Setup - Tiama - Check Detection for CO and M Machine</title>
+  <topicmeta>
+    <critdates>
+      <created date="2024-05-16" />
+      <revised modified="2024-08-06" />
+    </critdates>
+  </topicmeta>
+  <topicref href="finish_setup_tiama_check_detection_for_co_and_m_machine.dita" navtitle="Finish Setup - Tiama - Check Detection for CO and M Machine" />
+  <mapref href="purpose_and_application_map.ditamap" navtitle="Purpose and Application" format="ditamap" />
+  <mapref href="safety_map.ditamap" navtitle="Safety" format="ditamap" />
+  <mapref href="instructions_map.ditamap" navtitle="Instructions" format="ditamap" />
+  <mapref href="required_training_map.ditamap" navtitle="Required Training" format="ditamap" />
+  <mapref href="approval_map.ditamap" navtitle="Approval" format="ditamap" />
+  <mapref href="revision_history_map.ditamap" navtitle="Revision History" format="ditamap" />
+</map>

@@ -1,0 +1,140 @@
+========================================================================
+  DITA OUTPUT VALIDATION REPORT
+========================================================================
+  Generated  : 2026-05-20 07:50:59
+  Output dir : /app/output/9d7d4464-2374-4d9b-8573-072225af37d8
+  Files found: 16  (.dita + .ditamap)
+========================================================================
+
+------------------------------------------------------------------------
+  FILE   : approval/approval.dita
+  STATUS : [PASS]
+  Root tag     : reference
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : finish_setup_tiama_check_detection_for_co_and_m_machine.dita
+  STATUS : [PASS]
+  Root tag     : concept
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : instructions/instructions.dita
+  STATUS : [PASS]
+  Root tag     : task
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : purpose_and_application/application.dita
+  STATUS : [PASS]
+  Root tag     : concept
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : purpose_and_application/purpose.dita
+  STATUS : [PASS]
+  Root tag     : concept
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : purpose_and_application/purpose_and_application.dita
+  STATUS : [PASS]
+  Root tag     : concept
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : required_training/required_training.dita
+  STATUS : [PASS]
+  Root tag     : concept
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : revision_history/revision_history.dita
+  STATUS : [PASS]
+  Root tag     : reference
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : safety/safety.dita
+  STATUS : [PASS]
+  Root tag     : concept
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : approval_map.ditamap
+  STATUS : [PASS]
+  Root tag     : map
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : finish_setup_tiama_check_detection_for_co_and_m_machine.ditamap
+  STATUS : [PASS]
+  Root tag     : map
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : instructions_map.ditamap
+  STATUS : [PASS]
+  Root tag     : map
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : purpose_and_application_map.ditamap
+  STATUS : [PASS]
+  Root tag     : map
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : required_training_map.ditamap
+  STATUS : [PASS]
+  Root tag     : map
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : revision_history_map.ditamap
+  STATUS : [PASS]
+  Root tag     : map
+  DOCTYPE      : OK
+  Errors       : none
+
+------------------------------------------------------------------------
+  FILE   : safety_map.ditamap
+  STATUS : [PASS]
+  Root tag     : map
+  DOCTYPE      : OK
+  Errors       : none
+
+========================================================================
+  SUMMARY
+------------------------------------------------------------------------
+  Total files : 16
+  Passed      : 16
+  Failed      : 0
+----------------------------------------
+  Total Dita Files generated         : 9
+  Total Headings counted             : 6
+  Total subheadings under Heading (per heading name):
+    - Approval                                          : 1 file(s)
+    - Instructions                                      : 1 file(s)
+    - Purpose And Application                           : 3 file(s)
+    - Required Training                                 : 1 file(s)
+    - Revision History                                  : 1 file(s)
+    - Safety                                            : 1 file(s)
+  Total Ditamap Files generated      : 7
+  Root Ditamap                       : approval_map.ditamap
+  Total images counted               : 21
+========================================================================

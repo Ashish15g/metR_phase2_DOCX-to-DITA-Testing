@@ -1,0 +1,484 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="instructions" xml:lang="en-us">
+  <title>Instructions</title>
+  <shortdesc>Before starting the work instruction activity, perform the following steps: Do not begin these tasks</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>light</keyword>
+        <keyword>camera</keyword>
+        <keyword>channel</keyword>
+        <keyword>setup</keyword>
+        <keyword>station</keyword>
+        <keyword>perform</keyword>
+        <indexterm>light</indexterm>
+        <indexterm>camera</indexterm>
+        <indexterm>channel</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <steps id="steps_075059">
+      <step>
+        <cmd>Before starting the work instruction activity, perform the following steps:</cmd>
+        <substeps id="substeps_07505901">
+          <substep>
+            <cmd>Do not begin these tasks without confirmation that personnel directly involved have completed the required training associated with the work instruction activity and have reviewed this document.</cmd>
+          </substep>
+          <substep>
+            <cmd>Gather necessary tools and equipment as identified below in the Equipment Section.</cmd>
+          </substep>
+          <substep>
+            <cmd>Wear and use additional Personal Protective Equipment (PPE) and safety equipment required for this specific work instruction.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image1.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_07505903">
+          <substep>
+            <cmd>Obey all applicable safety requirements and procedures.</cmd>
+          </substep>
+          <substep>
+            <cmd>Notify appropriate personnel of the activity and estimated time needed to complete the tasks.</cmd>
+          </substep>
+          <substep>
+            <cmd>Clearly identify, mark-off, and secure the designated area defined by the work instruction activity.</cmd>
+          </substep>
+          <substep>
+            <cmd>Follow all Lockout/tagout procedures when work instruction activity requires isolating energy in the designated area. Verify energy is isolated before starting work.</cmd>
+          </substep>
+          <substep>
+            <cmd>Only after energy is verified to be isolated, can the protective guarding be removed and safety interlock gates be opened.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>Prerequisite to this work instruction:</cmd>
+        <substeps id="substeps_07505904">
+          <substep>
+            <cmd>This Work Instruction assumes that the pickups used are standardized according to Training Document INS-04-002 Conventional Check Pickup Standardization.</cmd>
+          </substep>
+          <substep>
+            <cmd>In the light setup procedures, to describe where to shine the light on the bottle finish - consider the top of the bottle to be the face of a clock with 12:00 always toward the center of the starwheel.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image2.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>To prepare a setup container, perform the following steps:</cmd>
+        <substeps id="substeps_07505906">
+          <substep>
+            <cmd>Prepare a setup container by affixing reflective white tape to completely encircle the finish, a 25 mm (1 inch) strip across the base of the neck, and a strip across the bottom overlapping the bearing surface and heel.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image3.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>For mechanical setup of Finish Vertical Check, perform the following steps:</cmd>
+        <substeps id="substeps_07505908">
+          <substep>
+            <cmd>Place a container with a typical defect in the station (station 2 or 3).</cmd>
+          </substep>
+          <substep>
+            <cmd>Using a 6 mm hex key, unlock the cap screw.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image4.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_07505910">
+          <substep>
+            <cmd>Adjust height between 100 mm and 200 mm above the finish.</cmd>
+          </substep>
+          <substep>
+            <cmd>For CO, a tool may be used to screw into the middle of the check assembly in order to center the assembly over the container and set the height.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image5.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_07505912">
+          <substep>
+            <cmd>Lock the cap screw.</cmd>
+          </substep>
+          <substep>
+            <cmd>Focus the light source 50 mm from the defect in a vertical position.</cmd>
+          </substep>
+          <substep>
+            <cmd>The light source uses the longer post at 235 mm in length.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image6.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_07505914">
+          <substep>
+            <cmd>Position the camera support so the light spot is visible in the center of the camera tightening ring with the camera 30 mm away.</cmd>
+          </substep>
+          <substep>
+            <cmd>The camera uses the shorter post at 190mm in length.</cmd>
+          </substep>
+          <substep>
+            <cmd>Connect the camera to a TGI unit to a channel set to the emission frequency used (channel corresponding to the inspection station).</cmd>
+            <info>
+              <fig>
+                <image href="../media/image7.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_07505916">
+          <substep>
+            <cmd>Move the camera to an angle between 20 and 45° depending on the background noise given by the mould seam.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image8.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_07505918">
+          <substep>
+            <cmd>Mount symmetrically on the other station for inverse radially checks.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image9.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_07505920">
+          <substep>
+            <cmd>Focus the light signal on the lip.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image10.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>For proper setup of the optics for Vertical Check, perform the following steps:</cmd>
+        <substeps id="substeps_07505922">
+          <substep>
+            <cmd>Press <b>Setup</b>&gt;<b>Config</b>&gt;S<b>cope</b> to display the TGI channel on the software screen.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image11.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_07505924">
+          <substep>
+            <cmd>Connect the probe to the central channel of the CAL unit.</cmd>
+          </substep>
+          <substep>
+            <cmd>In the Oscilloscope page, set to 20 ms/div.</cmd>
+          </substep>
+          <substep>
+            <cmd>Run the Oscilloscope function by pressing "Go" at the bottom of the page for the correct channel, the signal is displayed.</cmd>
+          </substep>
+          <substep>
+            <cmd>The signal must be set to an amplitude of at least 250 mv and outside noise must be under 250 mv.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image12.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_07505926">
+          <substep>
+            <cmd>Use the TG2 sensitivity potentiometer to increase or decrease the amplitude.</cmd>
+          </substep>
+          <substep>
+            <cmd>Repeat for second vertical pickup.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>For mechanical setup of Finish Horizontal Check, perform the following steps:</cmd>
+        <substeps id="substeps_07505927">
+          <substep>
+            <cmd>Place a container with a typical defect in the station (station 2 or 3).</cmd>
+          </substep>
+          <substep>
+            <cmd>Using a 6 mm hex, unlock the cap screw.</cmd>
+          </substep>
+          <substep>
+            <cmd>Adjust height from 100 mm to 200mm above the finish.</cmd>
+          </substep>
+          <substep>
+            <cmd>For CO, a tool may be used to screw into the middle of the check assembly in order to center the assembly over the container and set the height.</cmd>
+          </substep>
+          <substep>
+            <cmd>Lock the cap screw.</cmd>
+          </substep>
+          <substep>
+            <cmd>Focus the light source 50 mm from the defect in a vertical position.</cmd>
+          </substep>
+          <substep>
+            <cmd>The light source uses the longer post at 235 mm in length.</cmd>
+          </substep>
+          <substep>
+            <cmd>Position the camera support so the light spot is visible in the center of the camera tightening ring with the camera 30 mm away.</cmd>
+          </substep>
+          <substep>
+            <cmd>The camera uses the shorter post at 190mm in length.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image13.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_07505929">
+          <substep>
+            <cmd>Connect the camera to a TGI unit to a channel set to the emission frequency used (channel corresponding to the inspection station).</cmd>
+            <info>
+              <fig>
+                <image href="../media/image14.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_07505931">
+          <substep>
+            <cmd>Move the camera to an angle between 20 and 45° depending on the background noise given by the mould seam.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image15.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_07505933">
+          <substep>
+            <cmd>Focus the light signal on the lip.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>For optical setup of Horizontal Check, perform the following steps:</cmd>
+        <substeps id="substeps_07505934">
+          <substep>
+            <cmd>Press <b>Setup</b>&gt;<b>Config</b>&gt;S<b>cope</b> to display the TGI channel on the software screen.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image16.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_07505936">
+          <substep>
+            <cmd>Connect the probe to the central channel of the CAL unit.</cmd>
+          </substep>
+          <substep>
+            <cmd>In the Oscilloscope page, set to 20 ms/div.</cmd>
+          </substep>
+          <substep>
+            <cmd>Run the Oscilloscope function by pressing "Go" at the bottom of the page for the correct channel, the signal is displayed.</cmd>
+          </substep>
+          <substep>
+            <cmd>The signal must be set to an amplitude of at least 250 mv and outside noise must be under 250 mv.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image17.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_07505938">
+          <substep>
+            <cmd>Use the TG2 sensitivity potentiometer to increase or decrease the amplitude.</cmd>
+          </substep>
+          <substep>
+            <cmd>Repeat for second horizontal pickup.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>For mechanical setup of Bottom Check, perform the following steps:</cmd>
+        <substeps id="substeps_07505939">
+          <substep>
+            <cmd>According to the bottom glass thickness and color of the bottle, place two or four light sources into the bottom light assembly. Place the light into the holder and then snap the clips into place.</cmd>
+          </substep>
+          <substep>
+            <cmd>Four lights may be used for thicker bottles or darker color</cmd>
+          </substep>
+          <substep>
+            <cmd>Use a 5 or 7.5 kHz light source as long as all pickups and lights are on the same frequency.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image18.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_07505941">
+          <substep>
+            <cmd>Place a container in the station with a typical defect.</cmd>
+          </substep>
+          <substep>
+            <cmd>Slide a piece of paper underneath the bottle and on top of the slide plate.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image19.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_07505943">
+          <substep>
+            <cmd>Loosen the check bottom release handle to allow the assembly to move in/out and rotate around the radius.</cmd>
+          </substep>
+          <substep>
+            <cmd>Position the light source assembly so each light spot should be visible at each corner of the container and positioned perpendicular to the cord of the radius.</cmd>
+          </substep>
+          <substep>
+            <cmd>Position the camera to a focal distance of 70 mm.</cmd>
+          </substep>
+          <substep>
+            <cmd>Connect the camera to a TGI unit to a channel set to the emission frequency used (channel corresponding to the inspection station).</cmd>
+            <info>
+              <fig>
+                <image href="../media/image20.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>For optical setup of Bottom Check, perform the following steps:</cmd>
+        <substeps id="substeps_07505945">
+          <substep>
+            <cmd>Press <b>Setup</b>&gt;<b>Config</b>&gt;S<b>cope</b> to display the TGI channel on the software screen.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image21.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd/>
+        <substeps id="substeps_07505947">
+          <substep>
+            <cmd>Connect the probe to the central channel of the CAL unit.</cmd>
+          </substep>
+          <substep>
+            <cmd>In the Oscilloscope page, set to 20 ms/div.</cmd>
+          </substep>
+          <substep>
+            <cmd>Run the Oscilloscope function by pressing "Go" at the bottom of the page, the signal is displayed.</cmd>
+          </substep>
+          <substep>
+            <cmd>Repeat for the second bottom station, using this setup as a mirror image.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>Upon completion of tasks, perform the following steps:</cmd>
+        <substeps id="substeps_07505948">
+          <substep>
+            <cmd>Replace protective guarding and close safety interlock gates.</cmd>
+          </substep>
+          <substep>
+            <cmd>Confirm the designated work area is clear and communicate to personnel the intent to restart energy.</cmd>
+          </substep>
+          <substep>
+            <cmd>After the designated work area is confirmed clear and personnel are aware of the pending restart, follow all Lockout/Tagout procedures to restart energy supplied to the designated area. Verify energy is active.</cmd>
+          </substep>
+          <substep>
+            <cmd>Remove signs and markings from the designated work area.</cmd>
+          </substep>
+          <substep>
+            <cmd>Perform basic housekeeping duties. Clean up the work space, tools and equipment, dispose of trash, put tools and equipment in assigned area.</cmd>
+          </substep>
+          <substep>
+            <cmd>Notify appropriate personnel that the work instruction activity has been completed.</cmd>
+          </substep>
+          <substep>
+            <cmd>Record and report findings and results.</cmd>
+          </substep>
+          <substep>
+            <cmd>Follow appropriate instructions for notification of findings and results relating to specifications, targets and/or reaction limits.</cmd>
+          </substep>
+        </substeps>
+      </step>
+    </steps>
+  </taskbody>
+</task>

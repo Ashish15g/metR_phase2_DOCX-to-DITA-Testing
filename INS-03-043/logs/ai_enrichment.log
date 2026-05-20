@@ -1,0 +1,341 @@
+2026-05-20 07:50:59,561 [INFO] pipeline.enrich_runner: [EnrichPipeline] Raw backup created at: /app/output/.tmp_backup_9d7d4464-2374-4d9b-8573-072225af37d8
+2026-05-20 07:50:59,566 [INFO] pipeline.enrich_runner: [EnrichPipeline] Discovered 9 .dita files, 7 .ditamap files
+2026-05-20 07:50:59,567 [INFO] pipeline.enrich_runner: [EnrichPipeline] Parsed 9 DITA files
+2026-05-20 07:50:59,568 [INFO] pipeline.enrich_runner: [EnrichPipeline] ══ BEFORE ENRICHMENT ══════════════════════════════
+2026-05-20 07:50:59,568 [INFO] pipeline.enrich_runner: [EnrichPipeline] Total DITA files: 9
+2026-05-20 07:50:59,568 [INFO] pipeline.enrich_runner: [EnrichPipeline] [BEFORE] approval/approval.dita                             type=reference  shortdesc=NO  prolog=NO 
+2026-05-20 07:50:59,568 [INFO] pipeline.enrich_runner: [EnrichPipeline] [BEFORE] finish_setup_tiama_check_detection_for_co_and_m_machine.dita type=concept    shortdesc=NO  prolog=NO 
+2026-05-20 07:50:59,568 [INFO] pipeline.enrich_runner: [EnrichPipeline] [BEFORE] instructions/instructions.dita                     type=task       shortdesc=NO  prolog=NO 
+2026-05-20 07:50:59,568 [INFO] pipeline.enrich_runner: [EnrichPipeline] [BEFORE] purpose_and_application/application.dita           type=concept    shortdesc=NO  prolog=NO 
+2026-05-20 07:50:59,568 [INFO] pipeline.enrich_runner: [EnrichPipeline] [BEFORE] purpose_and_application/purpose.dita               type=concept    shortdesc=NO  prolog=NO 
+2026-05-20 07:50:59,568 [INFO] pipeline.enrich_runner: [EnrichPipeline] [BEFORE] purpose_and_application/purpose_and_application.dita type=concept    shortdesc=NO  prolog=NO 
+2026-05-20 07:50:59,568 [INFO] pipeline.enrich_runner: [EnrichPipeline] [BEFORE] required_training/required_training.dita           type=concept    shortdesc=NO  prolog=NO 
+2026-05-20 07:50:59,568 [INFO] pipeline.enrich_runner: [EnrichPipeline] [BEFORE] revision_history/revision_history.dita             type=reference  shortdesc=NO  prolog=NO 
+2026-05-20 07:50:59,568 [INFO] pipeline.enrich_runner: [EnrichPipeline] [BEFORE] safety/safety.dita                                 type=concept    shortdesc=NO  prolog=NO 
+2026-05-20 07:50:59,568 [INFO] pipeline.enrich_runner: [EnrichPipeline] ── Structure & Schema Validation (DITA-only) ──
+2026-05-20 07:50:59,571 [INFO] utils.structure_validator: [StructureValidator] Checking .ditamap topicref and mapref references
+2026-05-20 07:50:59,574 [INFO] utils.structure_validator: [StructureValidator] Checking for duplicate id attributes
+2026-05-20 07:50:59,576 [INFO] utils.structure_validator: [StructureValidator] Checking <xref> href targets
+2026-05-20 07:50:59,578 [INFO] utils.structure_validator: [StructureValidator] Checking for spaces in filenames and folder names
+2026-05-20 07:50:59,579 [INFO] utils.structure_validator: [StructureValidator] Running per-file DITA schema validation
+2026-05-20 07:50:59,579 [WARNING] utils.structure_validator: [StructureValidator] WARNING [missing_shortdesc]: 'finish_setup_tiama_check_detection_for_co_and_m_machine.dita' — <shortdesc> element is missing — required for search previews and navigation
+2026-05-20 07:50:59,580 [WARNING] utils.structure_validator: [StructureValidator] WARNING [missing_shortdesc]: 'required_training/required_training.dita' — <shortdesc> element is missing — required for search previews and navigation
+2026-05-20 07:50:59,580 [WARNING] utils.structure_validator: [StructureValidator] WARNING [missing_shortdesc]: 'safety/safety.dita' — <shortdesc> element is missing — required for search previews and navigation
+2026-05-20 07:50:59,583 [WARNING] utils.structure_validator: [StructureValidator] WARNING [step_empty_cmd]: 'instructions/instructions.dita' — step 2 has an empty <cmd> element
+2026-05-20 07:50:59,583 [WARNING] utils.structure_validator: [StructureValidator] WARNING [step_empty_cmd]: 'instructions/instructions.dita' — step 6 has an empty <cmd> element
+2026-05-20 07:50:59,583 [WARNING] utils.structure_validator: [StructureValidator] WARNING [step_empty_cmd]: 'instructions/instructions.dita' — step 7 has an empty <cmd> element
+2026-05-20 07:50:59,583 [WARNING] utils.structure_validator: [StructureValidator] WARNING [step_empty_cmd]: 'instructions/instructions.dita' — step 8 has an empty <cmd> element
+2026-05-20 07:50:59,583 [WARNING] utils.structure_validator: [StructureValidator] WARNING [step_empty_cmd]: 'instructions/instructions.dita' — step 9 has an empty <cmd> element
+2026-05-20 07:50:59,583 [WARNING] utils.structure_validator: [StructureValidator] WARNING [step_empty_cmd]: 'instructions/instructions.dita' — step 10 has an empty <cmd> element
+2026-05-20 07:50:59,583 [WARNING] utils.structure_validator: [StructureValidator] WARNING [step_empty_cmd]: 'instructions/instructions.dita' — step 11 has an empty <cmd> element
+2026-05-20 07:50:59,583 [WARNING] utils.structure_validator: [StructureValidator] WARNING [step_empty_cmd]: 'instructions/instructions.dita' — step 13 has an empty <cmd> element
+2026-05-20 07:50:59,583 [WARNING] utils.structure_validator: [StructureValidator] WARNING [step_empty_cmd]: 'instructions/instructions.dita' — step 14 has an empty <cmd> element
+2026-05-20 07:50:59,583 [WARNING] utils.structure_validator: [StructureValidator] WARNING [step_empty_cmd]: 'instructions/instructions.dita' — step 16 has an empty <cmd> element
+2026-05-20 07:50:59,584 [WARNING] utils.structure_validator: [StructureValidator] WARNING [step_empty_cmd]: 'instructions/instructions.dita' — step 17 has an empty <cmd> element
+2026-05-20 07:50:59,584 [WARNING] utils.structure_validator: [StructureValidator] WARNING [step_empty_cmd]: 'instructions/instructions.dita' — step 18 has an empty <cmd> element
+2026-05-20 07:50:59,584 [WARNING] utils.structure_validator: [StructureValidator] WARNING [step_empty_cmd]: 'instructions/instructions.dita' — step 20 has an empty <cmd> element
+2026-05-20 07:50:59,584 [WARNING] utils.structure_validator: [StructureValidator] WARNING [step_empty_cmd]: 'instructions/instructions.dita' — step 21 has an empty <cmd> element
+2026-05-20 07:50:59,584 [WARNING] utils.structure_validator: [StructureValidator] WARNING [step_empty_cmd]: 'instructions/instructions.dita' — step 23 has an empty <cmd> element
+2026-05-20 07:50:59,584 [WARNING] utils.structure_validator: [StructureValidator] WARNING [step_empty_cmd]: 'instructions/instructions.dita' — step 24 has an empty <cmd> element
+2026-05-20 07:50:59,584 [WARNING] utils.structure_validator: [StructureValidator] WARNING [step_empty_cmd]: 'instructions/instructions.dita' — step 26 has an empty <cmd> element
+2026-05-20 07:50:59,584 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #1 (href='../media/image1.png') has no alt text — required for accessibility
+2026-05-20 07:50:59,584 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #2 (href='../media/image2.png') has no alt text — required for accessibility
+2026-05-20 07:50:59,584 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #3 (href='../media/image3.png') has no alt text — required for accessibility
+2026-05-20 07:50:59,584 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #4 (href='../media/image4.png') has no alt text — required for accessibility
+2026-05-20 07:50:59,584 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #5 (href='../media/image5.png') has no alt text — required for accessibility
+2026-05-20 07:50:59,584 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #6 (href='../media/image6.png') has no alt text — required for accessibility
+2026-05-20 07:50:59,584 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #7 (href='../media/image7.png') has no alt text — required for accessibility
+2026-05-20 07:50:59,584 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #8 (href='../media/image8.png') has no alt text — required for accessibility
+2026-05-20 07:50:59,584 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #9 (href='../media/image9.png') has no alt text — required for accessibility
+2026-05-20 07:50:59,584 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #10 (href='../media/image10.png') has no alt text — required for accessibility
+2026-05-20 07:50:59,584 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #11 (href='../media/image11.png') has no alt text — required for accessibility
+2026-05-20 07:50:59,585 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #12 (href='../media/image12.png') has no alt text — required for accessibility
+2026-05-20 07:50:59,585 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #13 (href='../media/image13.png') has no alt text — required for accessibility
+2026-05-20 07:50:59,585 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #14 (href='../media/image14.png') has no alt text — required for accessibility
+2026-05-20 07:50:59,585 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #15 (href='../media/image15.png') has no alt text — required for accessibility
+2026-05-20 07:50:59,585 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #16 (href='../media/image16.png') has no alt text — required for accessibility
+2026-05-20 07:50:59,585 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #17 (href='../media/image17.png') has no alt text — required for accessibility
+2026-05-20 07:50:59,585 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #18 (href='../media/image18.png') has no alt text — required for accessibility
+2026-05-20 07:50:59,585 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #19 (href='../media/image19.png') has no alt text — required for accessibility
+2026-05-20 07:50:59,585 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #20 (href='../media/image20.png') has no alt text — required for accessibility
+2026-05-20 07:50:59,585 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #21 (href='../media/image21.png') has no alt text — required for accessibility
+2026-05-20 07:50:59,586 [WARNING] utils.structure_validator: [StructureValidator] WARNING [missing_shortdesc]: 'instructions/instructions.dita' — <shortdesc> element is missing — required for search previews and navigation
+2026-05-20 07:50:59,586 [WARNING] utils.structure_validator: [StructureValidator] WARNING [empty_body]: 'purpose_and_application/purpose_and_application.dita' — <conbody> exists but has no child elements or text content
+2026-05-20 07:50:59,586 [WARNING] utils.structure_validator: [StructureValidator] WARNING [missing_shortdesc]: 'purpose_and_application/purpose_and_application.dita' — <shortdesc> element is missing — required for search previews and navigation
+2026-05-20 07:50:59,587 [WARNING] utils.structure_validator: [StructureValidator] WARNING [missing_shortdesc]: 'purpose_and_application/application.dita' — <shortdesc> element is missing — required for search previews and navigation
+2026-05-20 07:50:59,587 [WARNING] utils.structure_validator: [StructureValidator] WARNING [missing_shortdesc]: 'purpose_and_application/purpose.dita' — <shortdesc> element is missing — required for search previews and navigation
+2026-05-20 07:50:59,588 [WARNING] utils.structure_validator: [StructureValidator] WARNING [section_missing_title]: 'revision_history/revision_history.dita' — <section> #1 has no <title> — recommended for DITA compliance
+2026-05-20 07:50:59,588 [WARNING] utils.structure_validator: [StructureValidator] WARNING [table_missing_title]: 'revision_history/revision_history.dita' — <table> #1 has no <title> element — required for accessibility and DITA compliance
+2026-05-20 07:50:59,588 [WARNING] utils.structure_validator: [StructureValidator] WARNING [missing_shortdesc]: 'revision_history/revision_history.dita' — <shortdesc> element is missing — required for search previews and navigation
+2026-05-20 07:50:59,588 [WARNING] utils.structure_validator: [StructureValidator] WARNING [section_missing_title]: 'approval/approval.dita' — <section> #1 has no <title> — recommended for DITA compliance
+2026-05-20 07:50:59,588 [WARNING] utils.structure_validator: [StructureValidator] WARNING [table_missing_title]: 'approval/approval.dita' — <table> #1 has no <title> element — required for accessibility and DITA compliance
+2026-05-20 07:50:59,588 [WARNING] utils.structure_validator: [StructureValidator] WARNING [missing_shortdesc]: 'approval/approval.dita' — <shortdesc> element is missing — required for search previews and navigation
+2026-05-20 07:50:59,589 [INFO] utils.structure_validator: [StructureValidator] Complete — CRITICAL=0, WARNING=52 | dita_files=9, broken_xml=0, empty=1, broken_dita_refs=0, broken_maprefs=0, orphans=0, duplicate_ids=0, broken_xrefs=0, filename_spaces=0
+2026-05-20 07:50:59,589 [INFO] pipeline.enrich_runner: [EnrichPipeline] Validation done — CRITICAL=0, WARNING=52 | broken_xml=0, empty=1, broken_refs=0, orphans=0
+2026-05-20 07:50:59,592 [INFO] pipeline.enrich_runner: [EnrichPipeline] ── Safe Fixer: Zone 1 auto-fixes ──
+2026-05-20 07:50:59,598 [INFO] utils.dita_safe_fixer: [SafeFixer] FIXED: purpose_and_application/purpose_and_application.dita — expanded self-closing <conbody/> to explicit open/close tags
+2026-05-20 07:50:59,599 [INFO] utils.dita_safe_fixer: [SafeFixer] Complete — 1 fix(es) applied, 0 write failure(s)
+2026-05-20 07:50:59,599 [INFO] pipeline.enrich_runner: [EnrichPipeline] Safe fixes applied=1, write_failures=0
+2026-05-20 07:50:59,602 [INFO] pipeline.enrich_runner: [EnrichPipeline] Marked 1 empty topic(s) to skip enrichment
+2026-05-20 07:50:59,993 [INFO] httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 401 Unauthorized"
+2026-05-20 07:50:59,994 [WARNING] pipeline.enrich_runner: [EnrichPipeline] ANTHROPIC_API_KEY is invalid or expired — heuristic fallbacks will be used.
+2026-05-20 07:50:59,997 [INFO] pipeline.enrich_runner: [EnrichPipeline] ── Extracting document context from DITA files ──
+2026-05-20 07:51:00,005 [INFO] utils.document_context_extractor: [DocContext] extract_context_from_dita — 9 files found, stem='instructions_map'
+2026-05-20 07:51:00,006 [INFO] utils.document_context_extractor: [DocContext] Extracting document-level context from: /app/output/9d7d4464-2374-4d9b-8573-072225af37d8/instructions_map.ditamap
+2026-05-20 07:51:00,007 [INFO] utils.document_context_extractor: [DocContext] Aggregated content from 9 files
+2026-05-20 07:51:00,357 [INFO] httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 401 Unauthorized"
+2026-05-20 07:51:00,358 [WARNING] utils.document_context_extractor: [DocContext] AI extraction failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CbDTQbrCf9z4sMuWx3Mm2'}
+2026-05-20 07:51:00,359 [INFO] utils.document_context_extractor: [DocContext] AI confidence low (0.00), using heuristic for task_type only
+2026-05-20 07:51:00,360 [INFO] utils.document_context_extractor: [DocContext] Heuristic task_type: 'inspection procedures'
+2026-05-20 07:51:00,360 [INFO] utils.document_context_extractor: [DocContext] Final context: {'prodname': 'instructions_map', 'prodname_confirmed': False, 'equipment_name': '', 'task_type': 'inspection procedures', 'document_keywords': ['inspection procedures'], 'extraction_method': 'heuristic', 'confidence': 0.0}
+2026-05-20 07:51:00,360 [INFO] pipeline.enrich_runner: [EnrichPipeline] prodname 'instructions_map' is AI-inferred — clearing so DITA gets empty <prodname>
+2026-05-20 07:51:00,360 [INFO] pipeline.enrich_runner: [EnrichPipeline] Context — prodname='', equipment='', task_type='inspection procedures', method=heuristic, confidence=0.00
+2026-05-20 07:51:00,362 [INFO] utils.core_log_parser: [CoreLogParser] Parsed core report 'INS-03-043_report.txt' — 16 topics, 0 errors
+2026-05-20 07:51:00,363 [INFO] pipeline.enrich_runner: [EnrichPipeline] ── Backend Report (core _report.txt) ──────────────
+2026-05-20 07:51:00,363 [INFO] pipeline.enrich_runner: [BackendReport] [Core Engine] total=16, passed=16, failed=0, root_map=approval_map.ditamap, images=21
+2026-05-20 07:51:00,363 [INFO] pipeline.enrich_runner: [BackendReport] [Core Files]
+2026-05-20 07:51:00,363 [INFO] pipeline.enrich_runner: [BackendReport]   approval/approval.dita: type=reference, status=PASS
+2026-05-20 07:51:00,363 [INFO] pipeline.enrich_runner: [BackendReport]   finish_setup_tiama_check_detection_for_co_and_m_machine.dita: type=concept, status=PASS
+2026-05-20 07:51:00,363 [INFO] pipeline.enrich_runner: [BackendReport]   instructions/instructions.dita: type=task, status=PASS
+2026-05-20 07:51:00,363 [INFO] pipeline.enrich_runner: [BackendReport]   purpose_and_application/application.dita: type=concept, status=PASS
+2026-05-20 07:51:00,363 [INFO] pipeline.enrich_runner: [BackendReport]   purpose_and_application/purpose.dita: type=concept, status=PASS
+2026-05-20 07:51:00,363 [INFO] pipeline.enrich_runner: [BackendReport]   purpose_and_application/purpose_and_application.dita: type=concept, status=PASS
+2026-05-20 07:51:00,363 [INFO] pipeline.enrich_runner: [BackendReport]   required_training/required_training.dita: type=concept, status=PASS
+2026-05-20 07:51:00,363 [INFO] pipeline.enrich_runner: [BackendReport]   revision_history/revision_history.dita: type=reference, status=PASS
+2026-05-20 07:51:00,363 [INFO] pipeline.enrich_runner: [BackendReport]   safety/safety.dita: type=concept, status=PASS
+2026-05-20 07:51:00,364 [INFO] pipeline.enrich_runner: [BackendReport] [Core DTD] all files passed
+2026-05-20 07:51:00,364 [INFO] pipeline.enrich_runner: [BackendReport] [Core Errors] none
+2026-05-20 07:51:00,364 [INFO] pipeline.enrich_runner: [BackendReport] [Core Headings] Approval(1) | Instructions(1) | Purpose And Application(3) | Required Training(1) | Revision History(1) | Safety(1)
+2026-05-20 07:51:00,364 [INFO] pipeline.enrich_runner: [BackendReport] DTD validation: all files passed
+2026-05-20 07:51:00,364 [INFO] pipeline.enrich_runner: [EnrichPipeline] ────────────────────────────────────────────────────
+2026-05-20 07:51:00,364 [INFO] pipeline.enrich_runner: [EnrichPipeline] ── Layers 1+2+3: Classify + Shortdesc + Keywords ──
+2026-05-20 07:51:00,369 [INFO] layers.layer123_enrichment: L123 › 'Approval' approval/approval.dita
+2026-05-20 07:51:00,372 [INFO] layers.layer123_enrichment: L123 › 'Finish Setup - Tiama - Check Detection for CO and M Machine' finish_setup_tiama_check_detection_for_co_and_m_machine.dita
+2026-05-20 07:51:00,377 [INFO] layers.layer123_enrichment: L123 › 'Instructions' instructions/instructions.dita
+2026-05-20 07:51:00,380 [INFO] layers.layer123_enrichment: L123 › 'Application' purpose_and_application/application.dita
+2026-05-20 07:51:00,382 [INFO] layers.layer123_enrichment: L123 › 'Purpose' purpose_and_application/purpose.dita
+2026-05-20 07:51:00,383 [INFO] pipeline.enrich_runner: [EnrichPipeline] SKIPPED 'purpose_and_application/purpose_and_application.dita' — empty topic
+2026-05-20 07:51:00,384 [INFO] layers.layer123_enrichment: L123 › 'Required Training' required_training/required_training.dita
+2026-05-20 07:51:00,385 [INFO] layers.layer123_enrichment: L123 › 'Revision History' revision_history/revision_history.dita
+2026-05-20 07:51:00,386 [INFO] layers.layer123_enrichment: L123 › 'Safety' safety/safety.dita
+2026-05-20 07:51:00,700 [INFO] httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 401 Unauthorized"
+2026-05-20 07:51:00,701 [ERROR] layers.layer123_enrichment: L123 ✗ error: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CbDTQdUg3vMbuXUyZbg8s'}
+2026-05-20 07:51:00,704 [WARNING] layers.layer123_enrichment: L123 ⊘ fallback 'Approval'
+2026-05-20 07:51:00,706 [INFO] layers.layer1_topic_classifier: L1 ✓ reference→concept approval.dita
+2026-05-20 07:51:00,707 [INFO] utils.body_preserver: [BodyPreserver] Successfully merged: DOCTYPE preserved, body preserved, AI enrichment applied
+2026-05-20 07:51:00,707 [INFO] layers.layer2_shortdesc_generator: L2 ✓ shortdesc approval.dita
+2026-05-20 07:51:00,709 [INFO] utils.body_preserver: [BodyPreserver] Successfully merged: DOCTYPE preserved, body preserved, AI enrichment applied
+2026-05-20 07:51:00,709 [INFO] layers.layer3_keywords_indexterms: L3 ✓ prolog approval.dita
+2026-05-20 07:51:00,710 [INFO] pipeline.enrich_runner: [EnrichPipeline] Enriched 'Approval' → type=concept, confidence=low
+2026-05-20 07:51:00,719 [INFO] httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 401 Unauthorized"
+2026-05-20 07:51:00,720 [ERROR] layers.layer123_enrichment: L123 ✗ error: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CbDTQdZPLZqjwLXeLM7c7'}
+2026-05-20 07:51:00,720 [WARNING] layers.layer123_enrichment: L123 ⊘ fallback 'Application'
+2026-05-20 07:51:00,721 [INFO] layers.layer1_topic_classifier: L1 ✓ concept→topic application.dita
+2026-05-20 07:51:00,722 [INFO] utils.body_preserver: [BodyPreserver] Successfully merged: DOCTYPE preserved, body preserved, AI enrichment applied
+2026-05-20 07:51:00,722 [INFO] layers.layer2_shortdesc_generator: L2 ✓ shortdesc application.dita
+2026-05-20 07:51:00,723 [INFO] utils.body_preserver: [BodyPreserver] Successfully merged: DOCTYPE preserved, body preserved, AI enrichment applied
+2026-05-20 07:51:00,723 [INFO] layers.layer3_keywords_indexterms: L3 ✓ prolog application.dita
+2026-05-20 07:51:00,724 [INFO] pipeline.enrich_runner: [EnrichPipeline] Enriched 'Application' → type=topic, confidence=low
+2026-05-20 07:51:00,724 [INFO] httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 401 Unauthorized"
+2026-05-20 07:51:00,725 [INFO] httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 401 Unauthorized"
+2026-05-20 07:51:00,727 [ERROR] layers.layer123_enrichment: L123 ✗ error: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CbDTQdZ97Ut9NHVzbZn84'}
+2026-05-20 07:51:00,728 [WARNING] layers.layer123_enrichment: L123 ⊘ fallback 'Purpose'
+2026-05-20 07:51:00,728 [INFO] layers.layer1_topic_classifier: L1 ✓ concept→topic purpose.dita
+2026-05-20 07:51:00,729 [INFO] utils.body_preserver: [BodyPreserver] Successfully merged: DOCTYPE preserved, body preserved, AI enrichment applied
+2026-05-20 07:51:00,729 [INFO] layers.layer2_shortdesc_generator: L2 ✓ shortdesc purpose.dita
+2026-05-20 07:51:00,730 [INFO] utils.body_preserver: [BodyPreserver] Successfully merged: DOCTYPE preserved, body preserved, AI enrichment applied
+2026-05-20 07:51:00,731 [INFO] layers.layer3_keywords_indexterms: L3 ✓ prolog purpose.dita
+2026-05-20 07:51:00,731 [INFO] pipeline.enrich_runner: [EnrichPipeline] Enriched 'Purpose' → type=topic, confidence=low
+2026-05-20 07:51:00,732 [ERROR] layers.layer123_enrichment: L123 ✗ error: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CbDTQdZ8vcPmZaKcPwjfQ'}
+2026-05-20 07:51:00,732 [WARNING] layers.layer123_enrichment: L123 ⊘ fallback 'Instructions'
+2026-05-20 07:51:00,735 [INFO] utils.body_preserver: [BodyPreserver] Successfully merged: DOCTYPE preserved, body preserved, AI enrichment applied
+2026-05-20 07:51:00,736 [INFO] utils.body_preserver: [BodyPreserver] All substeps properly nested under step — validation PASSED
+2026-05-20 07:51:00,736 [INFO] layers.layer2_shortdesc_generator: L2 ✓ shortdesc instructions.dita
+2026-05-20 07:51:00,738 [INFO] utils.body_preserver: [BodyPreserver] Successfully merged: DOCTYPE preserved, body preserved, AI enrichment applied
+2026-05-20 07:51:00,738 [INFO] utils.body_preserver: [BodyPreserver] All substeps properly nested under step — validation PASSED
+2026-05-20 07:51:00,739 [INFO] layers.layer3_keywords_indexterms: L3 ✓ prolog instructions.dita
+2026-05-20 07:51:00,742 [INFO] pipeline.enrich_runner: [EnrichPipeline] Enriched 'Instructions' → type=task, confidence=low
+2026-05-20 07:51:00,744 [INFO] httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 401 Unauthorized"
+2026-05-20 07:51:00,745 [ERROR] layers.layer123_enrichment: L123 ✗ error: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CbDTQdZ8ydJ5jTYr8ZUKH'}
+2026-05-20 07:51:00,745 [WARNING] layers.layer123_enrichment: L123 ⊘ fallback 'Finish Setup - Tiama - Check Detection for CO and M Machine'
+2026-05-20 07:51:00,746 [INFO] utils.body_preserver: [BodyPreserver] Successfully merged: DOCTYPE preserved, body preserved, AI enrichment applied
+2026-05-20 07:51:00,746 [INFO] layers.layer2_shortdesc_generator: L2 ✓ shortdesc finish_setup_tiama_check_detection_for_co_and_m_machine.dita
+2026-05-20 07:51:00,747 [INFO] utils.body_preserver: [BodyPreserver] Successfully merged: DOCTYPE preserved, body preserved, AI enrichment applied
+2026-05-20 07:51:00,747 [INFO] layers.layer3_keywords_indexterms: L3 ✓ prolog finish_setup_tiama_check_detection_for_co_and_m_machine.dita
+2026-05-20 07:51:00,748 [INFO] pipeline.enrich_runner: [EnrichPipeline] Enriched 'Finish Setup - Tiama - Check Detection for CO and M Machine' → type=concept, confidence=low
+2026-05-20 07:51:01,023 [INFO] httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 401 Unauthorized"
+2026-05-20 07:51:01,024 [ERROR] layers.layer123_enrichment: L123 ✗ error: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CbDTQerXH9FtdNJq5KV9i'}
+2026-05-20 07:51:01,024 [WARNING] layers.layer123_enrichment: L123 ⊘ fallback 'Required Training'
+2026-05-20 07:51:01,025 [INFO] layers.layer1_topic_classifier: L1 ✓ concept→topic required_training.dita
+2026-05-20 07:51:01,025 [INFO] utils.body_preserver: [BodyPreserver] Successfully merged: DOCTYPE preserved, body preserved, AI enrichment applied
+2026-05-20 07:51:01,026 [INFO] layers.layer2_shortdesc_generator: L2 ✓ shortdesc required_training.dita
+2026-05-20 07:51:01,027 [INFO] utils.body_preserver: [BodyPreserver] Successfully merged: DOCTYPE preserved, body preserved, AI enrichment applied
+2026-05-20 07:51:01,027 [INFO] layers.layer3_keywords_indexterms: L3 ✓ prolog required_training.dita
+2026-05-20 07:51:01,028 [INFO] pipeline.enrich_runner: [EnrichPipeline] Enriched 'Required Training' → type=topic, confidence=low
+2026-05-20 07:51:01,066 [INFO] httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 401 Unauthorized"
+2026-05-20 07:51:01,067 [ERROR] layers.layer123_enrichment: L123 ✗ error: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CbDTQf2wSpBzeGuMnMgBh'}
+2026-05-20 07:51:01,067 [WARNING] layers.layer123_enrichment: L123 ⊘ fallback 'Revision History'
+2026-05-20 07:51:01,068 [INFO] layers.layer1_topic_classifier: L1 ✓ reference→topic revision_history.dita
+2026-05-20 07:51:01,068 [INFO] utils.body_preserver: [BodyPreserver] Successfully merged: DOCTYPE preserved, body preserved, AI enrichment applied
+2026-05-20 07:51:01,069 [INFO] layers.layer2_shortdesc_generator: L2 ✓ shortdesc revision_history.dita
+2026-05-20 07:51:01,070 [INFO] utils.body_preserver: [BodyPreserver] Successfully merged: DOCTYPE preserved, body preserved, AI enrichment applied
+2026-05-20 07:51:01,071 [INFO] layers.layer3_keywords_indexterms: L3 ✓ prolog revision_history.dita
+2026-05-20 07:51:01,072 [INFO] pipeline.enrich_runner: [EnrichPipeline] Enriched 'Revision History' → type=topic, confidence=low
+2026-05-20 07:51:01,255 [INFO] httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 401 Unauthorized"
+2026-05-20 07:51:01,256 [ERROR] layers.layer123_enrichment: L123 ✗ error: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CbDTQfpp6dfQBD3GFdZct'}
+2026-05-20 07:51:01,256 [WARNING] layers.layer123_enrichment: L123 ⊘ fallback 'Safety'
+2026-05-20 07:51:01,258 [INFO] utils.body_preserver: [BodyPreserver] Successfully merged: DOCTYPE preserved, body preserved, AI enrichment applied
+2026-05-20 07:51:01,259 [INFO] layers.layer2_shortdesc_generator: L2 ✓ shortdesc safety.dita
+2026-05-20 07:51:01,260 [INFO] utils.body_preserver: [BodyPreserver] Successfully merged: DOCTYPE preserved, body preserved, AI enrichment applied
+2026-05-20 07:51:01,261 [INFO] layers.layer3_keywords_indexterms: L3 ✓ prolog safety.dita
+2026-05-20 07:51:01,265 [INFO] pipeline.enrich_runner: [EnrichPipeline] Enriched 'Safety' → type=concept, confidence=low
+2026-05-20 07:51:01,266 [INFO] pipeline.enrich_runner: [EnrichPipeline] Layers 1+2+3 complete — 9 topics processed
+2026-05-20 07:51:01,269 [INFO] pipeline.enrich_runner: [EnrichPipeline] Reclassification summary — 5 of 9 topics had type changed by AI
+2026-05-20 07:51:01,270 [INFO] pipeline.enrich_runner: [EnrichPipeline] [RECLASSIFIED] approval/approval.dita                                       reference → concept (confidence=low)
+2026-05-20 07:51:01,270 [INFO] pipeline.enrich_runner: [EnrichPipeline] [RECLASSIFIED] purpose_and_application/application.dita                     concept → topic (confidence=low)
+2026-05-20 07:51:01,271 [INFO] pipeline.enrich_runner: [EnrichPipeline] [RECLASSIFIED] purpose_and_application/purpose.dita                         concept → topic (confidence=low)
+2026-05-20 07:51:01,271 [INFO] pipeline.enrich_runner: [EnrichPipeline] [RECLASSIFIED] required_training/required_training.dita                     concept → topic (confidence=low)
+2026-05-20 07:51:01,271 [INFO] pipeline.enrich_runner: [EnrichPipeline] [RECLASSIFIED] revision_history/revision_history.dita                       reference → topic (confidence=low)
+2026-05-20 07:51:01,271 [INFO] pipeline.enrich_runner: [EnrichPipeline] ══ AFTER ENRICHMENT ═══════════════════════════════
+2026-05-20 07:51:01,272 [INFO] pipeline.enrich_runner: [EnrichPipeline] [AFTER]  approval/approval.dita                             type=concept    shortdesc='Sanctioning Representatives of the Global Team'
+2026-05-20 07:51:01,274 [INFO] pipeline.enrich_runner: [EnrichPipeline]          keywords=['Approval', 'Global', 'America', 'Sanctioning', 'Representatives', 'Team'] | indexterms=['Approval', 'Global', 'America']
+2026-05-20 07:51:01,274 [INFO] pipeline.enrich_runner: [EnrichPipeline] [AFTER]  finish_setup_tiama_check_detection_for_co_and_m_machine.dita type=concept    shortdesc='2017-07-21'
+2026-05-20 07:51:01,275 [INFO] pipeline.enrich_runner: [EnrichPipeline]          keywords=['Finish', 'Setup', 'Tiama', 'Check', 'Detection', 'Machine'] | indexterms=['Finish', 'Setup', 'Tiama']
+2026-05-20 07:51:01,275 [INFO] pipeline.enrich_runner: [EnrichPipeline] [AFTER]  instructions/instructions.dita                     type=task       shortdesc='Before starting the work instruction activity, perform the following s…'
+2026-05-20 07:51:01,275 [INFO] pipeline.enrich_runner: [EnrichPipeline]          keywords=['light', 'camera', 'channel', 'setup', 'station', 'perform'] | indexterms=['light', 'camera', 'channel']
+2026-05-20 07:51:01,275 [INFO] pipeline.enrich_runner: [EnrichPipeline] [AFTER]  purpose_and_application/application.dita           type=topic      shortdesc='This work instruction applies to all O-I manufacturing facilities.'
+2026-05-20 07:51:01,275 [INFO] pipeline.enrich_runner: [EnrichPipeline]          keywords=['Application', 'instruction', 'applies', 'manufacturing', 'facilities'] | indexterms=['Application', 'instruction', 'applies']
+2026-05-20 07:51:01,275 [INFO] pipeline.enrich_runner: [EnrichPipeline] [AFTER]  purpose_and_application/purpose.dita               type=topic      shortdesc='To define a work instruction for the proper device setup of Tiama CO a…'
+2026-05-20 07:51:01,279 [INFO] pipeline.enrich_runner: [EnrichPipeline]          keywords=['Purpose', 'define', 'instruction', 'proper', 'device', 'setup'] | indexterms=['Purpose', 'define', 'instruction']
+2026-05-20 07:51:01,279 [INFO] pipeline.enrich_runner: [EnrichPipeline] [AFTER]  purpose_and_application/purpose_and_application.dita SKIPPED (empty topic)
+2026-05-20 07:51:01,279 [INFO] pipeline.enrich_runner: [EnrichPipeline] [AFTER]  required_training/required_training.dita           type=topic      shortdesc='Before performing this work instruction, applicable personnel must be …'
+2026-05-20 07:51:01,279 [INFO] pipeline.enrich_runner: [EnrichPipeline]          keywords=['Required', 'Training', 'Before', 'performing', 'instruction', 'applicable'] | indexterms=['Required', 'Training', 'Before']
+2026-05-20 07:51:01,279 [INFO] pipeline.enrich_runner: [EnrichPipeline] [AFTER]  revision_history/revision_history.dita             type=topic      shortdesc='2017-07-21 Approved by Bob Morin, Global Inspection Discipline Leader …'
+2026-05-20 07:51:01,279 [INFO] pipeline.enrich_runner: [EnrichPipeline]          keywords=['Revision', 'History', 'Approved', 'Morin', 'Global', 'Inspection'] | indexterms=['Revision', 'History', 'Approved']
+2026-05-20 07:51:01,281 [INFO] pipeline.enrich_runner: [EnrichPipeline] [AFTER]  safety/safety.dita                                 type=concept    shortdesc='Observe O-I standard safety requirements and procedures defined by the…'
+2026-05-20 07:51:01,282 [INFO] pipeline.enrich_runner: [EnrichPipeline]          keywords=['Safety', 'requirements', 'Observe', 'standard', 'safety', 'procedures'] | indexterms=['Safety', 'requirements', 'Observe']
+2026-05-20 07:51:01,283 [INFO] pipeline.enrich_runner: [EnrichPipeline] ── Layer 4: Quality Review ──
+2026-05-20 07:51:01,296 [INFO] layers.layer4_quality_autofix: L4 › approval/approval.dita at /app/output/9d7d4464-2374-4d9b-8573-072225af37d8/approval/approval.dita
+2026-05-20 07:51:01,296 [INFO] layers.layer4_quality_autofix: L4 › finish_setup_tiama_check_detection_for_co_and_m_machine.dita at /app/output/9d7d4464-2374-4d9b-8573-072225af37d8/finish_setup_tiama_check_detection_for_co_and_m_machine.dita
+2026-05-20 07:51:01,296 [INFO] layers.layer4_quality_autofix: L4 › instructions/instructions.dita at /app/output/9d7d4464-2374-4d9b-8573-072225af37d8/instructions/instructions.dita
+2026-05-20 07:51:01,297 [INFO] layers.layer4_quality_autofix: L4 › purpose_and_application/application.dita at /app/output/9d7d4464-2374-4d9b-8573-072225af37d8/purpose_and_application/application.dita
+2026-05-20 07:51:01,297 [INFO] layers.layer4_quality_autofix: L4 › purpose_and_application/purpose.dita at /app/output/9d7d4464-2374-4d9b-8573-072225af37d8/purpose_and_application/purpose.dita
+2026-05-20 07:51:01,298 [INFO] layers.layer4_quality_autofix: L4 › purpose_and_application/purpose_and_application.dita at /app/output/9d7d4464-2374-4d9b-8573-072225af37d8/purpose_and_application/purpose_and_application.dita
+2026-05-20 07:51:01,299 [INFO] layers.layer4_quality_autofix: L4 › required_training/required_training.dita at /app/output/9d7d4464-2374-4d9b-8573-072225af37d8/required_training/required_training.dita
+2026-05-20 07:51:01,299 [INFO] layers.layer4_quality_autofix: L4 › revision_history/revision_history.dita at /app/output/9d7d4464-2374-4d9b-8573-072225af37d8/revision_history/revision_history.dita
+2026-05-20 07:51:01,300 [INFO] layers.layer4_quality_autofix: L4 › safety/safety.dita at /app/output/9d7d4464-2374-4d9b-8573-072225af37d8/safety/safety.dita
+2026-05-20 07:51:01,301 [INFO] layers.layer4_quality_autofix: L4 › review 9/9 topics (0 skipped)
+2026-05-20 07:51:01,621 [INFO] httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 401 Unauthorized"
+2026-05-20 07:51:01,626 [WARNING] layers.layer4_quality_autofix: L4 ✗ review: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CbDTQhQKBsax9BBjkLCNT'}
+2026-05-20 07:51:01,627 [INFO] pipeline.enrich_runner: [EnrichPipeline] Layer 4 review — quality=fair, accuracy=0%
+2026-05-20 07:51:01,637 [INFO] pipeline.enrich_runner: [EnrichPipeline] ── Layer 4: Autofix ──
+2026-05-20 07:51:01,643 [INFO] layers.layer4_quality_autofix: L4 › autofix: 0 broken
+2026-05-20 07:51:01,645 [INFO] pipeline.enrich_runner: [EnrichPipeline] Layer 4 autofix — fixed=0, flagged=0, failed=0
+2026-05-20 07:51:01,659 [INFO] pipeline.enrich_runner: [EnrichPipeline] ── Layer 5: Final Validation ──
+2026-05-20 07:51:01,663 [INFO] layers.layer5_final_validation: L5 ── structural validation start
+2026-05-20 07:51:01,665 [INFO] layers.layer5_final_validation: L5 ⚠ approval/approval.dita — 1 issue(s)
+2026-05-20 07:51:01,666 [INFO] layers.layer5_final_validation: L5 ⚠ finish_setup_tiama_check_detection_for_co_and_m_machine.dita — 1 issue(s)
+2026-05-20 07:51:01,669 [INFO] layers.layer5_final_validation: L5 ⚠ instructions/instructions.dita — 1 issue(s)
+2026-05-20 07:51:01,670 [INFO] layers.layer5_final_validation: L5 ⚠ purpose_and_application/application.dita — 1 issue(s)
+2026-05-20 07:51:01,672 [INFO] layers.layer5_final_validation: L5 ⚠ purpose_and_application/purpose.dita — 1 issue(s)
+2026-05-20 07:51:01,673 [INFO] layers.layer5_final_validation: L5 ⚠ purpose_and_application/purpose_and_application.dita — 2 issue(s)
+2026-05-20 07:51:01,673 [INFO] layers.layer5_final_validation: L5 ⚠ required_training/required_training.dita — 1 issue(s)
+2026-05-20 07:51:01,674 [INFO] layers.layer5_final_validation: L5 ⚠ revision_history/revision_history.dita — 1 issue(s)
+2026-05-20 07:51:01,675 [INFO] layers.layer5_final_validation: L5 ⚠ safety/safety.dita — 1 issue(s)
+2026-05-20 07:51:01,675 [INFO] layers.layer5_final_validation: L5 ✓ done pass=True acc=100% crit=0 err=0 warn=10
+2026-05-20 07:51:01,675 [INFO] layers.layer5_final_validation: L5 DTD schema start
+2026-05-20 07:51:01,677 [INFO] utils.dita_schema_validator: [SchemaValidator] VALID    approval.dita
+2026-05-20 07:51:01,677 [INFO] utils.dita_schema_validator: [SchemaValidator] VALID    finish_setup_tiama_check_detection_for_co_and_m_machine.dita
+2026-05-20 07:51:01,678 [INFO] utils.dita_schema_validator: [SchemaValidator] WARNINGS instructions.dita — 21 issue(s)
+2026-05-20 07:51:01,678 [INFO] utils.dita_schema_validator: [SchemaValidator] VALID    application.dita
+2026-05-20 07:51:01,679 [INFO] utils.dita_schema_validator: [SchemaValidator] VALID    purpose.dita
+2026-05-20 07:51:01,679 [INFO] utils.dita_schema_validator: [SchemaValidator] VALID    purpose_and_application.dita
+2026-05-20 07:51:01,679 [INFO] utils.dita_schema_validator: [SchemaValidator] VALID    required_training.dita
+2026-05-20 07:51:01,680 [INFO] utils.dita_schema_validator: [SchemaValidator] VALID    revision_history.dita
+2026-05-20 07:51:01,680 [INFO] utils.dita_schema_validator: [SchemaValidator] VALID    safety.dita
+2026-05-20 07:51:01,680 [INFO] utils.dita_schema_validator: [SchemaValidator] ── DONE ── schema_passed=True, valid=9/9
+2026-05-20 07:51:01,680 [INFO] layers.layer5_final_validation: L5 DTD schema pass=True valid=9/9
+2026-05-20 07:51:01,680 [INFO] pipeline.enrich_runner: [EnrichPipeline] Layer 5 — passed=True, accuracy=100%
+2026-05-20 07:51:01,685 [INFO] pipeline.enrich_runner: [EnrichPipeline] ── Post-Enrichment Structural Validation ──
+2026-05-20 07:51:01,689 [INFO] utils.structure_validator: [StructureValidator] Checking .ditamap topicref and mapref references
+2026-05-20 07:51:01,693 [INFO] utils.structure_validator: [StructureValidator] Checking for duplicate id attributes
+2026-05-20 07:51:01,696 [INFO] utils.structure_validator: [StructureValidator] Checking <xref> href targets
+2026-05-20 07:51:01,698 [INFO] utils.structure_validator: [StructureValidator] Checking for spaces in filenames and folder names
+2026-05-20 07:51:01,699 [INFO] utils.structure_validator: [StructureValidator] Running per-file DITA schema validation
+2026-05-20 07:51:01,705 [WARNING] utils.structure_validator: [StructureValidator] WARNING [step_empty_cmd]: 'instructions/instructions.dita' — step 2 has an empty <cmd> element
+2026-05-20 07:51:01,705 [WARNING] utils.structure_validator: [StructureValidator] WARNING [step_empty_cmd]: 'instructions/instructions.dita' — step 6 has an empty <cmd> element
+2026-05-20 07:51:01,705 [WARNING] utils.structure_validator: [StructureValidator] WARNING [step_empty_cmd]: 'instructions/instructions.dita' — step 7 has an empty <cmd> element
+2026-05-20 07:51:01,705 [WARNING] utils.structure_validator: [StructureValidator] WARNING [step_empty_cmd]: 'instructions/instructions.dita' — step 8 has an empty <cmd> element
+2026-05-20 07:51:01,705 [WARNING] utils.structure_validator: [StructureValidator] WARNING [step_empty_cmd]: 'instructions/instructions.dita' — step 9 has an empty <cmd> element
+2026-05-20 07:51:01,705 [WARNING] utils.structure_validator: [StructureValidator] WARNING [step_empty_cmd]: 'instructions/instructions.dita' — step 10 has an empty <cmd> element
+2026-05-20 07:51:01,706 [WARNING] utils.structure_validator: [StructureValidator] WARNING [step_empty_cmd]: 'instructions/instructions.dita' — step 11 has an empty <cmd> element
+2026-05-20 07:51:01,706 [WARNING] utils.structure_validator: [StructureValidator] WARNING [step_empty_cmd]: 'instructions/instructions.dita' — step 13 has an empty <cmd> element
+2026-05-20 07:51:01,706 [WARNING] utils.structure_validator: [StructureValidator] WARNING [step_empty_cmd]: 'instructions/instructions.dita' — step 14 has an empty <cmd> element
+2026-05-20 07:51:01,706 [WARNING] utils.structure_validator: [StructureValidator] WARNING [step_empty_cmd]: 'instructions/instructions.dita' — step 16 has an empty <cmd> element
+2026-05-20 07:51:01,706 [WARNING] utils.structure_validator: [StructureValidator] WARNING [step_empty_cmd]: 'instructions/instructions.dita' — step 17 has an empty <cmd> element
+2026-05-20 07:51:01,706 [WARNING] utils.structure_validator: [StructureValidator] WARNING [step_empty_cmd]: 'instructions/instructions.dita' — step 18 has an empty <cmd> element
+2026-05-20 07:51:01,706 [WARNING] utils.structure_validator: [StructureValidator] WARNING [step_empty_cmd]: 'instructions/instructions.dita' — step 20 has an empty <cmd> element
+2026-05-20 07:51:01,707 [WARNING] utils.structure_validator: [StructureValidator] WARNING [step_empty_cmd]: 'instructions/instructions.dita' — step 21 has an empty <cmd> element
+2026-05-20 07:51:01,707 [WARNING] utils.structure_validator: [StructureValidator] WARNING [step_empty_cmd]: 'instructions/instructions.dita' — step 23 has an empty <cmd> element
+2026-05-20 07:51:01,707 [WARNING] utils.structure_validator: [StructureValidator] WARNING [step_empty_cmd]: 'instructions/instructions.dita' — step 24 has an empty <cmd> element
+2026-05-20 07:51:01,707 [WARNING] utils.structure_validator: [StructureValidator] WARNING [step_empty_cmd]: 'instructions/instructions.dita' — step 26 has an empty <cmd> element
+2026-05-20 07:51:01,707 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #1 (href='../media/image1.png') has no alt text — required for accessibility
+2026-05-20 07:51:01,707 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #2 (href='../media/image2.png') has no alt text — required for accessibility
+2026-05-20 07:51:01,707 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #3 (href='../media/image3.png') has no alt text — required for accessibility
+2026-05-20 07:51:01,707 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #4 (href='../media/image4.png') has no alt text — required for accessibility
+2026-05-20 07:51:01,707 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #5 (href='../media/image5.png') has no alt text — required for accessibility
+2026-05-20 07:51:01,707 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #6 (href='../media/image6.png') has no alt text — required for accessibility
+2026-05-20 07:51:01,707 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #7 (href='../media/image7.png') has no alt text — required for accessibility
+2026-05-20 07:51:01,707 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #8 (href='../media/image8.png') has no alt text — required for accessibility
+2026-05-20 07:51:01,707 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #9 (href='../media/image9.png') has no alt text — required for accessibility
+2026-05-20 07:51:01,708 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #10 (href='../media/image10.png') has no alt text — required for accessibility
+2026-05-20 07:51:01,708 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #11 (href='../media/image11.png') has no alt text — required for accessibility
+2026-05-20 07:51:01,708 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #12 (href='../media/image12.png') has no alt text — required for accessibility
+2026-05-20 07:51:01,708 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #13 (href='../media/image13.png') has no alt text — required for accessibility
+2026-05-20 07:51:01,708 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #14 (href='../media/image14.png') has no alt text — required for accessibility
+2026-05-20 07:51:01,708 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #15 (href='../media/image15.png') has no alt text — required for accessibility
+2026-05-20 07:51:01,708 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #16 (href='../media/image16.png') has no alt text — required for accessibility
+2026-05-20 07:51:01,708 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #17 (href='../media/image17.png') has no alt text — required for accessibility
+2026-05-20 07:51:01,708 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #18 (href='../media/image18.png') has no alt text — required for accessibility
+2026-05-20 07:51:01,708 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #19 (href='../media/image19.png') has no alt text — required for accessibility
+2026-05-20 07:51:01,708 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #20 (href='../media/image20.png') has no alt text — required for accessibility
+2026-05-20 07:51:01,708 [WARNING] utils.structure_validator: [StructureValidator] WARNING [image_missing_alt]: 'instructions/instructions.dita' — <image> #21 (href='../media/image21.png') has no alt text — required for accessibility
+2026-05-20 07:51:01,710 [WARNING] utils.structure_validator: [StructureValidator] WARNING [empty_body]: 'purpose_and_application/purpose_and_application.dita' — <conbody> exists but has no child elements or text content
+2026-05-20 07:51:01,710 [WARNING] utils.structure_validator: [StructureValidator] WARNING [missing_shortdesc]: 'purpose_and_application/purpose_and_application.dita' — <shortdesc> element is missing — required for search previews and navigation
+2026-05-20 07:51:01,711 [WARNING] utils.structure_validator: [StructureValidator] WARNING [table_missing_title]: 'revision_history/revision_history.dita' — <table> #1 has no <title> element — required for accessibility and DITA compliance
+2026-05-20 07:51:01,712 [WARNING] utils.structure_validator: [StructureValidator] WARNING [table_missing_title]: 'approval/approval.dita' — <table> #1 has no <title> element — required for accessibility and DITA compliance
+2026-05-20 07:51:01,713 [INFO] utils.structure_validator: [StructureValidator] Complete — CRITICAL=0, WARNING=42 | dita_files=9, broken_xml=0, empty=1, broken_dita_refs=0, broken_maprefs=0, orphans=0, duplicate_ids=0, broken_xrefs=0, filename_spaces=0
+2026-05-20 07:51:01,713 [INFO] pipeline.enrich_runner: [EnrichPipeline] Post-structural — CRITICAL=0, WARNING=42
+2026-05-20 07:51:01,717 [INFO] pipeline.enrich_runner: [EnrichPipeline] ── Post-Enrichment AI Content Quality Check ──
+2026-05-20 07:51:01,723 [INFO] utils.structure_validator: [EnrichmentQuality] Post-AI check — 2 issues in 9 files (CRITICAL=0, WARNING=2)
+2026-05-20 07:51:01,724 [INFO] pipeline.enrich_runner: [EnrichPipeline] AI content quality — CRITICAL=0, WARNING=2 (checks: shortdesc, keywords, indexterms)
+2026-05-20 07:51:01,728 [INFO] pipeline.enrich_runner: [EnrichPipeline] Fix report — backend_errors=0 | fixed_by_zone1=0, fixed_by_ai=10, remaining=42, ai_obligations_missed=1, new_by_ai=0
+2026-05-20 07:51:01,744 [INFO] pipeline.enrich_runner: [EnrichPipeline] Saved: /app/logs/9d7d4464-2374-4d9b-8573-072225af37d8/ai_reports/_agent_report.json
+2026-05-20 07:51:01,744 [INFO] pipeline.enrich_runner: [EnrichPipeline] ── Layer 6: Suggestion Agent ──
+2026-05-20 07:51:01,786 [INFO] layers.layer6_fix_agent: L6/Suggest ── Started ──
+2026-05-20 07:51:01,787 [INFO] layers.layer6_fix_agent: L6/Suggest 17 issues (pre-dedup)
+2026-05-20 07:51:01,788 [INFO] layers.layer6_fix_agent: L6/Suggest 15 unique issues
+2026-05-20 07:51:01,788 [INFO] layers.layer6_fix_agent: L6/Suggest tmpl step_empty_cmd instructions/instructions.dita
+2026-05-20 07:51:01,791 [INFO] layers.layer6_fix_agent: L6/Suggest tmpl image_missing_alt instructions/instructions.dita
+2026-05-20 07:51:01,793 [INFO] layers.layer6_fix_agent: L6/Suggest tmpl empty_body purpose_and_application/purpose_and_application.dita
+2026-05-20 07:51:01,795 [INFO] layers.layer6_fix_agent: L6/Suggest tmpl missing_shortdesc purpose_and_application/purpose_and_application.dita
+2026-05-20 07:51:01,795 [INFO] layers.layer6_fix_agent: L6/Suggest tmpl table_missing_title revision_history/revision_history.dita
+2026-05-20 07:51:01,796 [INFO] layers.layer6_fix_agent: L6/Suggest tmpl table_missing_title approval/approval.dita
+2026-05-20 07:51:01,798 [INFO] layers.layer6_fix_agent: L6/Suggest tmpl missing_prolog purpose_and_application/purpose_and_application.dita
+2026-05-20 07:51:01,798 [INFO] layers.layer6_fix_agent: L6/Suggest tmpl missing_prodname approval/approval.dita
+2026-05-20 07:51:01,799 [INFO] layers.layer6_fix_agent: L6/Suggest tmpl missing_prodname finish_setup_tiama_check_detection_for_co_and_m_machine.dita
+2026-05-20 07:51:01,800 [INFO] layers.layer6_fix_agent: L6/Suggest tmpl missing_prodname instructions/instructions.dita
+2026-05-20 07:51:01,801 [INFO] layers.layer6_fix_agent: L6/Suggest tmpl missing_prodname purpose_and_application/application.dita
+2026-05-20 07:51:01,801 [INFO] layers.layer6_fix_agent: L6/Suggest tmpl missing_prodname purpose_and_application/purpose.dita
+2026-05-20 07:51:01,801 [INFO] layers.layer6_fix_agent: L6/Suggest tmpl missing_prodname required_training/required_training.dita
+2026-05-20 07:51:01,804 [INFO] layers.layer6_fix_agent: L6/Suggest tmpl missing_prodname revision_history/revision_history.dita
+2026-05-20 07:51:01,806 [INFO] layers.layer6_fix_agent: L6/Suggest tmpl missing_prodname safety/safety.dita
+2026-05-20 07:51:01,807 [INFO] layers.layer6_fix_agent: L6/Suggest ✓ 15 suggestions
+2026-05-20 07:51:01,808 [INFO] layers.layer6_fix_agent: L6/Suggest ✓ saved 15 suggestions
+2026-05-20 07:51:01,808 [INFO] layers.layer6_fix_agent: L6/Suggest ── Done ──
+2026-05-20 07:51:01,810 [INFO] pipeline.enrich_runner: [EnrichPipeline] Layer 6 — suggestions_generated=15
+2026-05-20 07:51:01,818 [INFO] pipeline.enrich_runner: [EnrichPipeline] Final element counts (post-enrichment): {'ol': 0, 'ul': 0, 'table': 2, 'image': 21, 'crosslink': 0, 'hyperlink': 0, 'concept': 4, 'task': 1, 'reference': 0, 'topic': 4}
+2026-05-20 07:51:01,822 [INFO] pipeline.enrich_runner: [EnrichPipeline] Saved: /app/logs/9d7d4464-2374-4d9b-8573-072225af37d8/ai_reports/_agent_report.json
+2026-05-20 07:51:01,824 [INFO] pipeline.enrich_runner: [EnrichPipeline] Saved: /app/logs/9d7d4464-2374-4d9b-8573-072225af37d8/ai_reports/pre_enrichment.json
+2026-05-20 07:51:01,826 [INFO] pipeline.enrich_runner: [EnrichPipeline] Saved: /app/logs/9d7d4464-2374-4d9b-8573-072225af37d8/ai_reports/post_enrichment.json
+2026-05-20 07:51:01,850 [INFO] pipeline.enrich_runner: [EnrichPipeline] Raw backup deleted after successful enrichment

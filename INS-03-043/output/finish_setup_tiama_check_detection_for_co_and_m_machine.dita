@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="finish_setup_tiama_check_detection_for_co_and_m_machine" xml:lang="en-us">
+  <title>Finish Setup - Tiama - Check Detection for CO and M Machine</title>
+  <shortdesc>2017-07-21</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Finish</keyword>
+        <keyword>Setup</keyword>
+        <keyword>Tiama</keyword>
+        <keyword>Check</keyword>
+        <keyword>Detection</keyword>
+        <keyword>Machine</keyword>
+        <indexterm>Finish</indexterm>
+        <indexterm>Setup</indexterm>
+        <indexterm>Tiama</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>2017-07-21</p>
+  </conbody>
+</concept>

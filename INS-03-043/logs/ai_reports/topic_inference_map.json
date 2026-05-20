@@ -1,0 +1,318 @@
+{
+  "Approval": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.0,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 28
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Approval",
+        "Global",
+        "America",
+        "Sanctioning",
+        "Representatives",
+        "Team",
+        "Region",
+        "Representative",
+        "Asia",
+        "Pacific",
+        "Finbarr",
+        "Shea"
+      ],
+      "compact_excerpt": "Approval Sanctioning Representatives of the Global Team Region Representative Asia Pacific Finbarr O\u2019Shea Europe Jerzy Puk Latin America Yamil Melgar North America David Gladwin Global Operations Bob Morin"
+    },
+    "classified_at": 1779263460.7099364
+  },
+  "Application": {
+    "topic_type": "topic",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.333,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 10
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Application",
+        "work",
+        "instruction",
+        "applies",
+        "manufacturing",
+        "facilities"
+      ],
+      "compact_excerpt": "Application This work instruction applies to all O-I manufacturing facilities."
+    },
+    "classified_at": 1779263460.7239587
+  },
+  "Purpose": {
+    "topic_type": "topic",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.444,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 19
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Purpose",
+        "define",
+        "work",
+        "instruction",
+        "proper",
+        "device",
+        "setup",
+        "Tiama",
+        "CO",
+        "machine",
+        "check",
+        "detection"
+      ],
+      "compact_excerpt": "Purpose To define a work instruction for the proper device setup of Tiama CO and M machine check detection."
+    },
+    "classified_at": 1779263460.7314978
+  },
+  "Instructions": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.222,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 26,
+        "concept_pattern_hits": 15,
+        "reference_pattern_hits": 3,
+        "imperative_sentence_ratio": 0.156,
+        "avg_paragraph_length_words": 1223
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "light",
+        "camera",
+        "channel",
+        "work",
+        "setup",
+        "station",
+        "perform",
+        "following",
+        "steps",
+        "container",
+        "bottom",
+        "instruction"
+      ],
+      "compact_excerpt": "Instructions Before starting the work instruction activity, perform the following steps: Do not begin these tasks without confirmation that personnel directly involved have completed the required training associated with the work instruction activity and have reviewed this document. Gather necessary tools and equipment as identified below in the Equipment Section. Wear and use additional Personal "
+    },
+    "classified_at": 1779263460.7415893
+  },
+  "Finish Setup - Tiama - Check Detection for CO and M Machine": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.111,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 13
+      },
+      "context_frame": "introductory",
+      "keyword_set": [
+        "Finish",
+        "Setup",
+        "Tiama",
+        "Check",
+        "Detection",
+        "CO",
+        "Machine"
+      ],
+      "compact_excerpt": "Finish Setup - Tiama - Check Detection for CO and M Machine 2017-07-21"
+    },
+    "classified_at": 1779263460.7479522
+  },
+  "Required Training": {
+    "topic_type": "topic",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.667,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 25
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Required",
+        "Training",
+        "Before",
+        "performing",
+        "work",
+        "instruction",
+        "applicable",
+        "personnel",
+        "must",
+        "trained",
+        "authorized",
+        "trainer"
+      ],
+      "compact_excerpt": "Required Training Before performing this work instruction, applicable personnel must be trained by an authorized trainer on the required training contents listed in this document."
+    },
+    "classified_at": 1779263461.0279315
+  },
+  "Revision History": {
+    "topic_type": "topic",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.778,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 13
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Revision",
+        "History",
+        "Approved",
+        "Bob",
+        "Morin",
+        "Global",
+        "Inspection",
+        "Discipline",
+        "Leader",
+        "Original",
+        "Issue"
+      ],
+      "compact_excerpt": "Revision History 2017-07-21 Approved by Bob Morin, Global Inspection Discipline Leader Original Issue"
+    },
+    "classified_at": 1779263461.0715187
+  },
+  "Safety": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.889,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 1,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 46
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Safety",
+        "requirements",
+        "Observe",
+        "standard",
+        "safety",
+        "procedures",
+        "defined",
+        "Global",
+        "Environmental",
+        "Health",
+        "EH",
+        "organization"
+      ],
+      "compact_excerpt": "Safety Observe O-I standard safety requirements and procedures defined by the Global Environmental Health & Safety (EH&S) organization, as well as all applicable local, regional, and national requirements. Safety equipment and instructions specific to the completion of this work instruction are detailed in the Instructions Section."
+    },
+    "classified_at": 1779263461.2651408
+  }
+}

@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Aligning_the_Print_Head_Using_the_Produc" xml:lang="en-us">
+  <title>Aligning the Print Head Using the Product Control Panel</title>
+  <shortdesc>You can align the print head using the control panel on your product.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>button</keyword>
+        <keyword>Alignment</keyword>
+        <keyword>Print</keyword>
+        <keyword>Head</keyword>
+        <keyword>Press</keyword>
+        <keyword>Select</keyword>
+        <indexterm>button</indexterm>
+        <indexterm>Alignment</indexterm>
+        <indexterm>Print</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <context>
+      <p>You can align the print head using the control panel on your product.</p>
+    </context>
+    <steps id="steps_10513389">
+      <step>
+        <cmd>Make sure there are no errors on the LCD screen and the output tray is extended.</cmd>
+      </step>
+      <step>
+        <cmd>Load a few sheets of plain paper in the product.</cmd>
+      </step>
+      <step>
+        <cmd>Press the  home button, if necessary.</cmd>
+        <info>
+          <fig>
+            <image href="../media/image65.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>Select <b>Maintenance</b>&gt; <b>Print</b>
+          <b>Head</b>
+          <b>Alignment</b>.</cmd>
+      </step>
+      <step>
+        <cmd>Do one of the following:</cmd>
+        <info>
+          <ul id="ul_10513388">
+            <li>Select <b>Vertical</b>
+              <b>Alignment</b>and press the <b>OK</b>button.</li>
+            <li>Select <b>Horizontal</b>
+              <b>Alignment</b>and press the <b>OK</b>button.</li>
+          </ul>
+        </info>
+      </step>
+      <step>
+        <cmd>Press the  start button to print an alignment sheet.</cmd>
+        <info>
+          <note type="note">Do not cancel printing while you are printing a head alignment pattern.</note>
+        </info>
+        <info>
+          <fig>
+            <image href="../media/image47.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>Check the printed pattern and select the number representing the most solid printed pattern for each set on the LCD screen.</cmd>
+        <info>
+          <p>
+            <b>Vertical</b>
+            <b>Alignment</b>
+          </p>
+          <fig>
+            <image href="../media/image188.png"/>
+          </fig>
+          <p>
+            <b>Horizontal</b>
+            <b>Alignment</b>
+          </p>
+          <fig>
+            <image href="../media/image189.jpeg"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>Press the <b>OK</b>button when you are finished.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

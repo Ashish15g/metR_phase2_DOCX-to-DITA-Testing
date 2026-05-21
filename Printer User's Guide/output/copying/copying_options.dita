@@ -1,0 +1,239 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Copying_Options" xml:lang="en-us">
+  <title>Copying Options</title>
+  <shortdesc>Select the copying options you want to use for your copies.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>settings</keyword>
+        <keyword>original</keyword>
+        <keyword>copies</keyword>
+        <keyword>Size</keyword>
+        <keyword>Copying</keyword>
+        <keyword>Select</keyword>
+        <indexterm>settings</indexterm>
+        <indexterm>original</indexterm>
+        <indexterm>copies</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>  <context>
+    <p>Select the copying options you want to use for your copies.</p><note type="note">Not all options or settings may be available, depending on other copying settings.</note><p>
+        <b>Print</b>
+        <b>Settings</b>
+      </p><table frame="all" colsep="1" rowsep="1">
+        <tgroup cols="3">
+          <colspec colname="col1" colnum="1" colwidth="1*"/>
+          <colspec colname="col2" colnum="2" colwidth="1*"/>
+          <colspec colname="col3" colnum="3" colwidth="1*"/>
+          <tbody>
+            <row>
+              <entry>
+                <b>Copying</b>
+                <b>option</b>
+              </entry>
+              <entry>
+                <b>Available</b>
+                <b>settings</b>
+              </entry>
+              <entry>
+                <b>Description</b>
+              </entry>
+            </row>
+            <row>
+              <entry morerows="1">
+                <b>2-Sided</b>
+              </entry>
+              <entry>
+                <b>1&gt;1-Sided</b>
+              </entry>
+              <entry morerows="1">Select to make 2-sided copies. When you select <b>1&gt;2-Sided</b>, also select the orientation and binding edge for your originals or copies.</entry>
+            </row>
+            <row>
+              <entry>
+                <b>1&gt;2-Sided</b>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <b>Density</b>
+              </entry>
+              <entry>Varying levels</entry>
+              <entry>Adjusts the lightness or darkness of copies</entry>
+            </row>
+            <row>
+              <entry>
+                <b>Paper</b>
+                <b>Size</b>
+              </entry>
+              <entry>Various settings</entry>
+              <entry>Selects the paper size</entry>
+            </row>
+            <row>
+              <entry>
+                <b>Paper</b>
+                <b>Type</b>
+              </entry>
+              <entry>Various settings</entry>
+              <entry>Selects the paper type</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table><table frame="all" colsep="1" rowsep="1">
+        <tgroup cols="3">
+          <colspec colname="col1" colnum="1" colwidth="1*"/>
+          <colspec colname="col2" colnum="2" colwidth="1*"/>
+          <colspec colname="col3" colnum="3" colwidth="1*"/>
+          <tbody>
+            <row>
+              <entry>
+                <b>Copying</b>
+                <b>option</b>
+              </entry>
+              <entry>
+                <b>Available</b>
+                <b>settings</b>
+              </entry>
+              <entry>
+                <b>Description</b>
+              </entry>
+            </row>
+            <row>
+              <entry morerows="2">
+                <b>Reduce/Enlarge</b>
+              </entry>
+              <entry>
+                <b>Actual</b>
+                <b>Size</b>
+              </entry>
+              <entry>Copies the original at its full size</entry>
+            </row>
+            <row>
+              <entry>
+                <b>Auto</b>
+                <b>Fit</b>
+              </entry>
+              <entry>Automatically sizes the image to fit the paper size you selected</entry>
+            </row>
+            <row>
+              <entry>
+                <b>Custom</b>
+                <b>100%</b>and other conversions</entry>
+              <entry>Displays the amount to re-size the original. Change the amount by adjusting the <b>Custom Size</b>setting.</entry>
+            </row>
+            <row>
+              <entry>
+                <b>Custom</b>
+                <b>Size</b>
+              </entry>
+              <entry>
+                <b>25</b>
+                <b>-</b>
+                <b>400</b>in 1% increments</entry>
+              <entry>Adjusts the amount to re-size the original.</entry>
+            </row>
+            <row>
+              <entry>
+                <b>Original</b>
+                <b>Size</b>
+              </entry>
+              <entry>Various sizes</entry>
+              <entry>Select the document size of your original</entry>
+            </row>
+            <row>
+              <entry morerows="1">
+                <b>Multi-</b>
+                <b>Page</b>
+              </entry>
+              <entry>
+                <b>Single</b>
+                <b>Page</b>
+              </entry>
+              <entry>Copies each page of the original onto an individual sheet</entry>
+            </row>
+            <row>
+              <entry>
+                <b>2-</b>
+                <b>up</b>
+              </entry>
+              <entry>Copies multiple page documents onto one sheet. Scroll down and select the document orientation and layout order settings as necessary.</entry>
+            </row>
+            <row>
+              <entry morerows="2">
+                <b>Quality</b>
+              </entry>
+              <entry>
+                <b>Standard</b>
+              </entry>
+              <entry morerows="2">Adjusts the quality of your copies</entry>
+            </row>
+            <row>
+              <entry>
+                <b>Draft</b>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <b>High</b>
+              </entry>
+            </row>
+            <row>
+              <entry morerows="1">
+                <b>ID</b>
+                <b>Card</b>
+                <b>Copy</b>
+              </entry>
+              <entry>
+                <b>Off</b>
+              </entry>
+              <entry morerows="1">Select <b>On</b>to copy both sides of an ID card onto one side of a sheet of paper</entry>
+            </row>
+            <row>
+              <entry>
+                <b>On</b>
+              </entry>
+            </row>
+            <row>
+              <entry morerows="5">
+                <b>Borderless</b>
+                <b>Copy</b>
+              </entry>
+              <entry>
+                <b>Off</b>
+              </entry>
+              <entry morerows="5">Adjusts the amount to expand the original photo when printing borderless photos</entry>
+            </row>
+            <row>
+              <entry>
+                <b>On</b>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <b>Standard</b>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <b>Medium</b>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <b>Minimum</b>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <b>None</b>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+  </context></taskbody>
+</task>

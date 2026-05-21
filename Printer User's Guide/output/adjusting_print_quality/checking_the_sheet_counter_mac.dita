@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Checking_the_Sheet_Counter_-_Mac" xml:lang="en-us">
+  <title>Checking the Sheet Counter - Mac</title>
+  <shortdesc>You can check the number of sheets of paper that have fed through the product</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>select</keyword>
+        <keyword>Select</keyword>
+        <keyword>Checking</keyword>
+        <keyword>Sheet</keyword>
+        <keyword>Counter</keyword>
+        <keyword>number</keyword>
+        <indexterm>select</indexterm>
+        <indexterm>Select</indexterm>
+        <indexterm>Checking</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <context>
+      <p>You can check the number of sheets of paper that have fed through the product by checking the sheet counter.</p>
+    </context>
+    <steps id="steps_065321104">
+      <step>
+        <cmd>In the Apple menu or the Dock, select <b>System</b>
+          <b>Preferences</b>. Select <b>Print</b>
+          <b>&amp; Fax</b>, <b>Print</b>
+          <b>&amp; Scan</b>, or <b>Printers</b>
+          <b>&amp;</b>
+          <b>Scanners</b>, select your product, and select <b>Options</b>
+          <b>&amp;</b>
+          <b>Supplies</b>. Select <b>Utility</b>and select <b>Open Printer Utility</b>.</cmd>
+      </step>
+      <step>
+        <cmd>Select <b>Printer</b>
+          <b>and</b>
+          <b>Option</b>
+          <b>Information</b>.</cmd>
+        <info>
+          <p>You see this window:</p>
+          <fig>
+            <image href="../media/image81.jpeg"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>After checking the number of sheets fed into the printer, click <b>OK</b>to close the window.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

@@ -1,0 +1,968 @@
+[2026-05-21T06:53:20.877012+00:00] detect_docx_toc TOC Structured Document Tag (SDT) detected.
+[2026-05-21T06:53:20.882181+00:00] PipelineOrchestrator TOC DETECTED = True
+[2026-05-21T06:53:20.884776+00:00] PipelineOrchestrator Starting conversion pipeline for 'Printer User's Guide.docx'.
+[2026-05-21T06:53:20.884888+00:00] DocxToHtmlProcessor Converting 'Printer User's Guide.docx' from DOCX to HTML.
+[2026-05-21T06:53:20.887585+00:00] DocxToHtmlProcessor Opening DOCX archive: 'Printer User's Guide.docx'.
+[2026-05-21T06:53:20.888305+00:00] DocxToHtmlProcessor Reading relationships.
+[2026-05-21T06:53:20.888384+00:00] DocxToHtmlProcessor Parsing relationships from 'word/_rels/document.xml.rels'.
+[2026-05-21T06:53:20.888865+00:00] DocxToHtmlProcessor Extracted 102 relationship(s).
+[2026-05-21T06:53:20.888932+00:00] DocxToHtmlProcessor Extracting media files.
+[2026-05-21T06:53:20.889091+00:00] DocxToHtmlProcessor Copying 90 media file(s) to '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/media'.
+[2026-05-21T06:53:20.889260+00:00] DocxToHtmlProcessor Media copied: 'image18.png'.
+[2026-05-21T06:53:20.889439+00:00] DocxToHtmlProcessor Media copied: 'image13.png'.
+[2026-05-21T06:53:20.889586+00:00] DocxToHtmlProcessor Media copied: 'image34.png'.
+[2026-05-21T06:53:20.889839+00:00] DocxToHtmlProcessor Media copied: 'image39.png'.
+[2026-05-21T06:53:20.890003+00:00] DocxToHtmlProcessor Media copied: 'image66.png'.
+[2026-05-21T06:53:20.890129+00:00] DocxToHtmlProcessor Media copied: 'image61.png'.
+[2026-05-21T06:53:20.890269+00:00] DocxToHtmlProcessor Media copied: 'image82.png'.
+[2026-05-21T06:53:20.890530+00:00] DocxToHtmlProcessor Media copied: 'image87.png'.
+[2026-05-21T06:53:20.890666+00:00] DocxToHtmlProcessor Media copied: 'image8.png'.
+[2026-05-21T06:53:20.891024+00:00] DocxToHtmlProcessor Media copied: 'image3.png'.
+[2026-05-21T06:53:20.891186+00:00] DocxToHtmlProcessor Media copied: 'image24.png'.
+[2026-05-21T06:53:20.891320+00:00] DocxToHtmlProcessor Media copied: 'image29.png'.
+[2026-05-21T06:53:20.891453+00:00] DocxToHtmlProcessor Media copied: 'image45.jpeg'.
+[2026-05-21T06:53:20.891639+00:00] DocxToHtmlProcessor Media copied: 'image56.png'.
+[2026-05-21T06:53:20.891813+00:00] DocxToHtmlProcessor Media copied: 'image72.png'.
+[2026-05-21T06:53:20.892123+00:00] DocxToHtmlProcessor Media copied: 'image77.png'.
+[2026-05-21T06:53:20.892272+00:00] DocxToHtmlProcessor Media copied: 'image14.png'.
+[2026-05-21T06:53:20.892407+00:00] DocxToHtmlProcessor Media copied: 'image19.jpeg'.
+[2026-05-21T06:53:20.892536+00:00] DocxToHtmlProcessor Media copied: 'image35.png'.
+[2026-05-21T06:53:20.892656+00:00] DocxToHtmlProcessor Media copied: 'image40.png'.
+[2026-05-21T06:53:20.892823+00:00] DocxToHtmlProcessor Media copied: 'image148.png'.
+[2026-05-21T06:53:20.892974+00:00] DocxToHtmlProcessor Media copied: 'image62.jpeg'.
+[2026-05-21T06:53:20.893108+00:00] DocxToHtmlProcessor Media copied: 'image67.jpeg'.
+[2026-05-21T06:53:20.893261+00:00] DocxToHtmlProcessor Media copied: 'image83.png'.
+[2026-05-21T06:53:20.893407+00:00] DocxToHtmlProcessor Media copied: 'image88.png'.
+[2026-05-21T06:53:20.893543+00:00] DocxToHtmlProcessor Media copied: 'image4.png'.
+[2026-05-21T06:53:20.893662+00:00] DocxToHtmlProcessor Media copied: 'image9.png'.
+[2026-05-21T06:53:20.893868+00:00] DocxToHtmlProcessor Media copied: 'image17.png'.
+[2026-05-21T06:53:20.893997+00:00] DocxToHtmlProcessor Media copied: 'image25.png'.
+[2026-05-21T06:53:20.894131+00:00] DocxToHtmlProcessor Media copied: 'image30.png'.
+[2026-05-21T06:53:20.894262+00:00] DocxToHtmlProcessor Media copied: 'image38.jpeg'.
+[2026-05-21T06:53:20.894434+00:00] DocxToHtmlProcessor Media copied: 'image51.jpeg'.
+[2026-05-21T06:53:20.894557+00:00] DocxToHtmlProcessor Media copied: 'image12.png'.
+[2026-05-21T06:53:20.894691+00:00] DocxToHtmlProcessor Media copied: 'image33.png'.
+[2026-05-21T06:53:20.894856+00:00] DocxToHtmlProcessor Media copied: 'image46.png'.
+[2026-05-21T06:53:20.895028+00:00] DocxToHtmlProcessor Media copied: 'image52.png'.
+[2026-05-21T06:53:20.895160+00:00] DocxToHtmlProcessor Media copied: 'image57.png'.
+[2026-05-21T06:53:20.895285+00:00] DocxToHtmlProcessor Media copied: 'image65.png'.
+[2026-05-21T06:53:20.895437+00:00] DocxToHtmlProcessor Media copied: 'image70.jpeg'.
+[2026-05-21T06:53:20.895601+00:00] DocxToHtmlProcessor Media copied: 'image73.png'.
+[2026-05-21T06:53:20.895809+00:00] DocxToHtmlProcessor Media copied: 'image78.png'.
+[2026-05-21T06:53:20.896045+00:00] DocxToHtmlProcessor Media copied: 'image86.png'.
+[2026-05-21T06:53:20.896193+00:00] DocxToHtmlProcessor Media copied: 'image81.jpeg'.
+[2026-05-21T06:53:20.896314+00:00] DocxToHtmlProcessor Media copied: 'image7.png'.
+[2026-05-21T06:53:20.896430+00:00] DocxToHtmlProcessor Media copied: 'image15.png'.
+[2026-05-21T06:53:20.896547+00:00] DocxToHtmlProcessor Media copied: 'image20.png'.
+[2026-05-21T06:53:20.896678+00:00] DocxToHtmlProcessor Media copied: 'image28.png'.
+[2026-05-21T06:53:20.896847+00:00] DocxToHtmlProcessor Media copied: 'image41.png'.
+[2026-05-21T06:53:20.897001+00:00] DocxToHtmlProcessor Media copied: 'image2.png'.
+[2026-05-21T06:53:20.897122+00:00] DocxToHtmlProcessor Media copied: 'image23.png'.
+[2026-05-21T06:53:20.897275+00:00] DocxToHtmlProcessor Media copied: 'image36.png'.
+[2026-05-21T06:53:20.897408+00:00] DocxToHtmlProcessor Media copied: 'image44.jpeg'.
+[2026-05-21T06:53:20.897560+00:00] DocxToHtmlProcessor Media copied: 'image49.jpeg'.
+[2026-05-21T06:53:20.897702+00:00] DocxToHtmlProcessor Media copied: 'image55.png'.
+[2026-05-21T06:53:20.897909+00:00] DocxToHtmlProcessor Media copied: 'image60.png'.
+[2026-05-21T06:53:20.898034+00:00] DocxToHtmlProcessor Media copied: 'image68.png'.
+[2026-05-21T06:53:20.898301+00:00] DocxToHtmlProcessor Media copied: 'image76.png'.
+[2026-05-21T06:53:20.898453+00:00] DocxToHtmlProcessor Media copied: 'image89.png'.
+[2026-05-21T06:53:20.898673+00:00] DocxToHtmlProcessor Media copied: 'image1.png'.
+[2026-05-21T06:53:20.898842+00:00] DocxToHtmlProcessor Media copied: 'image63.png'.
+[2026-05-21T06:53:20.898970+00:00] DocxToHtmlProcessor Media copied: 'image71.png'.
+[2026-05-21T06:53:20.899259+00:00] DocxToHtmlProcessor Media copied: 'image84.png'.
+[2026-05-21T06:53:20.899415+00:00] DocxToHtmlProcessor Media copied: 'image5.png'.
+[2026-05-21T06:53:20.899539+00:00] DocxToHtmlProcessor Media copied: 'image10.png'.
+[2026-05-21T06:53:20.899670+00:00] DocxToHtmlProcessor Media copied: 'image31.png'.
+[2026-05-21T06:53:20.899808+00:00] DocxToHtmlProcessor Media copied: 'image26.png'.
+[2026-05-21T06:53:20.899941+00:00] DocxToHtmlProcessor Media copied: 'image42.png'.
+[2026-05-21T06:53:20.900068+00:00] DocxToHtmlProcessor Media copied: 'image47.png'.
+[2026-05-21T06:53:20.900219+00:00] DocxToHtmlProcessor Media copied: 'image58.png'.
+[2026-05-21T06:53:20.900379+00:00] DocxToHtmlProcessor Media copied: 'image79.png'.
+[2026-05-21T06:53:20.900524+00:00] DocxToHtmlProcessor Media copied: 'image53.png'.
+[2026-05-21T06:53:20.900816+00:00] DocxToHtmlProcessor Media copied: 'image74.png'.
+[2026-05-21T06:53:20.900965+00:00] DocxToHtmlProcessor Media copied: 'image21.png'.
+[2026-05-21T06:53:20.901091+00:00] DocxToHtmlProcessor Media copied: 'image16.png'.
+[2026-05-21T06:53:20.901233+00:00] DocxToHtmlProcessor Media copied: 'image32.png'.
+[2026-05-21T06:53:20.901376+00:00] DocxToHtmlProcessor Media copied: 'image37.png'.
+[2026-05-21T06:53:20.901524+00:00] DocxToHtmlProcessor Media copied: 'image50.jpeg'.
+[2026-05-21T06:53:20.901662+00:00] DocxToHtmlProcessor Media copied: 'image69.jpeg'.
+[2026-05-21T06:53:20.901879+00:00] DocxToHtmlProcessor Media copied: 'image64.png'.
+[2026-05-21T06:53:20.902183+00:00] DocxToHtmlProcessor Media copied: 'image85.png'.
+[2026-05-21T06:53:20.902319+00:00] DocxToHtmlProcessor Media copied: 'image11.png'.
+[2026-05-21T06:53:20.902440+00:00] DocxToHtmlProcessor Media copied: 'image6.png'.
+[2026-05-21T06:53:20.902566+00:00] DocxToHtmlProcessor Media copied: 'image22.png'.
+[2026-05-21T06:53:20.902686+00:00] DocxToHtmlProcessor Media copied: 'image27.png'.
+[2026-05-21T06:53:20.902835+00:00] DocxToHtmlProcessor Media copied: 'image48.png'.
+[2026-05-21T06:53:20.902979+00:00] DocxToHtmlProcessor Media copied: 'image59.png'.
+[2026-05-21T06:53:20.903124+00:00] DocxToHtmlProcessor Media copied: 'image43.jpeg'.
+[2026-05-21T06:53:20.903294+00:00] DocxToHtmlProcessor Media copied: 'image54.png'.
+[2026-05-21T06:53:20.903540+00:00] DocxToHtmlProcessor Media copied: 'image75.png'.
+[2026-05-21T06:53:20.903692+00:00] DocxToHtmlProcessor Media copied: 'image80.jpeg'.
+[2026-05-21T06:53:20.903741+00:00] DocxToHtmlProcessor Media copy complete -- 90 file(s) exported.
+[2026-05-21T06:53:20.903773+00:00] DocxToHtmlProcessor Reading list numbering definitions.
+[2026-05-21T06:53:20.903806+00:00] DocxToHtmlProcessor Parsing 'word/numbering.xml' for list type map.
+[2026-05-21T06:53:20.926220+00:00] DocxToHtmlProcessor Numbering map built with 128 numId(s).
+[2026-05-21T06:53:20.928114+00:00] DocxToHtmlProcessor Reading 'word/document.xml'.
+[2026-05-21T06:53:20.931020+00:00] DocxToHtmlProcessor Parsing 'word/document.xml' XML structure.
+[2026-05-21T06:53:21.048626+00:00] DocxToHtmlProcessor Processing document body paragraphs for 'Printer User's Guide.docx'.
+[2026-05-21T06:53:21.169345+00:00] DocxToHtmlProcessor Document body processed — 435 HTML block(s) generated for 'Printer User's Guide.docx'.
+[2026-05-21T06:53:21.174785+00:00] DocxToHtmlProcessor DOCX to HTML conversion complete.
+[2026-05-21T06:53:21.177587+00:00] HtmlToDitaNormalizer Normalizing generated HTML for DITA conversion.
+[2026-05-21T06:53:21.180055+00:00] helper_port.py class is running.
+[2026-05-21T06:53:21.415462+00:00] HtmlToDitaNormalizer HTML normalization complete.
+[2026-05-21T06:53:21.488565+00:00] TopicSplitter Splitting HTML content into topics.
+[2026-05-21T06:53:21.570651+00:00] TopicSplitter Found 63 topics.
+[2026-05-21T06:53:21.573475+00:00] TopicWriter Writing topics to .dita files.
+[2026-05-21T06:53:21.576336+00:00] TopicWriter Starting to write 63 topics to '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b'.
+[2026-05-21T06:53:21.576539+00:00] TopicWriter Building topic tree hierarchy.
+[2026-05-21T06:53:21.576601+00:00] TopicWriter Building topic tree from 63 flat topic(s).
+[2026-05-21T06:53:21.576690+00:00] TopicWriter Topic tree built — 7 root node(s).
+[2026-05-21T06:53:21.576776+00:00] TopicWriter Assigning output paths to all topics.
+[2026-05-21T06:53:21.576844+00:00] TopicWriter Assigning output paths for 7 node(s) under '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b'.
+[2026-05-21T06:53:21.577066+00:00] TopicWriter Assigning output paths for 3 node(s) under '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b'.
+[2026-05-21T06:53:21.577132+00:00] TopicWriter Assigning output paths for 3 node(s) under '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b'.
+[2026-05-21T06:53:21.577180+00:00] TopicWriter Assigned path for topic 'Product Parts – Front': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/product_basics/product_parts_front.dita'.
+[2026-05-21T06:53:21.577223+00:00] TopicWriter Assigned path for topic 'Product Parts - Inside': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/product_basics/product_parts_inside.dita'.
+[2026-05-21T06:53:21.577264+00:00] TopicWriter Assigned path for topic 'Product Parts - Back': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/product_basics/product_parts_back.dita'.
+[2026-05-21T06:53:21.577291+00:00] TopicWriter Path assignment complete for 3 node(s).
+[2026-05-21T06:53:21.577318+00:00] TopicWriter Assigned path for topic 'Product Parts Locations': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/product_basics/product_parts_locations.dita'.
+[2026-05-21T06:53:21.577355+00:00] TopicWriter Assigning output paths for 5 node(s) under '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b'.
+[2026-05-21T06:53:21.577393+00:00] TopicWriter Assigned path for topic 'The LCD Screen': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/product_basics/the_lcd_screen.dita'.
+[2026-05-21T06:53:21.577432+00:00] TopicWriter Assigned path for topic 'Status Icon Information': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/product_basics/status_icon_information.dita'.
+[2026-05-21T06:53:21.577472+00:00] TopicWriter Assigned path for topic 'Entering Characters on the LCD Screen': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/product_basics/entering_characters_on_the_lcd_screen.dita'.
+[2026-05-21T06:53:21.577522+00:00] TopicWriter Assigned path for topic 'Changing LCD Screen Language': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/product_basics/changing_lcd_screen_language.dita'.
+[2026-05-21T06:53:21.577566+00:00] TopicWriter Assigned path for topic 'Viewing Animations': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/product_basics/viewing_animations.dita'.
+[2026-05-21T06:53:21.577593+00:00] TopicWriter Path assignment complete for 5 node(s).
+[2026-05-21T06:53:21.577621+00:00] TopicWriter Assigned path for topic 'Using the Control Panel': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/product_basics/using_the_control_panel.dita'.
+[2026-05-21T06:53:21.577657+00:00] TopicWriter Assigning output paths for 2 node(s) under '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b'.
+[2026-05-21T06:53:21.577836+00:00] TopicWriter Assigned path for topic 'Changing the Sleep Timer Setting from the Control Panel': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/product_basics/changing_the_sleep_timer_setting_from_the_control_panel.dita'.
+[2026-05-21T06:53:21.577906+00:00] TopicWriter Assigned path for topic 'Changing the Power Off Timer Setting from the Control Panel': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/product_basics/changing_the_power_off_timer_setting_from_the_control_panel.dita'.
+[2026-05-21T06:53:21.577937+00:00] TopicWriter Path assignment complete for 2 node(s).
+[2026-05-21T06:53:21.577965+00:00] TopicWriter Assigned path for topic 'Using Power Saving Settings': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/product_basics/using_power_saving_settings.dita'.
+[2026-05-21T06:53:21.577990+00:00] TopicWriter Path assignment complete for 3 node(s).
+[2026-05-21T06:53:21.578017+00:00] TopicWriter Assigned path for topic 'Product Basics': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/product_basics/product_basics.dita'.
+[2026-05-21T06:53:21.578143+00:00] TopicWriter Assigning output paths for 8 node(s) under '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b'.
+[2026-05-21T06:53:21.578193+00:00] TopicWriter Assigned path for topic 'Loading Paper in the Rear Paper Feeder': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/loading_paper/loading_paper_in_the_rear_paper_feeder.dita'.
+[2026-05-21T06:53:21.578234+00:00] TopicWriter Assigned path for topic 'Paper Loading Capacity': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/loading_paper/paper_loading_capacity.dita'.
+[2026-05-21T06:53:21.578274+00:00] TopicWriter Assigned path for topic 'Double-sided Printing Capacity': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/loading_paper/double_sided_printing_capacity.dita'.
+[2026-05-21T06:53:21.578315+00:00] TopicWriter Assigned path for topic 'Borderless Paper Type Compatibility': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/loading_paper/borderless_paper_type_compatibility.dita'.
+[2026-05-21T06:53:21.578354+00:00] TopicWriter Assigned path for topic 'Compatible MetR Papers': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/loading_paper/compatible_metr_papers.dita'.
+[2026-05-21T06:53:21.578392+00:00] TopicWriter Assigning output paths for 1 node(s) under '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b'.
+[2026-05-21T06:53:21.578433+00:00] TopicWriter Assigned path for topic 'Paper or Media Type Settings - Control Panel': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/loading_paper/paper_or_media_type_settings_control_panel.dita'.
+[2026-05-21T06:53:21.578459+00:00] TopicWriter Path assignment complete for 1 node(s).
+[2026-05-21T06:53:21.578487+00:00] TopicWriter Assigned path for topic 'Selecting the Paper Settings - Control Panel': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/loading_paper/selecting_the_paper_settings_control_panel.dita'.
+[2026-05-21T06:53:21.578526+00:00] TopicWriter Assigned path for topic 'Paper or Media Type Settings - Printing Software': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/loading_paper/paper_or_media_type_settings_printing_software.dita'.
+[2026-05-21T06:53:21.578570+00:00] TopicWriter Assigning output paths for 1 node(s) under '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b'.
+[2026-05-21T06:53:21.578609+00:00] TopicWriter Assigned path for topic 'Paper Source Settings Options': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/loading_paper/paper_source_settings_options.dita'.
+[2026-05-21T06:53:21.578635+00:00] TopicWriter Path assignment complete for 1 node(s).
+[2026-05-21T06:53:21.578661+00:00] TopicWriter Assigned path for topic 'Selecting the Default Paper Source Settings': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/loading_paper/selecting_the_default_paper_source_settings.dita'.
+[2026-05-21T06:53:21.578686+00:00] TopicWriter Path assignment complete for 8 node(s).
+[2026-05-21T06:53:21.578736+00:00] TopicWriter Assigned path for topic 'Loading Paper': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/loading_paper/loading_paper.dita'.
+[2026-05-21T06:53:21.578850+00:00] TopicWriter Assigning output paths for 1 node(s) under '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b'.
+[2026-05-21T06:53:21.578899+00:00] TopicWriter Assigned path for topic 'Placing Originals on the Scanner Glass': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/placing_originals_on_the_product/placing_originals_on_the_scanner_glass.dita'.
+[2026-05-21T06:53:21.578926+00:00] TopicWriter Path assignment complete for 1 node(s).
+[2026-05-21T06:53:21.578954+00:00] TopicWriter Assigned path for topic 'Placing Originals on the Product': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/placing_originals_on_the_product/placing_originals_on_the_product.dita'.
+[2026-05-21T06:53:21.579045+00:00] TopicWriter Assigning output paths for 2 node(s) under '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b'.
+[2026-05-21T06:53:21.579091+00:00] TopicWriter Assigned path for topic 'Copying Documents or Photos': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/copying/copying_documents_or_photos.dita'.
+[2026-05-21T06:53:21.579129+00:00] TopicWriter Assigned path for topic 'Copying Options': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/copying/copying_options.dita'.
+[2026-05-21T06:53:21.579155+00:00] TopicWriter Path assignment complete for 2 node(s).
+[2026-05-21T06:53:21.579182+00:00] TopicWriter Assigned path for topic 'Copying': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/copying/copying.dita'.
+[2026-05-21T06:53:21.579272+00:00] TopicWriter Assigning output paths for 4 node(s) under '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b'.
+[2026-05-21T06:53:21.579316+00:00] TopicWriter Assigned path for topic 'Ink Safety Precautions': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/refilling_ink/ink_safety_precautions.dita'.
+[2026-05-21T06:53:21.579355+00:00] TopicWriter Assigning output paths for 4 node(s) under '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b'.
+[2026-05-21T06:53:21.579395+00:00] TopicWriter Assigned path for topic 'Checking Ink Levels on Your Product': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/refilling_ink/checking_ink_levels_on_your_product.dita'.
+[2026-05-21T06:53:21.579435+00:00] TopicWriter Assigned path for topic 'Checking Ink Levels - Windows': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/refilling_ink/checking_ink_levels_windows.dita'.
+[2026-05-21T06:53:21.579475+00:00] TopicWriter Assigned path for topic 'Checking Ink Levels - Mac': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/refilling_ink/checking_ink_levels_mac.dita'.
+[2026-05-21T06:53:21.579514+00:00] TopicWriter Assigned path for topic 'Disabling Special Offers with Windows': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/refilling_ink/disabling_special_offers_with_windows.dita'.
+[2026-05-21T06:53:21.579541+00:00] TopicWriter Path assignment complete for 4 node(s).
+[2026-05-21T06:53:21.579567+00:00] TopicWriter Assigned path for topic 'Check Ink Levels': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/refilling_ink/check_ink_levels.dita'.
+[2026-05-21T06:53:21.579601+00:00] TopicWriter Assigning output paths for 1 node(s) under '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b'.
+[2026-05-21T06:53:21.579647+00:00] TopicWriter Assigned path for topic 'Ink Bottle Part Numbers': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/refilling_ink/ink_bottle_part_numbers.dita'.
+[2026-05-21T06:53:21.579673+00:00] TopicWriter Path assignment complete for 1 node(s).
+[2026-05-21T06:53:21.579700+00:00] TopicWriter Assigned path for topic 'Purchase MetR Ink': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/refilling_ink/purchase_metr_ink.dita'.
+[2026-05-21T06:53:21.579777+00:00] TopicWriter Assigned path for topic 'Refilling the Ink Tanks': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/refilling_ink/refilling_the_ink_tanks.dita'.
+[2026-05-21T06:53:21.579806+00:00] TopicWriter Path assignment complete for 4 node(s).
+[2026-05-21T06:53:21.579833+00:00] TopicWriter Assigned path for topic 'Refilling Ink': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/refilling_ink/refilling_ink.dita'.
+[2026-05-21T06:53:21.579935+00:00] TopicWriter Assigning output paths for 5 node(s) under '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b'.
+[2026-05-21T06:53:21.579980+00:00] TopicWriter Assigning output paths for 3 node(s) under '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b'.
+[2026-05-21T06:53:21.580018+00:00] TopicWriter Assigning output paths for 2 node(s) under '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b'.
+[2026-05-21T06:53:21.580061+00:00] TopicWriter Assigned path for topic 'Checking the Nozzles Using the Product Control Panel': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/adjusting_print_quality/checking_the_nozzles_using_the_product_control_panel.dita'.
+[2026-05-21T06:53:21.580102+00:00] TopicWriter Assigned path for topic 'Checking the Nozzles Using a Computer Utility': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/adjusting_print_quality/checking_the_nozzles_using_a_computer_utility.dita'.
+[2026-05-21T06:53:21.580129+00:00] TopicWriter Path assignment complete for 2 node(s).
+[2026-05-21T06:53:21.580169+00:00] TopicWriter Assigned path for topic 'Print Head Nozzle Check': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/adjusting_print_quality/print_head_nozzle_check.dita'.
+[2026-05-21T06:53:21.580211+00:00] TopicWriter Assigning output paths for 2 node(s) under '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b'.
+[2026-05-21T06:53:21.580253+00:00] TopicWriter Assigned path for topic 'Cleaning the Print Head Using the Product Control Panel': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/adjusting_print_quality/cleaning_the_print_head_using_the_product_control_panel.dita'.
+[2026-05-21T06:53:21.580294+00:00] TopicWriter Assigned path for topic 'Cleaning the Print Head Using a Computer Utility': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/adjusting_print_quality/cleaning_the_print_head_using_a_computer_utility.dita'.
+[2026-05-21T06:53:21.580321+00:00] TopicWriter Path assignment complete for 2 node(s).
+[2026-05-21T06:53:21.580348+00:00] TopicWriter Assigned path for topic 'Print Head Cleaning': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/adjusting_print_quality/print_head_cleaning.dita'.
+[2026-05-21T06:53:21.580384+00:00] TopicWriter Assigning output paths for 2 node(s) under '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b'.
+[2026-05-21T06:53:21.580424+00:00] TopicWriter Assigned path for topic 'Power Cleaning Using the Product Control Panel': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/adjusting_print_quality/power_cleaning_using_the_product_control_panel.dita'.
+[2026-05-21T06:53:21.580464+00:00] TopicWriter Assigned path for topic 'Power Cleaning Using a Computer Utility': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/adjusting_print_quality/power_cleaning_using_a_computer_utility.dita'.
+[2026-05-21T06:53:21.580498+00:00] TopicWriter Path assignment complete for 2 node(s).
+[2026-05-21T06:53:21.580526+00:00] TopicWriter Assigned path for topic 'Power Cleaning': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/adjusting_print_quality/power_cleaning.dita'.
+[2026-05-21T06:53:21.580551+00:00] TopicWriter Path assignment complete for 3 node(s).
+[2026-05-21T06:53:21.580584+00:00] TopicWriter Assigned path for topic 'Print Head Maintenance': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/adjusting_print_quality/print_head_maintenance.dita'.
+[2026-05-21T06:53:21.580621+00:00] TopicWriter Assigning output paths for 1 node(s) under '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b'.
+[2026-05-21T06:53:21.580662+00:00] TopicWriter Assigned path for topic 'Aligning the Print Head Using the Product Control Panel': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/adjusting_print_quality/aligning_the_print_head_using_the_product_control_panel.dita'.
+[2026-05-21T06:53:21.580688+00:00] TopicWriter Path assignment complete for 1 node(s).
+[2026-05-21T06:53:21.580745+00:00] TopicWriter Assigned path for topic 'Print Head Alignment': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/adjusting_print_quality/print_head_alignment.dita'.
+[2026-05-21T06:53:21.580791+00:00] TopicWriter Assigned path for topic 'Cleaning the Paper Guide': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/adjusting_print_quality/cleaning_the_paper_guide.dita'.
+[2026-05-21T06:53:21.580831+00:00] TopicWriter Assigned path for topic 'Cleaning the Print Head Path': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/adjusting_print_quality/cleaning_the_print_head_path.dita'.
+[2026-05-21T06:53:21.580871+00:00] TopicWriter Assigning output paths for 3 node(s) under '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b'.
+[2026-05-21T06:53:21.580912+00:00] TopicWriter Assigned path for topic 'Checking the Number of Sheets on the LCD Screen': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/adjusting_print_quality/checking_the_number_of_sheets_on_the_lcd_screen.dita'.
+[2026-05-21T06:53:21.580951+00:00] TopicWriter Assigned path for topic 'Checking the Sheet Counter - Windows': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/adjusting_print_quality/checking_the_sheet_counter_windows.dita'.
+[2026-05-21T06:53:21.580990+00:00] TopicWriter Assigned path for topic 'Checking the Sheet Counter - Mac': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/adjusting_print_quality/checking_the_sheet_counter_mac.dita'.
+[2026-05-21T06:53:21.581017+00:00] TopicWriter Path assignment complete for 3 node(s).
+[2026-05-21T06:53:21.581043+00:00] TopicWriter Assigned path for topic 'Checking the Number of Sheets Fed': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/adjusting_print_quality/checking_the_number_of_sheets_fed.dita'.
+[2026-05-21T06:53:21.581068+00:00] TopicWriter Path assignment complete for 5 node(s).
+[2026-05-21T06:53:21.581096+00:00] TopicWriter Assigned path for topic 'Adjusting Print Quality': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/adjusting_print_quality/adjusting_print_quality.dita'.
+[2026-05-21T06:53:21.581203+00:00] TopicWriter Assigning output paths for 3 node(s) under '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b'.
+[2026-05-21T06:53:21.581251+00:00] TopicWriter Assigned path for topic 'Cleaning Your Product': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/cleaning_and_transporting_your_product/cleaning_your_product.dita'.
+[2026-05-21T06:53:21.581292+00:00] TopicWriter Assigned path for topic 'Transporting Your Product': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/cleaning_and_transporting_your_product/transporting_your_product.dita'.
+[2026-05-21T06:53:21.581331+00:00] TopicWriter Assigned path for topic 'Copyright Notice': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/cleaning_and_transporting_your_product/copyright_notice.dita'.
+[2026-05-21T06:53:21.581359+00:00] TopicWriter Path assignment complete for 3 node(s).
+[2026-05-21T06:53:21.581386+00:00] TopicWriter Assigned path for topic 'Cleaning and Transporting Your Product': '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/cleaning_and_transporting_your_product/cleaning_and_transporting_your_product.dita'.
+[2026-05-21T06:53:21.581411+00:00] TopicWriter Path assignment complete for 7 node(s).
+[2026-05-21T06:53:21.581454+00:00] TopicWriter Walking topic tree and writing DITA files.
+[2026-05-21T06:53:21.581484+00:00] TopicWriter Writing topic 'Product Basics' to .dita file.
+[2026-05-21T06:53:21.581518+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.581830+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.581921+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.582161+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/product_basics/product_basics.dita' written successfully.
+[2026-05-21T06:53:21.582200+00:00] TopicWriter Writing topic 'Product Parts Locations' to .dita file.
+[2026-05-21T06:53:21.582226+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.582364+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.582419+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.582601+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/product_basics/product_parts_locations.dita' written successfully.
+[2026-05-21T06:53:21.582637+00:00] TopicWriter Writing topic 'Product Parts – Front' to .dita file.
+[2026-05-21T06:53:21.582664+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.583017+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.583129+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.583169+00:00] topic_structure Running convert_ol_to_steps on DITA body.
+[2026-05-21T06:53:21.583537+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.583626+00:00] topic_structure <steps> block built with 5 step(s).
+[2026-05-21T06:53:21.583662+00:00] topic_structure convert_ol_to_steps completed.
+[2026-05-21T06:53:21.583690+00:00] topic_structure Partitioning task body into context/steps/result.
+[2026-05-21T06:53:21.585295+00:00] topic_structure Taskbody partitioning complete.
+[2026-05-21T06:53:21.585554+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/product_basics/product_parts_front.dita' written successfully.
+[2026-05-21T06:53:21.585597+00:00] TopicWriter Writing topic 'Product Parts - Inside' to .dita file.
+[2026-05-21T06:53:21.585626+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.586136+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.586287+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.586344+00:00] topic_structure Running convert_ol_to_steps on DITA body.
+[2026-05-21T06:53:21.586877+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.586972+00:00] topic_structure <steps> block built with 4 step(s).
+[2026-05-21T06:53:21.587043+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.587106+00:00] topic_structure <steps> block built with 4 step(s).
+[2026-05-21T06:53:21.587138+00:00] topic_structure convert_ol_to_steps completed.
+[2026-05-21T06:53:21.587166+00:00] topic_structure Partitioning task body into context/steps/result.
+[2026-05-21T06:53:21.589231+00:00] topic_structure Taskbody partitioning complete.
+[2026-05-21T06:53:21.589462+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/product_basics/product_parts_inside.dita' written successfully.
+[2026-05-21T06:53:21.589507+00:00] TopicWriter Writing topic 'Product Parts - Back' to .dita file.
+[2026-05-21T06:53:21.589540+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.589916+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.590039+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.590079+00:00] topic_structure Running convert_ol_to_steps on DITA body.
+[2026-05-21T06:53:21.591330+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.591482+00:00] topic_structure <steps> block built with 3 step(s).
+[2026-05-21T06:53:21.591521+00:00] topic_structure convert_ol_to_steps completed.
+[2026-05-21T06:53:21.591558+00:00] topic_structure Partitioning task body into context/steps/result.
+[2026-05-21T06:53:21.592747+00:00] topic_structure Taskbody partitioning complete.
+[2026-05-21T06:53:21.593004+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/product_basics/product_parts_back.dita' written successfully.
+[2026-05-21T06:53:21.593048+00:00] TopicWriter Writing topic 'Using the Control Panel' to .dita file.
+[2026-05-21T06:53:21.593076+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.593773+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.593982+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.594037+00:00] topic_structure Running convert_ol_to_steps on DITA body.
+[2026-05-21T06:53:21.594876+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.595143+00:00] topic_structure <steps> block built with 9 step(s).
+[2026-05-21T06:53:21.595186+00:00] topic_structure convert_ol_to_steps completed.
+[2026-05-21T06:53:21.595217+00:00] topic_structure Partitioning task body into context/steps/result.
+[2026-05-21T06:53:21.599159+00:00] topic_structure Taskbody partitioning complete.
+[2026-05-21T06:53:21.599466+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/product_basics/using_the_control_panel.dita' written successfully.
+[2026-05-21T06:53:21.599511+00:00] TopicWriter Writing topic 'The LCD Screen' to .dita file.
+[2026-05-21T06:53:21.599541+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.599837+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.599941+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.599980+00:00] topic_structure Running convert_ol_to_steps on DITA body.
+[2026-05-21T06:53:21.600300+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.600384+00:00] topic_structure <steps> block built with 4 step(s).
+[2026-05-21T06:53:21.600420+00:00] topic_structure convert_ol_to_steps completed.
+[2026-05-21T06:53:21.600447+00:00] topic_structure Partitioning task body into context/steps/result.
+[2026-05-21T06:53:21.601680+00:00] topic_structure Taskbody partitioning complete.
+[2026-05-21T06:53:21.601997+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/product_basics/the_lcd_screen.dita' written successfully.
+[2026-05-21T06:53:21.602042+00:00] TopicWriter Writing topic 'Status Icon Information' to .dita file.
+[2026-05-21T06:53:21.602071+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.602793+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.603300+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.603372+00:00] topic_structure Ensuring <refbody> content is correctly wrapped in a <section> element.
+[2026-05-21T06:53:21.604538+00:00] topic_structure Wrapped <refbody> content in a single <section>.
+[2026-05-21T06:53:21.604753+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/product_basics/status_icon_information.dita' written successfully.
+[2026-05-21T06:53:21.604798+00:00] TopicWriter Writing topic 'Entering Characters on the LCD Screen' to .dita file.
+[2026-05-21T06:53:21.604828+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.605451+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.605608+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.605850+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/product_basics/entering_characters_on_the_lcd_screen.dita' written successfully.
+[2026-05-21T06:53:21.605896+00:00] TopicWriter Writing topic 'Changing LCD Screen Language' to .dita file.
+[2026-05-21T06:53:21.605925+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.606522+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.606658+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.606698+00:00] topic_structure Running convert_ol_to_steps on DITA body.
+[2026-05-21T06:53:21.607277+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.607560+00:00] topic_structure <steps> block built with 4 step(s).
+[2026-05-21T06:53:21.607600+00:00] topic_structure convert_ol_to_steps completed.
+[2026-05-21T06:53:21.607630+00:00] topic_structure Partitioning task body into context/steps/result.
+[2026-05-21T06:53:21.610147+00:00] topic_structure Taskbody partitioning complete.
+[2026-05-21T06:53:21.610376+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/product_basics/changing_lcd_screen_language.dita' written successfully.
+[2026-05-21T06:53:21.610418+00:00] TopicWriter Writing topic 'Viewing Animations' to .dita file.
+[2026-05-21T06:53:21.610446+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.610898+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.611023+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.611063+00:00] topic_structure Running convert_ol_to_steps on DITA body.
+[2026-05-21T06:53:21.611463+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.611668+00:00] topic_structure <steps> block built with 3 step(s).
+[2026-05-21T06:53:21.611722+00:00] topic_structure convert_ol_to_steps completed.
+[2026-05-21T06:53:21.611757+00:00] topic_structure Partitioning task body into context/steps/result.
+[2026-05-21T06:53:21.613380+00:00] topic_structure Taskbody partitioning complete.
+[2026-05-21T06:53:21.613591+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/product_basics/viewing_animations.dita' written successfully.
+[2026-05-21T06:53:21.613632+00:00] TopicWriter Writing topic 'Using Power Saving Settings' to .dita file.
+[2026-05-21T06:53:21.613682+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.613878+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.613947+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.614144+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/product_basics/using_power_saving_settings.dita' written successfully.
+[2026-05-21T06:53:21.614181+00:00] TopicWriter Writing topic 'Changing the Sleep Timer Setting from the Control Panel' to .dita file.
+[2026-05-21T06:53:21.614208+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.614832+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.614993+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.615037+00:00] topic_structure Running convert_ol_to_steps on DITA body.
+[2026-05-21T06:53:21.615843+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.616172+00:00] topic_structure <steps> block built with 4 step(s).
+[2026-05-21T06:53:21.616214+00:00] topic_structure convert_ol_to_steps completed.
+[2026-05-21T06:53:21.616243+00:00] topic_structure Partitioning task body into context/steps/result.
+[2026-05-21T06:53:21.618729+00:00] topic_structure Taskbody partitioning complete.
+[2026-05-21T06:53:21.618967+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/product_basics/changing_the_sleep_timer_setting_from_the_control_panel.dita' written successfully.
+[2026-05-21T06:53:21.619010+00:00] TopicWriter Writing topic 'Changing the Power Off Timer Setting from the Control Panel' to .dita file.
+[2026-05-21T06:53:21.619039+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.619739+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.619898+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.619949+00:00] topic_structure Running convert_ol_to_steps on DITA body.
+[2026-05-21T06:53:21.620557+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.620911+00:00] topic_structure <steps> block built with 4 step(s).
+[2026-05-21T06:53:21.620959+00:00] topic_structure convert_ol_to_steps completed.
+[2026-05-21T06:53:21.620989+00:00] topic_structure Partitioning task body into context/steps/result.
+[2026-05-21T06:53:21.623727+00:00] topic_structure Taskbody partitioning complete.
+[2026-05-21T06:53:21.623967+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/product_basics/changing_the_power_off_timer_setting_from_the_control_panel.dita' written successfully.
+[2026-05-21T06:53:21.624010+00:00] TopicWriter Writing topic 'Loading Paper' to .dita file.
+[2026-05-21T06:53:21.624038+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.624168+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.624225+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.624416+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/loading_paper/loading_paper.dita' written successfully.
+[2026-05-21T06:53:21.624452+00:00] TopicWriter Writing topic 'Loading Paper in the Rear Paper Feeder' to .dita file.
+[2026-05-21T06:53:21.624482+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.626864+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.627549+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.627613+00:00] topic_structure Running convert_ol_to_steps on DITA body.
+[2026-05-21T06:53:21.629488+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.629585+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.629659+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.629754+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.629833+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.629892+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.629973+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.630027+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.630265+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.630322+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.630379+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.630432+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.630507+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.630603+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.630675+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.630758+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.631003+00:00] topic_structure convert_ol_to_steps completed.
+[2026-05-21T06:53:21.631041+00:00] topic_structure Partitioning task body into context/steps/result.
+[2026-05-21T06:53:21.636572+00:00] topic_structure Taskbody partitioning complete.
+[2026-05-21T06:53:21.636980+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/loading_paper/loading_paper_in_the_rear_paper_feeder.dita' written successfully.
+[2026-05-21T06:53:21.637030+00:00] TopicWriter Writing topic 'Paper Loading Capacity' to .dita file.
+[2026-05-21T06:53:21.637061+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.638253+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.638851+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.638974+00:00] topic_structure Ensuring <refbody> content is correctly wrapped in a <section> element.
+[2026-05-21T06:53:21.640755+00:00] topic_structure Wrapped <refbody> content in a single <section>.
+[2026-05-21T06:53:21.641024+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/loading_paper/paper_loading_capacity.dita' written successfully.
+[2026-05-21T06:53:21.641069+00:00] TopicWriter Writing topic 'Double-sided Printing Capacity' to .dita file.
+[2026-05-21T06:53:21.641101+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.643896+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.645059+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.645512+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/loading_paper/double_sided_printing_capacity.dita' written successfully.
+[2026-05-21T06:53:21.645561+00:00] TopicWriter Writing topic 'Borderless Paper Type Compatibility' to .dita file.
+[2026-05-21T06:53:21.645591+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.646605+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.646868+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.647131+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/loading_paper/borderless_paper_type_compatibility.dita' written successfully.
+[2026-05-21T06:53:21.647172+00:00] TopicWriter Writing topic 'Compatible MetR Papers' to .dita file.
+[2026-05-21T06:53:21.647203+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.652887+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.655197+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.655517+00:00] topic_structure Ensuring <refbody> content is correctly wrapped in a <section> element.
+[2026-05-21T06:53:21.661628+00:00] topic_structure Wrapped <refbody> content in a single <section>.
+[2026-05-21T06:53:21.662054+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/loading_paper/compatible_metr_papers.dita' written successfully.
+[2026-05-21T06:53:21.662106+00:00] TopicWriter Writing topic 'Selecting the Paper Settings - Control Panel' to .dita file.
+[2026-05-21T06:53:21.662138+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.663465+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.663740+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.663801+00:00] topic_structure Running convert_ol_to_steps on DITA body.
+[2026-05-21T06:53:21.664787+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.665142+00:00] topic_structure <steps> block built with 2 step(s).
+[2026-05-21T06:53:21.665210+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.665413+00:00] topic_structure <steps> block built with 5 step(s).
+[2026-05-21T06:53:21.665450+00:00] topic_structure convert_ol_to_steps completed.
+[2026-05-21T06:53:21.665479+00:00] topic_structure Partitioning task body into context/steps/result.
+[2026-05-21T06:53:21.670122+00:00] topic_structure Taskbody partitioning complete.
+[2026-05-21T06:53:21.670456+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/loading_paper/selecting_the_paper_settings_control_panel.dita' written successfully.
+[2026-05-21T06:53:21.670503+00:00] TopicWriter Writing topic 'Paper or Media Type Settings - Control Panel' to .dita file.
+[2026-05-21T06:53:21.670533+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.671836+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.672497+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.672580+00:00] topic_structure Ensuring <refbody> content is correctly wrapped in a <section> element.
+[2026-05-21T06:53:21.674154+00:00] topic_structure Wrapped <refbody> content in a single <section>.
+[2026-05-21T06:53:21.674392+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/loading_paper/paper_or_media_type_settings_control_panel.dita' written successfully.
+[2026-05-21T06:53:21.674435+00:00] TopicWriter Writing topic 'Paper or Media Type Settings - Printing Software' to .dita file.
+[2026-05-21T06:53:21.674466+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.676450+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.677186+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.677283+00:00] topic_structure Ensuring <refbody> content is correctly wrapped in a <section> element.
+[2026-05-21T06:53:21.679632+00:00] topic_structure Wrapped <refbody> content in a single <section>.
+[2026-05-21T06:53:21.679949+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/loading_paper/paper_or_media_type_settings_printing_software.dita' written successfully.
+[2026-05-21T06:53:21.679998+00:00] TopicWriter Writing topic 'Selecting the Default Paper Source Settings' to .dita file.
+[2026-05-21T06:53:21.680029+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.680971+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.681207+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.681255+00:00] topic_structure Running convert_ol_to_steps on DITA body.
+[2026-05-21T06:53:21.682054+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.682357+00:00] topic_structure <steps> block built with 3 step(s).
+[2026-05-21T06:53:21.682440+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.682606+00:00] topic_structure <steps> block built with 2 step(s).
+[2026-05-21T06:53:21.682642+00:00] topic_structure convert_ol_to_steps completed.
+[2026-05-21T06:53:21.682671+00:00] topic_structure Partitioning task body into context/steps/result.
+[2026-05-21T06:53:21.685835+00:00] topic_structure Taskbody partitioning complete.
+[2026-05-21T06:53:21.686134+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/loading_paper/selecting_the_default_paper_source_settings.dita' written successfully.
+[2026-05-21T06:53:21.686181+00:00] TopicWriter Writing topic 'Paper Source Settings Options' to .dita file.
+[2026-05-21T06:53:21.686211+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.687996+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.688588+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.688675+00:00] topic_structure Ensuring <refbody> content is correctly wrapped in a <section> element.
+[2026-05-21T06:53:21.691015+00:00] topic_structure Wrapped <refbody> content in a single <section>.
+[2026-05-21T06:53:21.691253+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/loading_paper/paper_source_settings_options.dita' written successfully.
+[2026-05-21T06:53:21.691298+00:00] TopicWriter Writing topic 'Placing Originals on the Product' to .dita file.
+[2026-05-21T06:53:21.691327+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.691555+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.691629+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.691878+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/placing_originals_on_the_product/placing_originals_on_the_product.dita' written successfully.
+[2026-05-21T06:53:21.691922+00:00] TopicWriter Writing topic 'Placing Originals on the Scanner Glass' to .dita file.
+[2026-05-21T06:53:21.691952+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.692921+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.693179+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.693272+00:00] topic_structure Running convert_ol_to_steps on DITA body.
+[2026-05-21T06:53:21.694004+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.694140+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.694230+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.694298+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.694416+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.694473+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.694543+00:00] topic_structure convert_ol_to_steps completed.
+[2026-05-21T06:53:21.694574+00:00] topic_structure Partitioning task body into context/steps/result.
+[2026-05-21T06:53:21.696632+00:00] topic_structure Taskbody partitioning complete.
+[2026-05-21T06:53:21.696950+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/placing_originals_on_the_product/placing_originals_on_the_scanner_glass.dita' written successfully.
+[2026-05-21T06:53:21.696998+00:00] TopicWriter Writing topic 'Copying' to .dita file.
+[2026-05-21T06:53:21.697028+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.697248+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.697317+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.697503+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/copying/copying.dita' written successfully.
+[2026-05-21T06:53:21.697540+00:00] TopicWriter Writing topic 'Copying Documents or Photos' to .dita file.
+[2026-05-21T06:53:21.697567+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.698795+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.699106+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.699156+00:00] topic_structure Running convert_ol_to_steps on DITA body.
+[2026-05-21T06:53:21.700247+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.700450+00:00] topic_structure <steps> block built with 4 step(s).
+[2026-05-21T06:53:21.700519+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.700580+00:00] topic_structure <steps> block built with 2 step(s).
+[2026-05-21T06:53:21.700676+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.700790+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.700857+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.700914+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.700972+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.701083+00:00] topic_structure <steps> block built with 2 step(s).
+[2026-05-21T06:53:21.701139+00:00] topic_structure convert_ol_to_steps completed.
+[2026-05-21T06:53:21.701170+00:00] topic_structure Partitioning task body into context/steps/result.
+[2026-05-21T06:53:21.705544+00:00] topic_structure Taskbody partitioning complete.
+[2026-05-21T06:53:21.705934+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/copying/copying_documents_or_photos.dita' written successfully.
+[2026-05-21T06:53:21.705985+00:00] TopicWriter Writing topic 'Copying Options' to .dita file.
+[2026-05-21T06:53:21.706017+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.710103+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.711487+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.711637+00:00] topic_structure Ensuring <refbody> content is correctly wrapped in a <section> element.
+[2026-05-21T06:53:21.716489+00:00] topic_structure Wrapped <refbody> content in a single <section>.
+[2026-05-21T06:53:21.716823+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/copying/copying_options.dita' written successfully.
+[2026-05-21T06:53:21.716876+00:00] TopicWriter Writing topic 'Refilling Ink' to .dita file.
+[2026-05-21T06:53:21.716907+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.717180+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.717269+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.717474+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/refilling_ink/refilling_ink.dita' written successfully.
+[2026-05-21T06:53:21.717512+00:00] TopicWriter Writing topic 'Ink Safety Precautions' to .dita file.
+[2026-05-21T06:53:21.717545+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.719355+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.719735+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.720116+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/refilling_ink/ink_safety_precautions.dita' written successfully.
+[2026-05-21T06:53:21.720159+00:00] TopicWriter Writing topic 'Check Ink Levels' to .dita file.
+[2026-05-21T06:53:21.720188+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.720323+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.720378+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.720562+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/refilling_ink/check_ink_levels.dita' written successfully.
+[2026-05-21T06:53:21.720598+00:00] TopicWriter Writing topic 'Checking Ink Levels on Your Product' to .dita file.
+[2026-05-21T06:53:21.720626+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.720963+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.721070+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.721142+00:00] topic_structure Partitioning task body into context/steps/result.
+[2026-05-21T06:53:21.721597+00:00] topic_structure No <steps> found — wrapping task body in <steps-informal>.
+[2026-05-21T06:53:21.721891+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/refilling_ink/checking_ink_levels_on_your_product.dita' written successfully.
+[2026-05-21T06:53:21.721938+00:00] TopicWriter Writing topic 'Checking Ink Levels - Windows' to .dita file.
+[2026-05-21T06:53:21.721968+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.722416+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.722555+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.722596+00:00] topic_structure Running convert_ol_to_steps on DITA body.
+[2026-05-21T06:53:21.723104+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.723252+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.723326+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.723386+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.723445+00:00] topic_structure convert_ol_to_steps completed.
+[2026-05-21T06:53:21.723476+00:00] topic_structure Partitioning task body into context/steps/result.
+[2026-05-21T06:53:21.725200+00:00] topic_structure Taskbody partitioning complete.
+[2026-05-21T06:53:21.725432+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/refilling_ink/checking_ink_levels_windows.dita' written successfully.
+[2026-05-21T06:53:21.725475+00:00] TopicWriter Writing topic 'Checking Ink Levels - Mac' to .dita file.
+[2026-05-21T06:53:21.725504+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.726787+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.727065+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.727120+00:00] topic_structure Running convert_ol_to_steps on DITA body.
+[2026-05-21T06:53:21.728066+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.728639+00:00] topic_structure <steps> block built with 2 step(s).
+[2026-05-21T06:53:21.728727+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.728798+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.728878+00:00] topic_structure convert_ol_to_steps completed.
+[2026-05-21T06:53:21.728909+00:00] topic_structure Partitioning task body into context/steps/result.
+[2026-05-21T06:53:21.732502+00:00] topic_structure Taskbody partitioning complete.
+[2026-05-21T06:53:21.732805+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/refilling_ink/checking_ink_levels_mac.dita' written successfully.
+[2026-05-21T06:53:21.732857+00:00] TopicWriter Writing topic 'Disabling Special Offers with Windows' to .dita file.
+[2026-05-21T06:53:21.732888+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.733465+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.733636+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.733679+00:00] topic_structure Running convert_ol_to_steps on DITA body.
+[2026-05-21T06:53:21.734293+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.734469+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.734549+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.734702+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.734758+00:00] topic_structure convert_ol_to_steps completed.
+[2026-05-21T06:53:21.734788+00:00] topic_structure Partitioning task body into context/steps/result.
+[2026-05-21T06:53:21.737894+00:00] topic_structure Taskbody partitioning complete.
+[2026-05-21T06:53:21.738166+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/refilling_ink/disabling_special_offers_with_windows.dita' written successfully.
+[2026-05-21T06:53:21.738211+00:00] TopicWriter Writing topic 'Purchase MetR Ink' to .dita file.
+[2026-05-21T06:53:21.738240+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.738577+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.738681+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.738913+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/refilling_ink/purchase_metr_ink.dita' written successfully.
+[2026-05-21T06:53:21.738954+00:00] TopicWriter Writing topic 'Ink Bottle Part Numbers' to .dita file.
+[2026-05-21T06:53:21.738982+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.739627+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.739972+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.740032+00:00] topic_structure Ensuring <refbody> content is correctly wrapped in a <section> element.
+[2026-05-21T06:53:21.740989+00:00] topic_structure Wrapped <refbody> content in a single <section>.
+[2026-05-21T06:53:21.741189+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/refilling_ink/ink_bottle_part_numbers.dita' written successfully.
+[2026-05-21T06:53:21.741229+00:00] TopicWriter Writing topic 'Refilling the Ink Tanks' to .dita file.
+[2026-05-21T06:53:21.741260+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.743500+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.743983+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.744048+00:00] topic_structure Running convert_ol_to_steps on DITA body.
+[2026-05-21T06:53:21.745834+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.745955+00:00] topic_structure <steps> block built with 3 step(s).
+[2026-05-21T06:53:21.746027+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.746085+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.746145+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.746200+00:00] topic_structure <steps> block built with 2 step(s).
+[2026-05-21T06:53:21.746278+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.746332+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.746426+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.746479+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.746534+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.746585+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.746662+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.746729+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.746814+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.746871+00:00] topic_structure <steps> block built with 3 step(s).
+[2026-05-21T06:53:21.746948+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.747143+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.747194+00:00] topic_structure convert_ol_to_steps completed.
+[2026-05-21T06:53:21.747228+00:00] topic_structure Partitioning task body into context/steps/result.
+[2026-05-21T06:53:21.753216+00:00] topic_structure Taskbody partitioning complete.
+[2026-05-21T06:53:21.753620+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/refilling_ink/refilling_the_ink_tanks.dita' written successfully.
+[2026-05-21T06:53:21.753668+00:00] TopicWriter Writing topic 'Adjusting Print Quality' to .dita file.
+[2026-05-21T06:53:21.753792+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.754001+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.754081+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.754291+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/adjusting_print_quality/adjusting_print_quality.dita' written successfully.
+[2026-05-21T06:53:21.754330+00:00] TopicWriter Writing topic 'Print Head Maintenance' to .dita file.
+[2026-05-21T06:53:21.754358+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.754650+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.754764+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.754996+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/adjusting_print_quality/print_head_maintenance.dita' written successfully.
+[2026-05-21T06:53:21.755034+00:00] TopicWriter Writing topic 'Print Head Nozzle Check' to .dita file.
+[2026-05-21T06:53:21.755061+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.755191+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.755245+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.755391+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/adjusting_print_quality/print_head_nozzle_check.dita' written successfully.
+[2026-05-21T06:53:21.755425+00:00] TopicWriter Writing topic 'Checking the Nozzles Using the Product Control Panel' to .dita file.
+[2026-05-21T06:53:21.755453+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.757435+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.757935+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.758037+00:00] topic_structure Running convert_ol_to_steps on DITA body.
+[2026-05-21T06:53:21.759512+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.759789+00:00] topic_structure <steps> block built with 6 step(s).
+[2026-05-21T06:53:21.760044+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.760114+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.760299+00:00] topic_structure convert_ol_to_steps completed.
+[2026-05-21T06:53:21.760333+00:00] topic_structure Partitioning task body into context/steps/result.
+[2026-05-21T06:53:21.764840+00:00] topic_structure Taskbody partitioning complete.
+[2026-05-21T06:53:21.765153+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/adjusting_print_quality/checking_the_nozzles_using_the_product_control_panel.dita' written successfully.
+[2026-05-21T06:53:21.765199+00:00] TopicWriter Writing topic 'Checking the Nozzles Using a Computer Utility' to .dita file.
+[2026-05-21T06:53:21.765231+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.767849+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.768366+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.768459+00:00] topic_structure Running convert_ol_to_steps on DITA body.
+[2026-05-21T06:53:21.770502+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.770613+00:00] topic_structure <steps> block built with 3 step(s).
+[2026-05-21T06:53:21.770930+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.771126+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.771190+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.771283+00:00] topic_structure <steps> block built with 2 step(s).
+[2026-05-21T06:53:21.771520+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.771598+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.771735+00:00] topic_structure convert_ol_to_steps completed.
+[2026-05-21T06:53:21.771774+00:00] topic_structure Partitioning task body into context/steps/result.
+[2026-05-21T06:53:21.777054+00:00] topic_structure Taskbody partitioning complete.
+[2026-05-21T06:53:21.777384+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/adjusting_print_quality/checking_the_nozzles_using_a_computer_utility.dita' written successfully.
+[2026-05-21T06:53:21.777431+00:00] TopicWriter Writing topic 'Print Head Cleaning' to .dita file.
+[2026-05-21T06:53:21.777461+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.777685+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.777812+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.777998+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/adjusting_print_quality/print_head_cleaning.dita' written successfully.
+[2026-05-21T06:53:21.778038+00:00] TopicWriter Writing topic 'Cleaning the Print Head Using the Product Control Panel' to .dita file.
+[2026-05-21T06:53:21.778067+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.780257+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.780743+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.780842+00:00] topic_structure Running convert_ol_to_steps on DITA body.
+[2026-05-21T06:53:21.782549+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.782816+00:00] topic_structure <steps> block built with 4 step(s).
+[2026-05-21T06:53:21.782893+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.782981+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.783073+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.783130+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.783377+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.783436+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.783607+00:00] topic_structure convert_ol_to_steps completed.
+[2026-05-21T06:53:21.783639+00:00] topic_structure Partitioning task body into context/steps/result.
+[2026-05-21T06:53:21.788554+00:00] topic_structure Taskbody partitioning complete.
+[2026-05-21T06:53:21.788903+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/adjusting_print_quality/cleaning_the_print_head_using_the_product_control_panel.dita' written successfully.
+[2026-05-21T06:53:21.788953+00:00] TopicWriter Writing topic 'Cleaning the Print Head Using a Computer Utility' to .dita file.
+[2026-05-21T06:53:21.788986+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.791732+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.792302+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.792406+00:00] topic_structure Running convert_ol_to_steps on DITA body.
+[2026-05-21T06:53:21.794645+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.794788+00:00] topic_structure <steps> block built with 3 step(s).
+[2026-05-21T06:53:21.795099+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.795267+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.795344+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.795437+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.795527+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.795675+00:00] topic_structure <steps> block built with 2 step(s).
+[2026-05-21T06:53:21.795994+00:00] topic_structure convert_ol_to_steps completed.
+[2026-05-21T06:53:21.796036+00:00] topic_structure Partitioning task body into context/steps/result.
+[2026-05-21T06:53:21.801563+00:00] topic_structure Taskbody partitioning complete.
+[2026-05-21T06:53:21.801964+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/adjusting_print_quality/cleaning_the_print_head_using_a_computer_utility.dita' written successfully.
+[2026-05-21T06:53:21.802016+00:00] TopicWriter Writing topic 'Power Cleaning' to .dita file.
+[2026-05-21T06:53:21.802048+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.802368+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.802467+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.802638+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/adjusting_print_quality/power_cleaning.dita' written successfully.
+[2026-05-21T06:53:21.802675+00:00] TopicWriter Writing topic 'Power Cleaning Using the Product Control Panel' to .dita file.
+[2026-05-21T06:53:21.802703+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.803486+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.803676+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.803739+00:00] topic_structure Running convert_ol_to_steps on DITA body.
+[2026-05-21T06:53:21.804546+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.804643+00:00] topic_structure <steps> block built with 2 step(s).
+[2026-05-21T06:53:21.804726+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.804925+00:00] topic_structure <steps> block built with 4 step(s).
+[2026-05-21T06:53:21.804997+00:00] topic_structure convert_ol_to_steps completed.
+[2026-05-21T06:53:21.805028+00:00] topic_structure Partitioning task body into context/steps/result.
+[2026-05-21T06:53:21.807395+00:00] topic_structure Taskbody partitioning complete.
+[2026-05-21T06:53:21.807663+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/adjusting_print_quality/power_cleaning_using_the_product_control_panel.dita' written successfully.
+[2026-05-21T06:53:21.807744+00:00] TopicWriter Writing topic 'Power Cleaning Using a Computer Utility' to .dita file.
+[2026-05-21T06:53:21.807792+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.809204+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.809511+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.809563+00:00] topic_structure Running convert_ol_to_steps on DITA body.
+[2026-05-21T06:53:21.813491+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.813624+00:00] topic_structure <steps> block built with 3 step(s).
+[2026-05-21T06:53:21.814089+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.814248+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.814316+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.814379+00:00] topic_structure <steps> block built with 2 step(s).
+[2026-05-21T06:53:21.814434+00:00] topic_structure convert_ol_to_steps completed.
+[2026-05-21T06:53:21.814465+00:00] topic_structure Partitioning task body into context/steps/result.
+[2026-05-21T06:53:21.818157+00:00] topic_structure Taskbody partitioning complete.
+[2026-05-21T06:53:21.818458+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/adjusting_print_quality/power_cleaning_using_a_computer_utility.dita' written successfully.
+[2026-05-21T06:53:21.818505+00:00] TopicWriter Writing topic 'Print Head Alignment' to .dita file.
+[2026-05-21T06:53:21.818535+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.818794+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.818885+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.819093+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/adjusting_print_quality/print_head_alignment.dita' written successfully.
+[2026-05-21T06:53:21.819133+00:00] TopicWriter Writing topic 'Aligning the Print Head Using the Product Control Panel' to .dita file.
+[2026-05-21T06:53:21.819161+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.820842+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.821201+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.821253+00:00] topic_structure Running convert_ol_to_steps on DITA body.
+[2026-05-21T06:53:21.822508+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.822813+00:00] topic_structure <steps> block built with 5 step(s).
+[2026-05-21T06:53:21.822979+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.823073+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.823130+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.823187+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.823318+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.823409+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.823441+00:00] topic_structure convert_ol_to_steps completed.
+[2026-05-21T06:53:21.823470+00:00] topic_structure Partitioning task body into context/steps/result.
+[2026-05-21T06:53:21.827888+00:00] topic_structure Taskbody partitioning complete.
+[2026-05-21T06:53:21.828195+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/adjusting_print_quality/aligning_the_print_head_using_the_product_control_panel.dita' written successfully.
+[2026-05-21T06:53:21.828242+00:00] TopicWriter Writing topic 'Cleaning the Paper Guide' to .dita file.
+[2026-05-21T06:53:21.828273+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.829212+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.829467+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.829538+00:00] topic_structure Running convert_ol_to_steps on DITA body.
+[2026-05-21T06:53:21.830355+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.830596+00:00] topic_structure <steps> block built with 5 step(s).
+[2026-05-21T06:53:21.830667+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.830760+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.830874+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.830934+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.830990+00:00] topic_structure convert_ol_to_steps completed.
+[2026-05-21T06:53:21.831021+00:00] topic_structure Partitioning task body into context/steps/result.
+[2026-05-21T06:53:21.834185+00:00] topic_structure Taskbody partitioning complete.
+[2026-05-21T06:53:21.834498+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/adjusting_print_quality/cleaning_the_paper_guide.dita' written successfully.
+[2026-05-21T06:53:21.834545+00:00] TopicWriter Writing topic 'Cleaning the Print Head Path' to .dita file.
+[2026-05-21T06:53:21.834575+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.835973+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.836331+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.836421+00:00] topic_structure Running convert_ol_to_steps on DITA body.
+[2026-05-21T06:53:21.837638+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.837924+00:00] topic_structure <steps> block built with 5 step(s).
+[2026-05-21T06:53:21.838058+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.838126+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.838188+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.838246+00:00] topic_structure <steps> block built with 2 step(s).
+[2026-05-21T06:53:21.838305+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.838357+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.838435+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.838491+00:00] topic_structure <steps> block built with 3 step(s).
+[2026-05-21T06:53:21.838546+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.838598+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.838627+00:00] topic_structure convert_ol_to_steps completed.
+[2026-05-21T06:53:21.838656+00:00] topic_structure Partitioning task body into context/steps/result.
+[2026-05-21T06:53:21.842979+00:00] topic_structure Taskbody partitioning complete.
+[2026-05-21T06:53:21.843352+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/adjusting_print_quality/cleaning_the_print_head_path.dita' written successfully.
+[2026-05-21T06:53:21.843402+00:00] TopicWriter Writing topic 'Checking the Number of Sheets Fed' to .dita file.
+[2026-05-21T06:53:21.843432+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.843654+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.843760+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.843987+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/adjusting_print_quality/checking_the_number_of_sheets_fed.dita' written successfully.
+[2026-05-21T06:53:21.844026+00:00] TopicWriter Writing topic 'Checking the Number of Sheets on the LCD Screen' to .dita file.
+[2026-05-21T06:53:21.844054+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.844466+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.844589+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.844628+00:00] topic_structure Running convert_ol_to_steps on DITA body.
+[2026-05-21T06:53:21.845210+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.845441+00:00] topic_structure <steps> block built with 2 step(s).
+[2026-05-21T06:53:21.845482+00:00] topic_structure convert_ol_to_steps completed.
+[2026-05-21T06:53:21.845512+00:00] topic_structure Partitioning task body into context/steps/result.
+[2026-05-21T06:53:21.847139+00:00] topic_structure Taskbody partitioning complete.
+[2026-05-21T06:53:21.847378+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/adjusting_print_quality/checking_the_number_of_sheets_on_the_lcd_screen.dita' written successfully.
+[2026-05-21T06:53:21.847421+00:00] TopicWriter Writing topic 'Checking the Sheet Counter - Windows' to .dita file.
+[2026-05-21T06:53:21.847451+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.848355+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.848562+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.848607+00:00] topic_structure Running convert_ol_to_steps on DITA body.
+[2026-05-21T06:53:21.849395+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.849805+00:00] topic_structure <steps> block built with 4 step(s).
+[2026-05-21T06:53:21.849909+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.850017+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.850077+00:00] topic_structure convert_ol_to_steps completed.
+[2026-05-21T06:53:21.850108+00:00] topic_structure Partitioning task body into context/steps/result.
+[2026-05-21T06:53:21.853431+00:00] topic_structure Taskbody partitioning complete.
+[2026-05-21T06:53:21.853784+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/adjusting_print_quality/checking_the_sheet_counter_windows.dita' written successfully.
+[2026-05-21T06:53:21.853842+00:00] TopicWriter Writing topic 'Checking the Sheet Counter - Mac' to .dita file.
+[2026-05-21T06:53:21.853874+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.855120+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.855374+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.855423+00:00] topic_structure Running convert_ol_to_steps on DITA body.
+[2026-05-21T06:53:21.856337+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.856946+00:00] topic_structure <steps> block built with 2 step(s).
+[2026-05-21T06:53:21.857037+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.857136+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.857170+00:00] topic_structure convert_ol_to_steps completed.
+[2026-05-21T06:53:21.857198+00:00] topic_structure Partitioning task body into context/steps/result.
+[2026-05-21T06:53:21.860980+00:00] topic_structure Taskbody partitioning complete.
+[2026-05-21T06:53:21.861254+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/adjusting_print_quality/checking_the_sheet_counter_mac.dita' written successfully.
+[2026-05-21T06:53:21.861300+00:00] TopicWriter Writing topic 'Cleaning and Transporting Your Product' to .dita file.
+[2026-05-21T06:53:21.861330+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.861463+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.861523+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.861763+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/cleaning_and_transporting_your_product/cleaning_and_transporting_your_product.dita' written successfully.
+[2026-05-21T06:53:21.861812+00:00] TopicWriter Writing topic 'Cleaning Your Product' to .dita file.
+[2026-05-21T06:53:21.861847+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.862480+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.862652+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.862694+00:00] topic_structure Running convert_ol_to_steps on DITA body.
+[2026-05-21T06:53:21.863435+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.863536+00:00] topic_structure <steps> block built with 6 step(s).
+[2026-05-21T06:53:21.863606+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.863664+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.863754+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.863828+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.863860+00:00] topic_structure convert_ol_to_steps completed.
+[2026-05-21T06:53:21.863888+00:00] topic_structure Partitioning task body into context/steps/result.
+[2026-05-21T06:53:21.866337+00:00] topic_structure Taskbody partitioning complete.
+[2026-05-21T06:53:21.866632+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/cleaning_and_transporting_your_product/cleaning_your_product.dita' written successfully.
+[2026-05-21T06:53:21.866677+00:00] TopicWriter Writing topic 'Transporting Your Product' to .dita file.
+[2026-05-21T06:53:21.866740+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.868203+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.868623+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.868677+00:00] topic_structure Running convert_ol_to_steps on DITA body.
+[2026-05-21T06:53:21.870304+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.870406+00:00] topic_structure <steps> block built with 2 step(s).
+[2026-05-21T06:53:21.870473+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.870536+00:00] topic_structure <steps> block built with 4 step(s).
+[2026-05-21T06:53:21.870598+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.870653+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.870762+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.870841+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.870903+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.870958+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.871034+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.871087+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.871143+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.871194+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.871249+00:00] topic_structure Converting <ol> list to DITA <steps>.
+[2026-05-21T06:53:21.871300+00:00] topic_structure <steps> block built with 1 step(s).
+[2026-05-21T06:53:21.871350+00:00] topic_structure convert_ol_to_steps completed.
+[2026-05-21T06:53:21.871382+00:00] topic_structure Partitioning task body into context/steps/result.
+[2026-05-21T06:53:21.876294+00:00] topic_structure Taskbody partitioning complete.
+[2026-05-21T06:53:21.876648+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/cleaning_and_transporting_your_product/transporting_your_product.dita' written successfully.
+[2026-05-21T06:53:21.876693+00:00] TopicWriter Writing topic 'Copyright Notice' to .dita file.
+[2026-05-21T06:53:21.876759+00:00] topic_structure Converting HTML fragment to DITA body.
+[2026-05-21T06:53:21.876922+00:00] topic_structure No section headings found — rendering flat body.
+[2026-05-21T06:53:21.876986+00:00] topic_structure Flat DITA body rendered successfully.
+[2026-05-21T06:53:21.877220+00:00] TopicWriter Topic '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/cleaning_and_transporting_your_product/copyright_notice.dita' written successfully.
+[2026-05-21T06:53:21.877261+00:00] TopicWriter All 63 topic file(s) written successfully.
+[2026-05-21T06:53:21.879810+00:00] TopicWriter Finished writing .dita files.
+[2026-05-21T06:53:21.882285+00:00] DitaMapBuilder Generating DITAMAP file.
+[2026-05-21T06:53:21.886797+00:00] DitaMapBuilder DITAMAP generation complete.
+[2026-05-21T06:53:21.894597+00:00] DitaPostProcessor Post-processing all generated DITA files.
+[2026-05-21T06:53:21.899282+00:00] DitaPostProcessor Starting EMF->image conversion in '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b/media'.
+[2026-05-21T06:53:21.899600+00:00] DitaPostProcessor No EMF files converted (none found or all failed).
+[2026-05-21T06:53:21.940868+00:00] DitaPostProcessor Post-processing complete.
+[2026-05-21T06:53:21.943347+00:00] PipelineOrchestrator Running concept reclassification pass on topic files.
+[2026-05-21T06:53:21.943865+00:00] PipelineOrchestrator Concept reclassification complete — no files required updating.
+[2026-05-21T06:53:21.943953+00:00] HyperlinkResolver Resolving internal hyperlinks.
+[2026-05-21T06:53:21.946541+00:00] HyperlinkResolver Resolving internal hyperlinks in 63 DITA file(s) under '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b'.
+[2026-05-21T06:53:21.956333+00:00] HyperlinkResolver Hyperlink resolution complete -- no anchor xrefs required updating.
+[2026-05-21T06:53:21.956412+00:00] HyperlinkResolver Hyperlink resolution complete.
+[2026-05-21T06:53:21.959122+00:00] PipelineOrchestrator Running DTD compliance validation on all output files.
+[2026-05-21T06:53:21.961914+00:00] DitaDtdValidator Starting DTD structural compliance check for all output files in '/app/output/ac866663-c73d-49ce-8dbc-bbec336bf95b'.
+[2026-05-21T06:53:21.969726+00:00] DitaDtdValidator [PASS] 'adjusting_print_quality.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.969815+00:00] DitaDtdValidator [PASS] 'aligning_the_print_head_using_the_product_control_panel.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.969848+00:00] DitaDtdValidator [PASS] 'checking_the_nozzles_using_a_computer_utility.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.969874+00:00] DitaDtdValidator [PASS] 'checking_the_nozzles_using_the_product_control_panel.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.969900+00:00] DitaDtdValidator [PASS] 'checking_the_number_of_sheets_fed.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.969925+00:00] DitaDtdValidator [PASS] 'checking_the_number_of_sheets_on_the_lcd_screen.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.969949+00:00] DitaDtdValidator [PASS] 'checking_the_sheet_counter_mac.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.969973+00:00] DitaDtdValidator [PASS] 'checking_the_sheet_counter_windows.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.969998+00:00] DitaDtdValidator [PASS] 'cleaning_the_paper_guide.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970022+00:00] DitaDtdValidator [PASS] 'cleaning_the_print_head_path.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970046+00:00] DitaDtdValidator [PASS] 'cleaning_the_print_head_using_a_computer_utility.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970070+00:00] DitaDtdValidator [PASS] 'cleaning_the_print_head_using_the_product_control_panel.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970093+00:00] DitaDtdValidator [PASS] 'power_cleaning.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970118+00:00] DitaDtdValidator [PASS] 'power_cleaning_using_a_computer_utility.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970154+00:00] DitaDtdValidator [PASS] 'power_cleaning_using_the_product_control_panel.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970179+00:00] DitaDtdValidator [PASS] 'print_head_alignment.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970202+00:00] DitaDtdValidator [PASS] 'print_head_cleaning.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970226+00:00] DitaDtdValidator [PASS] 'print_head_maintenance.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970250+00:00] DitaDtdValidator [PASS] 'print_head_nozzle_check.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970273+00:00] DitaDtdValidator [PASS] 'cleaning_and_transporting_your_product.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970297+00:00] DitaDtdValidator [PASS] 'cleaning_your_product.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970321+00:00] DitaDtdValidator [PASS] 'copyright_notice.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970344+00:00] DitaDtdValidator [PASS] 'transporting_your_product.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970368+00:00] DitaDtdValidator [PASS] 'copying.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970392+00:00] DitaDtdValidator [PASS] 'copying_documents_or_photos.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970416+00:00] DitaDtdValidator [PASS] 'copying_options.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970439+00:00] DitaDtdValidator [PASS] 'borderless_paper_type_compatibility.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970463+00:00] DitaDtdValidator [PASS] 'compatible_metr_papers.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970487+00:00] DitaDtdValidator [PASS] 'double_sided_printing_capacity.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970510+00:00] DitaDtdValidator [PASS] 'loading_paper.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970534+00:00] DitaDtdValidator [PASS] 'loading_paper_in_the_rear_paper_feeder.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970557+00:00] DitaDtdValidator [PASS] 'paper_loading_capacity.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970581+00:00] DitaDtdValidator [PASS] 'paper_or_media_type_settings_control_panel.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970605+00:00] DitaDtdValidator [PASS] 'paper_or_media_type_settings_printing_software.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970628+00:00] DitaDtdValidator [PASS] 'paper_source_settings_options.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970652+00:00] DitaDtdValidator [PASS] 'selecting_the_default_paper_source_settings.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970676+00:00] DitaDtdValidator [PASS] 'selecting_the_paper_settings_control_panel.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970699+00:00] DitaDtdValidator [PASS] 'placing_originals_on_the_product.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970739+00:00] DitaDtdValidator [PASS] 'placing_originals_on_the_scanner_glass.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970763+00:00] DitaDtdValidator [PASS] 'changing_lcd_screen_language.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970787+00:00] DitaDtdValidator [PASS] 'changing_the_power_off_timer_setting_from_the_control_panel.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970811+00:00] DitaDtdValidator [PASS] 'changing_the_sleep_timer_setting_from_the_control_panel.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970838+00:00] DitaDtdValidator [PASS] 'entering_characters_on_the_lcd_screen.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970863+00:00] DitaDtdValidator [PASS] 'product_basics.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970886+00:00] DitaDtdValidator [PASS] 'product_parts_back.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970910+00:00] DitaDtdValidator [PASS] 'product_parts_front.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970933+00:00] DitaDtdValidator [PASS] 'product_parts_inside.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970957+00:00] DitaDtdValidator [PASS] 'product_parts_locations.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.970981+00:00] DitaDtdValidator [PASS] 'status_icon_information.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.971004+00:00] DitaDtdValidator [PASS] 'the_lcd_screen.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.971028+00:00] DitaDtdValidator [PASS] 'using_power_saving_settings.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.971051+00:00] DitaDtdValidator [PASS] 'using_the_control_panel.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.971075+00:00] DitaDtdValidator [PASS] 'viewing_animations.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.971098+00:00] DitaDtdValidator [PASS] 'check_ink_levels.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.971122+00:00] DitaDtdValidator [PASS] 'checking_ink_levels_mac.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.971146+00:00] DitaDtdValidator [PASS] 'checking_ink_levels_on_your_product.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.971170+00:00] DitaDtdValidator [PASS] 'checking_ink_levels_windows.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.971193+00:00] DitaDtdValidator [PASS] 'disabling_special_offers_with_windows.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.971217+00:00] DitaDtdValidator [PASS] 'ink_bottle_part_numbers.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.971241+00:00] DitaDtdValidator [PASS] 'ink_safety_precautions.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.971264+00:00] DitaDtdValidator [PASS] 'purchase_metr_ink.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.971288+00:00] DitaDtdValidator [PASS] 'refilling_ink.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.971311+00:00] DitaDtdValidator [PASS] 'refilling_the_ink_tanks.dita' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.971335+00:00] DitaDtdValidator [PASS] 'adjusting_print_quality_map.ditamap' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.971359+00:00] DitaDtdValidator [PASS] 'cleaning_and_transporting_your_product_map.ditamap' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.971383+00:00] DitaDtdValidator [PASS] 'copying_map.ditamap' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.971406+00:00] DitaDtdValidator [PASS] 'loading_paper_map.ditamap' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.971430+00:00] DitaDtdValidator [PASS] 'placing_originals_on_the_product_map.ditamap' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.971454+00:00] DitaDtdValidator [PASS] 'printer_user_s_guide.ditamap' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.971477+00:00] DitaDtdValidator [PASS] 'product_basics_map.ditamap' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.971501+00:00] DitaDtdValidator [PASS] 'refilling_ink_map.ditamap' - This file is following DTD-compliant structure.
+[2026-05-21T06:53:21.971529+00:00] DitaDtdValidator All 71 output file(s) are following DTD-compliant structure.
+[2026-05-21T06:53:21.973967+00:00] DitaDtdValidator Validation report written: 'Printer User's Guide_report.txt'.
+[2026-05-21T06:53:21.976473+00:00] PipelineOrchestrator Successfully converted 'Printer User's Guide.docx'.
+[2026-05-21T06:53:21.986637+00:00] ConversionService class completed successfully.
+[2026-05-21T06:53:21.992173+00:00] Upload Endpoint Successfully processed 'Printer User's Guide.docx' for user 'ac866663-c73d-49ce-8dbc-bbec336bf95b'.
+[2026-05-21T06:53:21.992272+00:00] Upload Endpoint Processing slot released for user 'ac866663-c73d-49ce-8dbc-bbec336bf95b'.
+[2026-05-21T06:54:02.129478+00:00] Download Endpoint Received download request for user 'ac866663-c73d-49ce-8dbc-bbec336bf95b'.
+[2026-05-21T06:54:02.129611+00:00] DownloadService class is running.

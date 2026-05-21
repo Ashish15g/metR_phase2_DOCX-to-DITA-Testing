@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Cleaning_the_Print_Head_Using_the_Produc" xml:lang="en-us">
+  <title>Cleaning the Print Head Using the Product Control Panel</title>
+  <shortdesc>You can clean the print head nozzles using the control panel on your product.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>cleaning</keyword>
+        <keyword>print</keyword>
+        <keyword>Cleaning</keyword>
+        <keyword>Print</keyword>
+        <keyword>clean</keyword>
+        <keyword>button</keyword>
+        <indexterm>cleaning</indexterm>
+        <indexterm>print</indexterm>
+        <indexterm>Cleaning</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <context>
+      <p>You can clean the print head nozzles using the control panel on your product.</p>
+    </context>
+    <steps id="steps_06532170">
+      <step>
+        <cmd>Make sure there are no errors on the LCD screen and the output tray is extended.</cmd>
+      </step>
+      <step>
+        <cmd>Load a few sheets of plain paper in the product.</cmd>
+      </step>
+      <step>
+        <cmd>Press the  home button, if necessary.</cmd>
+        <info>
+          <fig>
+            <image href="../media/image25.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>Select <b>Maintenance</b>&gt; <b>Head</b>
+          <b>Cleaning</b>.</cmd>
+        <info>
+          <fig>
+            <image href="../media/image67.jpeg"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>Press the  start button to clean the print head. You see a message on the LCD screen during the cleaning cycle.</cmd>
+        <info>
+          <p>The <fig>
+              <image href="../media/image68.png"/>
+            </fig> power light flashes throughout the cleaning cycle and stays on when the cleaning cycle is finished. When the cleaning cycle is finished, you see a message on the screen and a nozzle pattern prints.</p>
+          <note type="caution">Never turn off the product or open the scanner unit during a cleaning cycle or you may not be able to print.</note>
+        </info>
+        <info>
+          <fig>
+            <image href="../media/image12.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>Check the printed pattern to see if there are gaps in the lines.</cmd>
+        <info>
+          <p>
+            <b>Print</b>
+            <b>head</b>
+            <b>is</b>
+            <b>clean</b>
+          </p>
+          <fig>
+            <image href="../media/image63.png"/>
+          </fig>
+          <p>
+            <b>Print</b>
+            <b>head</b>
+            <b>needs</b>
+            <b>cleaning</b>
+          </p>
+          <fig>
+            <image href="../media/image64.png"/>
+          </fig>
+          <p>
+            <b>Print</b>
+            <b>head</b>
+            <b>needs</b>
+            <b>Power</b>
+            <b>Cleaning</b>
+          </p>
+          <fig>
+            <image href="../media/image65.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>Do one of the following:</cmd>
+      </step>
+    </steps>
+    <result>
+      <ul id="ul_06532169">
+        <li>If there are no gaps, the print head is clean. Select <b>No</b>and press the <b>OK</b>button.</li>
+        <li>If there are gaps or the pattern is faint, select <b>Yes</b>and press the <b>OK</b>button. Follow the instructions on the screen to clean the print head.</li>
+        <li>If almost the entire pattern is missing, select <b>No</b>and press the <b>OK</b>button and then run a Power Cleaning.</li>
+      </ul>
+      <p>If you don’t see any improvement after cleaning the print head up to 3 times, turn off the product and wait at least 12 hours. Then run a nozzle check and try cleaning the print head again. If quality still does not improve, run a Power Cleaning.</p>
+    </result>
+  </taskbody>
+</task>

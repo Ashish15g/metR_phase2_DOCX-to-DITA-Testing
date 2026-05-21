@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="cleaning_and_transporting_your_product_map" xml:lang="en-us">
+  <title>Cleaning and Transporting Your Product</title>
+  <topicref href="cleaning_and_transporting_your_product/cleaning_and_transporting_your_product.dita" navtitle="Cleaning and Transporting Your Product" />
+  <topicref href="cleaning_and_transporting_your_product/cleaning_your_product.dita" navtitle="Cleaning Your Product" />
+  <topicref href="cleaning_and_transporting_your_product/transporting_your_product.dita" navtitle="Transporting Your Product" />
+  <topicref href="cleaning_and_transporting_your_product/copyright_notice.dita" navtitle="Copyright Notice" />
+</map>

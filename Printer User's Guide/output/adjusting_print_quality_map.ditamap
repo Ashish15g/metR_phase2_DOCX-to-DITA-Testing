@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="adjusting_print_quality_map" xml:lang="en-us">
+  <title>Adjusting Print Quality</title>
+  <topicref href="adjusting_print_quality/adjusting_print_quality.dita" navtitle="Adjusting Print Quality" />
+  <topicref href="adjusting_print_quality/print_head_maintenance.dita" navtitle="Print Head Maintenance" chunk="to-content">
+    <topicref href="adjusting_print_quality/print_head_nozzle_check.dita" navtitle="Print Head Nozzle Check" chunk="to-content">
+      <topicref href="adjusting_print_quality/checking_the_nozzles_using_the_product_control_panel.dita" navtitle="Checking the Nozzles Using the Product Control Panel" />
+      <topicref href="adjusting_print_quality/checking_the_nozzles_using_a_computer_utility.dita" navtitle="Checking the Nozzles Using a Computer Utility" />
+    </topicref>
+    <topicref href="adjusting_print_quality/print_head_cleaning.dita" navtitle="Print Head Cleaning" chunk="to-content">
+      <topicref href="adjusting_print_quality/cleaning_the_print_head_using_the_product_control_panel.dita" navtitle="Cleaning the Print Head Using the Product Control Panel" />
+      <topicref href="adjusting_print_quality/cleaning_the_print_head_using_a_computer_utility.dita" navtitle="Cleaning the Print Head Using a Computer Utility" />
+    </topicref>
+    <topicref href="adjusting_print_quality/power_cleaning.dita" navtitle="Power Cleaning" chunk="to-content">
+      <topicref href="adjusting_print_quality/power_cleaning_using_the_product_control_panel.dita" navtitle="Power Cleaning Using the Product Control Panel" />
+      <topicref href="adjusting_print_quality/power_cleaning_using_a_computer_utility.dita" navtitle="Power Cleaning Using a Computer Utility" />
+    </topicref>
+  </topicref>
+  <topicref href="adjusting_print_quality/print_head_alignment.dita" navtitle="Print Head Alignment" chunk="to-content">
+    <topicref href="adjusting_print_quality/aligning_the_print_head_using_the_product_control_panel.dita" navtitle="Aligning the Print Head Using the Product Control Panel" />
+  </topicref>
+  <topicref href="adjusting_print_quality/cleaning_the_paper_guide.dita" navtitle="Cleaning the Paper Guide" />
+  <topicref href="adjusting_print_quality/cleaning_the_print_head_path.dita" navtitle="Cleaning the Print Head Path" />
+  <topicref href="adjusting_print_quality/checking_the_number_of_sheets_fed.dita" navtitle="Checking the Number of Sheets Fed" chunk="to-content">
+    <topicref href="adjusting_print_quality/checking_the_number_of_sheets_on_the_lcd_screen.dita" navtitle="Checking the Number of Sheets on the LCD Screen" />
+    <topicref href="adjusting_print_quality/checking_the_sheet_counter_windows.dita" navtitle="Checking the Sheet Counter - Windows" />
+    <topicref href="adjusting_print_quality/checking_the_sheet_counter_mac.dita" navtitle="Checking the Sheet Counter - Mac" />
+  </topicref>
+</map>

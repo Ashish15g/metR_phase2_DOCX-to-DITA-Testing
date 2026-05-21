@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Entering_Characters_on_the_LCD_Screen" xml:lang="en-us">
+  <title>Entering Characters on the LCD Screen</title>
+  <shortdesc>Follow these guidelines to enter characters for passwords and other settings.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>select</keyword>
+        <keyword>press</keyword>
+        <keyword>Entering</keyword>
+        <keyword>Characters</keyword>
+        <keyword>Screen</keyword>
+        <keyword>characters</keyword>
+        <indexterm>select</indexterm>
+        <indexterm>press</indexterm>
+        <indexterm>Entering</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>  <context>
+    <p>Follow these guidelines to enter characters for passwords and other settings.</p><p>
+      <fig>
+        <image href="../media/image19.jpeg"/>
+      </fig>
+    </p><ul id="ul_06532106">
+      <li>To scroll through the characters, press the arrow buttons.</li>
+      <li>To make a selection, press the <b>OK</b>button.</li>
+      <li>To change the character case or type, select <b>A1#</b>or press the <fig>
+          <image href="../media/image20.png"/>
+        </fig> reset button.</li>
+      <li>To move the cursor to the left or right, select <fig>
+          <image href="../media/image21.png"/>
+        </fig> or <fig>
+          <image href="../media/image22.png"/>
+        </fig> .</li>
+      <li>To add a space, select <fig>
+          <image href="../media/image23.png"/>
+        </fig>.</li>
+      <li>To delete the previous character, select <fig>
+          <image href="../media/image24.png"/>
+        </fig>.</li>
+    </ul>
+  </context></taskbody>
+</task>

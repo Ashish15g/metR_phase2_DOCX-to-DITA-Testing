@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Using_the_Control_Panel" xml:lang="en-us">
+  <title>Using the Control Panel</title>
+  <shortdesc>See these sections to learn about the control panel and select control panel settings. Control</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>button</keyword>
+        <keyword>Control</keyword>
+        <keyword>Panel</keyword>
+        <keyword>Using</keyword>
+        <keyword>control</keyword>
+        <keyword>panel</keyword>
+        <indexterm>button</indexterm>
+        <indexterm>Control</indexterm>
+        <indexterm>Panel</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <context>
+      <p>See these sections to learn about the control panel and select control panel settings. Control Panel Buttons and Lights</p>
+      <info>
+        <fig>
+          <image href="../media/image5.png"/>
+        </fig>
+      </info>
+    </context>
+    <steps id="steps_06532104">
+      <step>
+        <cmd>power button and light</cmd>
+        <info>
+          <fig>
+            <image href="../media/image6.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>home button</cmd>
+        <info>
+          <fig>
+            <image href="../media/image7.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>LCD screen</cmd>
+      </step>
+      <step>
+        <cmd>help button</cmd>
+        <info>
+          <fig>
+            <image href="../media/image8.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>stop button</cmd>
+        <info>
+          <fig>
+            <image href="../media/image9.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>back button</cmd>
+        <info>
+          <fig>
+            <image href="../media/image10.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>Arrow buttons and <b>OK</b>button</cmd>
+      </step>
+      <step>
+        <cmd>reset button</cmd>
+        <info>
+          <fig>
+            <image href="../media/image11.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>start button</cmd>
+        <info>
+          <fig>
+            <image href="../media/image12.png"/>
+          </fig>
+        </info>
+      </step>
+    </steps>
+  </taskbody>
+</task>

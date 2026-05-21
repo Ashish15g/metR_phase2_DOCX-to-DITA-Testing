@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="loading_paper_map" xml:lang="en-us">
+  <title>Loading Paper</title>
+  <topicref href="loading_paper/loading_paper.dita" navtitle="Loading Paper" />
+  <topicref href="loading_paper/loading_paper_in_the_rear_paper_feeder.dita" navtitle="Loading Paper in the Rear Paper Feeder" />
+  <topicref href="loading_paper/paper_loading_capacity.dita" navtitle="Paper Loading Capacity" />
+  <topicref href="loading_paper/double_sided_printing_capacity.dita" navtitle="Double-sided Printing Capacity" />
+  <topicref href="loading_paper/borderless_paper_type_compatibility.dita" navtitle="Borderless Paper Type Compatibility" />
+  <topicref href="loading_paper/compatible_metr_papers.dita" navtitle="Compatible MetR Papers" />
+  <topicref href="loading_paper/selecting_the_paper_settings_control_panel.dita" navtitle="Selecting the Paper Settings - Control Panel" chunk="to-content">
+    <topicref href="loading_paper/paper_or_media_type_settings_control_panel.dita" navtitle="Paper or Media Type Settings - Control Panel" />
+  </topicref>
+  <topicref href="loading_paper/paper_or_media_type_settings_printing_software.dita" navtitle="Paper or Media Type Settings - Printing Software" />
+  <topicref href="loading_paper/selecting_the_default_paper_source_settings.dita" navtitle="Selecting the Default Paper Source Settings" chunk="to-content">
+    <topicref href="loading_paper/paper_source_settings_options.dita" navtitle="Paper Source Settings Options" />
+  </topicref>
+</map>

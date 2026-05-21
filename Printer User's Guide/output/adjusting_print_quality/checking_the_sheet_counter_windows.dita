@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Checking_the_Sheet_Counter_-_Windows" xml:lang="en-us">
+  <title>Checking the Sheet Counter - Windows</title>
+  <shortdesc>You can check the number of sheets of paper that have fed through the product</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Windows</keyword>
+        <keyword>click</keyword>
+        <keyword>number</keyword>
+        <keyword>sheets</keyword>
+        <keyword>right</keyword>
+        <keyword>Checking</keyword>
+        <indexterm>Windows</indexterm>
+        <indexterm>click</indexterm>
+        <indexterm>number</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <context>
+      <p>You can check the number of sheets of paper that have fed through the product by checking the sheet counter.</p>
+    </context>
+    <steps id="steps_043639102">
+      <step>
+        <cmd>Access the Windows Desktop and right-click the  icon for your product in the right side of the Windows taskbar, or click the up arrow and right-click .</cmd>
+        <info>
+          <fig>
+            <image href="../media/image48.png"/>
+          </fig>
+          <fig>
+            <image href="../media/image48.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>Select <b>Printer</b>
+          <b>Settings</b>.</cmd>
+      </step>
+      <step>
+        <cmd>Click the <b>Maintenance</b>tab.</cmd>
+      </step>
+      <step>
+        <cmd>Select <b>Printer</b>
+          <b>and</b>
+          <b>Option</b>
+          <b>Information</b>.</cmd>
+        <info>
+          <p>You see this window:</p>
+          <fig>
+            <image href="../media/image80.jpeg"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>After checking the number of sheets fed into the printer, click <b>OK</b>to close the window.</cmd>
+      </step>
+    </steps>
+    <result>
+      <note type="note">The number of sheets is displayed only when MetR Status Monitor 3 is enabled.</note>
+    </result>
+  </taskbody>
+</task>
